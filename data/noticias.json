@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T18:47:25.728Z",
+  "actualizado": "2026-11-14T22:50:12.080Z",
   "total": 80,
   "noticias": [
     {
@@ -53,8 +53,17 @@
       "link": "https://www.ecosdelcombeima.com/index.php/tolima/nota-197797-magisterio-del-tolima-advierte-crisis-en-entrega-de-medicamentos-y-confirma-paro",
       "medio": "ECOS INTERACTIVA",
       "fecha": "2026-11-13T00:29:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.i-CToVJQxvfC2nUK5ADWxw&pid=News",
+      "imagen": "",
       "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Gobierno no prorroga contrato con Fiduprevisora y arranca plan de transición en el FOMAG - Ecos del Combeima",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNXZwVnIzV0hGR0VwSFBxUm9qS1Y4aENheUV3M0ltTWdxWmd3TmxodEtpaDNlb0g5TzdVRmdXNkJpLWxXZVh4cDhCQUtnU0VsaVp6b1hyTGFocUdZMHFvZ0VRU19mcEVWd09yazB4OHR1bWMwMGxBMHdjSEs0V0pNcTYtSlZZUVZtYWFRSVYtcXZyV01YTnU5WWFGZm",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNXZwVnIzV0hGR0VwSFBxUm9qS1Y4aENheUV3M0ltTWdxWmd3TmxodEtpaDNlb0g5TzdVRmdXNkJpLWxXZVh4cDhCQUtnU0VsaVp6b1hyTGFocUdZMHFvZ0VRU19mcEVWd09yazB4OHR1bWMwMGxBMHdjSEs0V0pNcTYtSlZZUVZtYWFRSVYtcXZyV01YTnU5WWFGZmtMaHBrMUg1dG9TOGk2MTJmZldxM3IxbWlGVUZjX0w5WXJ2aWRTaHM?oc=5",
+      "medio": "Ecos del Combeima",
+      "fecha": "2026-11-12T21:48:44.000Z",
+      "imagen": "",
+      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "Supersalud pone bajo la lupa la salud de militares y maestros - Opanoticias",
@@ -111,15 +120,6 @@
       "tema": "salud del magisterio"
     },
     {
-      "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica - La FM",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYj",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYjNwaDh40gGgAUFVX3lxTFBZdXpDTkdRLV9hOVVDejVlWTB4eVZEekJ5YTlqRXRHUmVwXzJkUFRzYVN4aWlITTdvVHFrcC1TcVhxNGJKUU9VSUMyYV9hY09ZNzJRTlNFQWV1bmhKNjd5WTI4a2wwekJydmpGMk12QUVKRGxZMXctU1UxWWVpWWlsZTNESm9vLXM5QmMtUXl6b2FCQjgtVFBUMUlDbUVnU3M?oc=5",
-      "medio": "La FM",
-      "fecha": "2026-11-12T17:08:09.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
       "titulo": "Lupa de la Supersalud sobre la atención médica de militares y maestros - Nos Cogió la Noche",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFdXSktpU3AweGJvVVJ0VWprRkt4NXUxVWc5Qkh4X1NlWmVscms0RGVrUEtuX1JtVTdsT2M0cGU3RkJDLUo0aDBkOExSaDRpd2llUldhVmV3NkVsZjctLXgtVTVxbHNhUEdnSUV0bk9oTkc3Z2xQQXNSbXd0M2VBOFUyQmVSY2s0THFVZVNRb08xaURmX0kxNGlaTn",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFdXSktpU3AweGJvVVJ0VWprRkt4NXUxVWc5Qkh4X1NlWmVscms0RGVrUEtuX1JtVTdsT2M0cGU3RkJDLUo0aDBkOExSaDRpd2llUldhVmV3NkVsZjctLXgtVTVxbHNhUEdnSUV0bk9oTkc3Z2xQQXNSbXd0M2VBOFUyQmVSY2s0THFVZVNRb08xaURmX0kxNGlaTnJOQUZO?oc=5",
@@ -171,6 +171,15 @@
       "medio": "Semana",
       "fecha": "2026-11-12T10:02:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.lmuup9U988g5eyPzsC9uLw&pid=News",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica",
+      "resumen": "Las acciones según la Supersalud se reforzará sobre la Dirección General de Sanidad Militar y mantendrá el seguimiento al modelo de atención del Fondo ...",
+      "link": "https://www.lafm.com.co/sociedad/supersalud-eps-sanidad-militar-fomag-fallas-atencion-medica-417009",
+      "medio": "La FM",
+      "fecha": "2026-11-12T00:05:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.hJ8uRzLAKqyKjBWYZ-4bmw&pid=News",
       "tema": "Fomag"
     },
     {
@@ -297,7 +306,7 @@
       "medio": "La FM",
       "fecha": "2026-11-05T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fomag proyecto de ley"
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "Sectores de salud, magisterio y universitario convocan a paro nacional el 16 de noviembre - Correo del Caroní",
@@ -408,6 +417,15 @@
       "tema": "Fomag proyecto de ley"
     },
     {
+      "titulo": "¿Fomag tendría los días contados con el Gobierno de La Espriella? Fecode asegura que nuevo proyecto lo eliminaría",
+      "resumen": "El Fondo Nacional de Prestaciones Sociales del Magisterio en Colombia, más conocido como Fomag, ha enfrentado varios problemas desde hace varios meses, más en concreto desde el Gobierno de Gustavo Pet ...",
+      "link": "https://www.msn.com/es-co/noticias/other/fomag-tendr%C3%ADa-los-d%C3%ADas-contados-con-el-gobierno-de-la-espriella-fecode-asegura-que-nuevo-proyecto-lo-eliminar%C3%ADa/ar-AA2gHcvc",
+      "medio": "Semana on MSN",
+      "fecha": "2026-11-03T14:47:21.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.Jn4jUmKsDFSIqeNFNWBRRA&pid=News",
+      "tema": "Fecode Fomag"
+    },
+    {
       "titulo": "Borrador de reforma al FOMAG: Estas entidades asumirían los servicios de salud, pensiones y cesantías de los profesores",
       "resumen": "Un borrador de proyecto de ley que busca eliminar el Fondo Nacional de Prestaciones Sociales del Magisterio (FOMAG) plantea modificar la administración de los servicios de salud y las prestaciones ...",
       "link": "https://www.elpais.com.co/colombia/borrador-de-reforma-al-fomag-estas-entidades-asumirian-los-servicios-de-salud-pensiones-y-cesantias-de-los-profesores-0356.html",
@@ -498,15 +516,6 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "¿Quien se robo el dinero del Fomag?: Los aliados políticos de Abelardo que administraban la Previsora. El señor Marín y sus amigos. La denuncia fue puesta por nosotros hace años en la procuraduría y en la fiscalía Es mi reforma al fomag, defendida débilm - X",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5\" target=\"_blank\">¿Quien se robo el dinero del Fomag?: Lo",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5",
-      "medio": "X",
-      "fecha": "2026-11-03T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
       "titulo": "Ministerio de Educación negó proyecto para modificar la Ley 91 de 1989 y aseguró continuidad de los servicios del Fomag - Infobae",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbk13OXFOeU1yYjJ2dHhlNWg3dGxBVEQxaDgxUTA4WnkxNzktZkROTlhlZGhJamRMcTRoV0tWQUFaZzU2Qkt5bDBhYmlILTRBb0xTdEhLdTNDal9kSVNBcng5b1NEdjJiT20xb2xfMHJ4RmVfLUsyTHVjNmpKY1phcTJlWHRaV0kyQVh4ZlFJbVBGdnNjNmtISlAwVE",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbk13OXFOeU1yYjJ2dHhlNWg3dGxBVEQxaDgxUTA4WnkxNzktZkROTlhlZGhJamRMcTRoV0tWQUFaZzU2Qkt5bDBhYmlILTRBb0xTdEhLdTNDal9kSVNBcng5b1NEdjJiT20xb2xfMHJ4RmVfLUsyTHVjNmpKY1phcTJlWHRaV0kyQVh4ZlFJbVBGdnNjNmtISlAwVE1QUERWMERtVUtWUzVnRUwzYXlLemZFR1NNM3hXV2tjdlZ4dkR1R0N5TXBxUWdMSWo2dlZFV2kySXVjQ2RyZXV1QV84ZnVvNWFiSXNrdnVYUG9SSE9LWFBCZVFV0gGSAkFVX3lxTE9KR2hMOWl1VXAyZkdZMUlEYWVfZENQRHpvSGxUYVlRNTMwZ0J6bGZ3V3ZyUmVrMWlCeU9Ub1o1ekJPUE12amo0UzJ3UGdfSmhsX1ZWNWswRUo2S1QzN0UzcG9MelVRZFBmaG5HM180b2lWME9XcHI0NGVLVVZCMUZ4OVNzMVpBdTVjTjNKZ2Fkbl82eGF1SlQ3Sl9yakFZa09Mdmd5LXRKYkF4bnFUOUtjSXl6bi1zY0FYM1NyRnVlU3d4M1dmWmRxWTdhMUF0eFJ1azhzQTBOdEx0MkJHVnVNMUliSk0xXzBvRmVXRkdoSGNQb1ZwVmhod2FIR1l5cWJxM0tTanJFc3NROENzWE4yUkE?oc=5",
@@ -561,13 +570,13 @@
       "tema": "Fomag proyecto de ley"
     },
     {
-      "titulo": "¿Fomag tendría los días contados con el Gobierno De La Espriella? Fecode asegura que nuevo proyecto lo eliminaría - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXNFZ3ZWTnExQU11Y2diVmx6NlY3V3lvbElReXRKMzhsbXZmM2dHRmFIMXd0UTVONjNDb3pqdlg1NGJsNVp5Z2hkUVNfTjU1bzdIaV9JMU93NTJqXzBDMmRla3J6R2FiclpoRWgzWWxmbnFOVXYtUEtid1U4YXpjc1ZBQmpEVlVaYXhQMkpGdlRxcmY1MWcwRjBSSV",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXNFZ3ZWTnExQU11Y2diVmx6NlY3V3lvbElReXRKMzhsbXZmM2dHRmFIMXd0UTVONjNDb3pqdlg1NGJsNVp5Z2hkUVNfTjU1bzdIaV9JMU93NTJqXzBDMmRla3J6R2FiclpoRWgzWWxmbnFOVXYtUEtid1U4YXpjc1ZBQmpEVlVaYXhQMkpGdlRxcmY1MWcwRjBSSVgtdUFGQzNscjN0eUt2QWx2RF9kOWQ1R3ZXb1NzdkNkdnRqY1RQTk5Kei0yZmNvYVMwNExHTzNQMzlRcTFKZHBXUUpRSWFlN2ptTlU1b0dlb2s3aG5SZ9IB9wFBVV95cUxNQ0pHQWdfSFUzTUcxanNWUXprVE1OQXAxeGVMLTVMUUdXT2RONmdNWGNHUVY1R29jdy05eHJUV2dwVG1KcXFvRTV3RWVxSjZLamloLWRGWWV1UzN5WDhONjdlRi1RWks1TWEwUnNQcUF0VlBPRTVWSEZ3c1piY2pFQ05HbEM4Nms0WjVtanBHMTZ1ZkxCZWh0M3ZUOEtVc3hRR3BoZ2VzTml1WHRYYTcwNFQxeFE2QVRBQUtuWklnUDVJYXBfNWQ5VmR6UWE2WTVaOE96R3hUYjZGYWw1Z19OUTVxTW9UTTFjZEExRzZ3Y19fRnZmOXB3?oc=5",
-      "medio": "Revista Semana",
+      "titulo": "¿Quien se robo el dinero del Fomag?: Los aliados políticos de Abelardo que administraban la Previsora. El señor Marín y sus amigos. La denuncia fue puesta por nosotros hace años en la procuraduría y en la fiscalía Es mi reforma al fomag, defendida débilm - X",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5\" target=\"_blank\">¿Quien se robo el dinero del Fomag?: Lo",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5",
+      "medio": "X",
       "fecha": "2026-11-03T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fecode Fomag"
+      "tema": "Fomag"
     },
     {
       "titulo": "Fomag, en la cuerda floja: el cambio que pondría la salud de los maestros en otras manos",
@@ -691,15 +700,6 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTHk0dkt1NjBKZkhnbUlBa0ZSMVlObWFPZGxCNV9NVGdJNENydjJMU3VsVHBYdVZITHFvYlhoNUlxSmFaZ2sxamVDVkp0UllOYjVmVHUtYjYzR0VUeDFwcE5IQUdEbm1sSDZmQU0zV29QcS1BMUltWmt4azVIVFFxQ3E4ZkNwR3hkM3hPVGhxQXRWZ3l4cGNtTVkwZk",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTHk0dkt1NjBKZkhnbUlBa0ZSMVlObWFPZGxCNV9NVGdJNENydjJMU3VsVHBYdVZITHFvYlhoNUlxSmFaZ2sxamVDVkp0UllOYjVmVHUtYjYzR0VUeDFwcE5IQUdEbm1sSDZmQU0zV29QcS1BMUltWmt4azVIVFFxQ3E4ZkNwR3hkM3hPVGhxQXRWZ3l4cGNtTVkwZkF2UmZZOU96NVc2ZE5iWWQ5QTU1ZnlEN3Y2bGs5TE5DMmRSMnk5VUU1TjVVVWJOcFZPQVFCTERyX29ySGRvT1pBWllVMm11N1Q4M2V4ck9WSdIB8gFBVV95cUxNdVJuOEJhRGxleHpNM1pGZFZ6V1F0RVhHMThOUGRoOVdzV1JOVUlQQWZ3LXhuWmNqYzV6ZFpfREtrdkdlLUNWckctZV9JblQ5ZjA4b1RyLVlEWHkwVF9mbFMzZ0R0aGpHUVJsOEJ6c0tTNDNGMUZrNG9qMTBITENGa1BWQjY3dDJDTWYwYUsxZzA4NFNGbkMtYXVCZ2dLLWZGcTEtMHdmQk9UTjV3cUtCOVRQZk4zUUhpeGxkSTF1a1ltYk04ZUpaZmRCWlkwRjhNWmJPY1dqbWNJcU9Lak1pV184cEN6N3ZlckwtOUNJelVBUQ?oc=5",
       "medio": "Portafolio.co",
-      "fecha": "2026-11-01T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag transición Fiduprevisora"
-    },
-    {
-      "titulo": "Fiduprevisora reacciona tras decisión del Gobierno De La Espriella de no renovar contrato en el Fomag - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVmY4UjNyUkVwMzlNdHprdlVkMTVzSDFQa3hGcVlJdnVTOVQzZUtfNmZ5bkt2RXBuUVJXc0RjQWtRU05LWmhqWE81VEVSbGF0QWU2d2ZNa0h4aTZqRWFPYy13SVFrRWI5aFFMajg4ajFDTnFQOG9BbVM0cnhKXzM4UE9kZk14c0pGX3BDTHdnYXotb0M4SGJscEt1a3",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVmY4UjNyUkVwMzlNdHprdlVkMTVzSDFQa3hGcVlJdnVTOVQzZUtfNmZ5bkt2RXBuUVJXc0RjQWtRU05LWmhqWE81VEVSbGF0QWU2d2ZNa0h4aTZqRWFPYy13SVFrRWI5aFFMajg4ajFDTnFQOG9BbVM0cnhKXzM4UE9kZk14c0pGX3BDTHdnYXotb0M4SGJscEt1a3RKeUFydUpBWkxSdTZIcUxuUV9kLUNzVTBHZWFQeXFxODZJSXdvNEhOTXN2eHhxN2lOYzlpWG5sWTBSUXd4RUQ3UzNZdGVvbDXSAeoBQVVfeXFMUEIxS3VkTExjLWUwS3VGSDZBR0R6UHpNcnh3WGdFaVotX1lFRnRaanl3YUNQZ1NoX0p4c19UaHB4UmxFU2N3eTlzOEs1clJNODlSM0YyOTVJNElkR1J1LUZWb0Z2dTJQZG1LSU1iVUFWUjZVdGFCLWxvNnNzZ3Q1ZmFsRG1hQll6NFprQ29ZQUtZR1FpYkNEcTBtWU9ZWi1ieVVCVmR1UVJFNG1UOFhheGtGYW9MbUtGYUt0VmdMVnh6OElOekIxV1d1MXViV0FabnhORm9ONU01VF9EaFJ6b2pDRkJsR1ByVEd3?oc=5",
-      "medio": "Revista Semana",
       "fecha": "2026-11-01T07:00:00.000Z",
       "imagen": "",
       "tema": "Fomag transición Fiduprevisora"
