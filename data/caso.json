@@ -1,0 +1,60 @@
+{
+  "revisado": "2026-11-14T07:58:00-05:00",
+  "intro": {
+    "es": "Circula un borrador de proyecto de ley que repartiría la salud, las pensiones y las cesantías de los docentes oficiales entre Nueva EPS, Colpensiones y el Fondo Nacional del Ahorro. El Gobierno lo desmiente. Aquí seguimos, día a día, qué es cierto, qué falta y qué puede hacer usted.",
+    "en": "A draft bill is circulating that would split public school teachers' health care, pensions and severance savings among Nueva EPS, Colpensiones and the National Savings Fund. The Government denies it. Here we track, day by day, what is true, what is missing and what you can do."
+  },
+  "propuesta": [
+    { "area": {"es": "Salud", "en": "Health"}, "hoy": "FOMAG / Fiduprevisora", "borrador": "Nueva EPS", "nota": {"es": "Administración, aseguramiento y gestión integral de la salud de docentes, pensionados y beneficiarios.", "en": "Administration, insurance and full management of health care for teachers, retirees and dependents."} },
+    { "area": {"es": "Pensiones", "en": "Pensions"}, "hoy": "FOMAG / Fiduprevisora", "borrador": "Colpensiones", "nota": {"es": "Reconocimiento, liquidación y pago de las pensiones de jubilación del magisterio.", "en": "Recognition, calculation and payment of teachers' retirement pensions."} },
+    { "area": {"es": "Cesantías", "en": "Severance savings"}, "hoy": "FOMAG / Fiduprevisora", "borrador": "Fondo Nacional del Ahorro", "nota": {"es": "Cesantías parciales y definitivas de los docentes oficiales.", "en": "Partial and final severance payments for public school teachers."} }
+  ],
+  "lados": {
+    "borrador": {
+      "es": "Según el texto revelado por Martha Alfonso, de Fecode, y publicado por Caracol Radio, el Gobierno radicaría un proyecto para suprimir el FOMAG. La salud pasaría a Nueva EPS, las pensiones a Colpensiones y las cesantías al FNA, con una transición de hasta 12 meses prorrogable una sola vez por 12 más, sin suspender autorizaciones ni tratamientos en curso.",
+      "en": "According to the text revealed by Martha Alfonso of Fecode and published by Caracol Radio, the Government would file a bill to abolish FOMAG. Health care would go to Nueva EPS, pensions to Colpensiones and severance to the FNA, with a transition of up to 12 months extendable once for 12 more, without suspending authorizations or ongoing treatments."
+    },
+    "gobierno": {
+      "es": "La ministra de Educación, Ilva Myriam Hoyos, dijo el 3 de noviembre que le sorprendió el documento y que el Gobierno no tiene intención de derogar la Ley 91 de 1989 ni de eliminar el FOMAG. Lo que sí hay es una transición para cambiar de administrador y una licitación pública para escoger la nueva fiduciaria.",
+      "en": "Education Minister Ilva Myriam Hoyos said on November 3 that she was surprised by the document and that the Government has no intention of repealing Law 91 of 1989 or abolishing FOMAG. What does exist is a transition to change administrators and a public tender to choose a new trust company."
+    },
+    "verificado": {
+      "es": "El contrato de fiducia 083 de 1990 con Fiduprevisora venció el 31 de octubre de 2026 y no se prorrogó. Desde el 1 de noviembre corre una transición de un año, prorrogable por otro, en la que Fiduprevisora sigue operando. El Ministerio reportó un patrimonio negativo de $3,198 billones a junio de 2026. El borrador no es ley y no se conoce que haya sido radicado.",
+      "en": "Trust contract 083 of 1990 with Fiduprevisora expired on October 31, 2026 and was not renewed. Since November 1 a one-year transition, extendable for another year, is under way, with Fiduprevisora still operating. The Ministry reported negative equity of COP 3.198 trillion as of June 2026. The draft is not law and it is not known to have been filed."
+    },
+    "falta": {
+      "es": "Quién redactó el borrador y si se va a radicar. Quién será el nuevo administrador y cuándo se abre la licitación. Cómo se va a cubrir el hueco financiero. Qué pasa con el régimen especial del magisterio si el texto avanza.",
+      "en": "Who wrote the draft and whether it will be filed. Who the new administrator will be and when the tender opens. How the financial gap will be covered. What happens to teachers' special regime if the text moves forward."
+    }
+  },
+  "linea": [
+    { "f": "1989", "es": "La Ley 91 crea el FOMAG para pagar la salud, las pensiones y las cesantías de los docentes oficiales.", "en": "Law 91 creates FOMAG to pay public school teachers' health care, pensions and severance." },
+    { "f": "1990", "es": "Se firma el contrato de fiducia 083 con Fiduprevisora, que administró el fondo durante 36 años.", "en": "Trust contract 083 is signed with Fiduprevisora, which ran the fund for 36 years." },
+    { "f": "2025", "es": "La Supersalud impone una medida cautelar al FOMAG por fallas en la atención en salud; luego se prorroga en enero de 2026.", "en": "The Health Superintendency imposes a precautionary measure on FOMAG over health care failures; it is extended in January 2026." },
+    { "f": "31 oct 2026", "es": "Vence el contrato. El Gobierno de Abelardo de La Espriella decide no prorrogarlo.", "en": "The contract expires. The Abelardo de La Espriella administration decides not to renew it." },
+    { "f": "1 nov 2026", "es": "Empieza la transición de 12 meses (prorrogable 12). El Ministerio dice que el 100 % de las oficinas del FOMAG siguen abiertas.", "en": "The 12-month transition (extendable 12) begins. The Ministry says 100% of FOMAG offices remain open." },
+    { "f": "3 nov 2026", "es": "Fecode revela el borrador: salud a Nueva EPS, pensiones a Colpensiones y cesantías al FNA.", "en": "Fecode reveals the draft: health to Nueva EPS, pensions to Colpensiones and severance to the FNA." },
+    { "f": "3 nov 2026", "es": "MinEducación desmiente: no habrá derogatoria de la Ley 91 ni eliminación del FOMAG.", "en": "The Education Ministry denies it: Law 91 will not be repealed and FOMAG will not be abolished." },
+    { "f": "3 nov 2026", "es": "Arranca un plan de choque en Antioquia para revisar pagos atrasados con clínicas y hospitales; siguen Atlántico y Valle.", "en": "An emergency plan starts in Antioquia to review overdue payments with clinics and hospitals; Atlántico and Valle are next." },
+    { "f": "Próximo / Next", "es": "Licitación pública para escoger la nueva fiduciaria. El Ministerio está estructurando los pliegos.", "en": "Public tender to pick the new trust company. The Ministry is drafting the terms.", "pendiente": true }
+  ],
+  "hoyQue": [
+    { "t": {"es": "Su salud sigue igual por ahora", "en": "Your health care stays the same for now"}, "d": {"es": "Durante la transición se deben mantener la red, los tratamientos en curso y los medicamentos. Si le niegan un servicio, guarde el soporte y radique una queja ante la Supersalud.", "en": "During the transition the network, ongoing treatments and medicines must continue. If a service is denied, keep the proof and file a complaint with the Health Superintendency."} },
+    { "t": {"es": "Pensiones y cesantías: mismo trámite", "en": "Pensions and severance: same process"}, "d": {"es": "Mientras no exista una ley nueva, los trámites siguen ante su secretaría de educación y el FOMAG.", "en": "Until a new law exists, procedures continue through your education office and FOMAG."} },
+    { "t": {"es": "Nadie lo puede trasladar hoy", "en": "No one can transfer you today"}, "d": {"es": "No hay ningún traslado aprobado a Nueva EPS, Colpensiones ni FNA. No firme ni pague nada a quien le ofrezca hacer ese cambio.", "en": "No transfer to Nueva EPS, Colpensiones or the FNA has been approved. Do not sign or pay anything to anyone offering to make that change."} },
+    { "t": {"es": "Exija respuestas por escrito", "en": "Demand written answers"}, "d": {"es": "Use el derecho de petición de esta app: un solo envío a todas las entidades, que deben responder en 15 días hábiles.", "en": "Use this app's right of petition: one message to every agency, which must answer within 15 business days."} }
+  ],
+  "fuentes": [
+    { "t": "MinEducación — Gobierno nacional desmiente proyecto de ley para acabar con el FOMAG (3 nov 2026)", "u": "https://www.mineducacion.gov.co/1780/w3-article-431599.html" },
+    { "t": "MinEducación — FOMAG: así llegó el Gobierno a la decisión de no prorrogar el contrato con Fiduprevisora (1 nov 2026)", "u": "https://www.mineducacion.gov.co/1780/w3-article-431558.html" },
+    { "t": "El País Cali — Borrador de reforma al FOMAG: estas entidades asumirían los servicios", "u": "https://www.elpais.com.co/colombia/borrador-de-reforma-al-fomag-estas-entidades-asumirian-los-servicios-de-salud-pensiones-y-cesantias-de-los-profesores-0356.html" },
+    { "t": "Infobae — Gobierno pretendería eliminar el Fomag con un proyecto de ley, según Fecode", "u": "https://www.infobae.com/colombia/2026/11/03/gobierno-de-abelardo-de-la-espriella-pretenderia-eliminar-el-fomag-con-un-proyecto-de-ley-en-el-congreso-segun-fecode/" },
+    { "t": "Minuto30 — Fomag, en la cuerda floja", "u": "https://www.minuto30.com/fomag-cambios-salud-maestros/1726957/" },
+    { "t": "La FM — Gobierno desmiente proyecto de ley para eliminar el FOMAG", "u": "https://www.lafm.com.co/economia/ministerio-de-educacion-desmiente-eliminacion-del-fomag-416049" },
+    { "t": "Consultorsalud — Gobierno no prorroga contrato del FOMAG con Fiduprevisora", "u": "https://consultorsalud.com/fomag-no-prorroga-contrato-fiduprevisora-2026/" },
+    { "t": "Portafolio — Las razones para terminar el contrato de 36 años con Fiduprevisora", "u": "https://www.portafolio.co/economia/gobierno/las-razones-por-las-que-el-gobierno-decidio-terminar-el-contrato-de-36-anos-con-fiduprevisora-en-el-fomag-505530" },
+    { "t": "Noticias RCN — Inician negociaciones del Fomag con clínicas y hospitales", "u": "https://www.noticiasrcn.com/colombia/inician-negociaciones-del-fomag-con-clinicas-y-hospitales-para-garantizar-la-atencion-de-docentes-y-sus-familias-1078162" },
+    { "t": "El Tiempo — Fomag: Gobierno inicia transición y aún no define quién atenderá la salud de los docentes", "u": "https://www.eltiempo.com/videos-eltiempo/fomag-gobierno-inicia-transicion-y-aun-no-define-quien-atendera-la-salud-de-los-docentes-3598804" },
+    { "t": "Post de @labogadadelarosa que inspiró este seguimiento", "u": "https://www.instagram.com/labogadadelarosa/" }
+  ]
+}

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<script id="vibras-datos-github">/* Las noticias se leen directo de GitHub para no gastar créditos de Netlify */
+(function(){var R='fomag-al-dia',B='https://raw.githubusercontent.com/haroldco45/'+R+'/main/',f=window.fetch.bind(window);
+window.fetch=function(i,o){try{var u=new URL(typeof i==='string'?i:(i&&i.url)||String(i),location.href),m=(o&&o.method)||(i&&i.method)||'GET';
+if(u.origin===location.origin&&m.toUpperCase()==='GET'&&/\.json$/i.test(u.pathname)&&!/manifest\.json$/i.test(u.pathname)){
+var p=u.pathname.replace(/^\/+/,'');if(/github\.io$/.test(location.hostname))p=p.replace(new RegExp('^'+R+'/'),'');
+return f(B+p+u.search,{cache:'no-store',signal:o&&o.signal}).then(function(r){if(!r.ok)throw 0;return r}).catch(function(){return f(i,o)})}}catch(e){}return f(i,o)}})();</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>FOMAG al Día — ¿se acaba el FOMAG? Seguimiento para los docentes</title>
+<meta name="description" content="Seguimiento ciudadano día a día al futuro del FOMAG: el borrador que pasaría la salud a Nueva EPS, las pensiones a Colpensiones y las cesantías al FNA, lo que dice el Gobierno y lo que pueden hacer los docentes. Vibras Positivas HM.">
+<meta name="theme-color" content="#06181b">
+<link rel="manifest" href="manifest.webmanifest">
+<!-- Vista previa al compartir el enlace (foto real) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="¿Se acaba el FOMAG? Seguimiento día a día para los docentes">
+<meta property="og:description" content="Salud a Nueva EPS, pensiones a Colpensiones, cesantías al FNA: qué dice el borrador, qué dice el Gobierno y qué falta saber. Se actualiza cada 30 minutos.">
+<meta property="og:url" content="https://fomag-al-dia.netlify.app/">
+<meta property="og:image" content="https://fomag-al-dia.netlify.app/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_CO">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://fomag-al-dia.netlify.app/og.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#06181b;--card:#0c2629;--card2:#0f2f33;--line:#1d4a50;--tx:#eafcf8;--mut:#8fb8b2;--menta:#3ee6c1;--oro:#ffd166;--coral:#ff7a5c;--rojo:#ff5a5f;--lila:#9fb4ff}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--tx);line-height:1.5;overflow-x:hidden}
+a{color:var(--menta)}
+.wrap{max-width:1100px;margin:auto;padding:0 18px}
+.top{position:sticky;top:0;z-index:20;background:rgba(6,24,27,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:10px;height:58px}
+.marca{font-family:'Archivo Black';font-size:17px;flex:1}
+.marca span{color:var(--menta)}
+.btn{border-radius:999px;padding:9px 16px;font:600 14px Inter;cursor:pointer;background:var(--card);color:var(--tx);border:1px solid var(--line);transition:.2s}
+.btn:hover{border-color:var(--menta)}
+.btn.prim{background:linear-gradient(135deg,var(--menta),#22b8d6);color:#04211d;border:0}
+.btn.girando{animation:pulso 1s infinite}
+@keyframes pulso{50%{opacity:.5}}
+/* Portada */
+.hero{position:relative;min-height:82vh;display:flex;align-items:flex-end;overflow:hidden;background:radial-gradient(circle at 70% 20%,#14545a,#06181b 60%)}
+.hero .foto{position:absolute;inset:0;background-size:cover;background-position:center;animation:kb 24s ease-in-out infinite alternate;transition:opacity 1.2s}
+@keyframes kb{from{transform:scale(1.05)}to{transform:scale(1.22) translate(-2%,-2%)}}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,24,27,.25),rgba(6,24,27,.7) 45%,var(--bg) 96%)}
+.hero .wrap{position:relative;z-index:2;padding-bottom:40px;width:100%}
+.vivo{display:inline-flex;align-items:center;gap:8px;background:rgba(255,90,95,.15);border:1px solid var(--rojo);color:#ffd3d4;padding:5px 12px;border-radius:999px;font-weight:600;font-size:13px}
+.vivo i{width:9px;height:9px;border-radius:50%;background:var(--rojo);animation:latido 1.4s infinite}
+@keyframes latido{0%{box-shadow:0 0 0 0 rgba(255,90,95,.7)}70%{box-shadow:0 0 0 12px rgba(255,90,95,0)}}
+h1{font-family:'Archivo Black';font-size:clamp(38px,8vw,78px);line-height:1;margin:14px 0 12px}
+h1 em{font-style:normal;background:linear-gradient(90deg,var(--menta),var(--oro),var(--coral));-webkit-background-clip:text;background-clip:text;color:transparent;background-size:200%;animation:brillo 6s linear infinite}
+@keyframes brillo{to{background-position:200%}}
+.hero p{max-width:660px;color:#d2f1ec;font-size:17px}
+.cifras{display:flex;gap:12px;margin-top:22px;flex-wrap:wrap}
+.cifra{background:rgba(12,38,41,.85);border:1px solid var(--line);border-radius:16px;padding:12px 16px;min-width:130px}
+.cifra b{font-family:'Archivo Black';font-size:28px;display:block;color:var(--menta)}
+.cifra small{color:var(--mut)}
+.cinta{background:var(--menta);color:#04211d;overflow:hidden;white-space:nowrap;font-weight:600;font-size:14px}
+.cinta div{display:inline-block;padding:10px 0;animation:corre 70s linear infinite}
+.cinta span{margin-right:48px}
+@keyframes corre{to{transform:translateX(-50%)}}
+section{padding:54px 0}
+h2{font-family:'Archivo Black';font-size:clamp(24px,4.5vw,38px);margin-bottom:6px;line-height:1.1}
+.sub{color:var(--mut);margin-bottom:24px;max-width:760px}
+/* Reparto */
+.reparto{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}
+.rep{background:linear-gradient(160deg,var(--card2),var(--card));border:1px solid var(--line);border-radius:22px;padding:20px;position:relative;overflow:hidden;opacity:0;transform:translateY(20px);transition:.6s}
+.rep.ver{opacity:1;transform:none}
+.rep:before{content:"";position:absolute;inset:0 0 auto 0;height:5px}
+.rep:nth-child(1):before{background:var(--menta)}.rep:nth-child(2):before{background:var(--oro)}.rep:nth-child(3):before{background:var(--coral)}
+.rep h3{font-family:'Archivo Black';font-size:26px;margin-bottom:12px}
+.flujo{display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap}
+.flujo .de{background:#08262b;border:1px dashed var(--line);border-radius:12px;padding:6px 10px;font-size:13px;color:var(--mut);text-decoration:line-through}
+.flujo .flecha{flex:1;min-width:30px;height:3px;background:linear-gradient(90deg,var(--line),var(--menta));border-radius:3px;position:relative;overflow:hidden}
+.flujo .flecha:after{content:"";position:absolute;top:0;left:-30%;width:30%;height:100%;background:#fff;animation:viaja 1.8s linear infinite}
+@keyframes viaja{to{left:100%}}
+.flujo .a{background:var(--menta);color:#04211d;border-radius:12px;padding:6px 12px;font-weight:800;font-size:14px}
+.rep:nth-child(2) .a{background:var(--oro)}.rep:nth-child(3) .a{background:var(--coral)}
+.rep p{color:#cdeee8;font-size:14px}
+.sello{display:inline-block;margin-top:14px;font-size:12px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;color:var(--oro);border:1px solid var(--oro);border-radius:999px;padding:4px 10px}
+/* Dos versiones */
+.lados{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px}
+.lado{border-radius:18px;padding:18px;border:1px solid var(--line);background:var(--card);position:relative}
+.lado:before{content:"";position:absolute;left:0;top:16px;bottom:16px;width:4px;border-radius:4px}
+.lado.b:before{background:var(--coral)}.lado.g:before{background:var(--lila)}.lado.v:before{background:var(--menta)}.lado.f:before{background:var(--oro)}
+.lado h4{font-size:12px;text-transform:uppercase;letter-spacing:1px;color:var(--mut);margin-bottom:6px}
+/* Línea de tiempo */
+.linea{position:relative;padding-left:28px}
+.linea:before{content:"";position:absolute;left:8px;top:6px;bottom:6px;width:3px;background:linear-gradient(var(--menta),var(--oro),var(--coral));border-radius:3px}
+.hito{position:relative;margin-bottom:18px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 16px;opacity:0;transform:translateX(-14px);transition:.5s}
+.hito.ver{opacity:1;transform:none}
+.hito:before{content:"";position:absolute;left:-26px;top:18px;width:13px;height:13px;border-radius:50%;background:var(--bg);border:3px solid var(--menta)}
+.hito.pend:before{border-color:var(--oro);animation:latido2 1.6s infinite}
+@keyframes latido2{50%{box-shadow:0 0 0 8px rgba(255,209,102,.2)}}
+.hito b{font-family:'Archivo Black';color:var(--menta);font-size:15px}
+.hito.pend b{color:var(--oro)}
+/* Hoy */
+.hoy{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+.nota{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;text-decoration:none;color:var(--tx);display:flex;flex-direction:column;transition:.25s;opacity:0;transform:translateY(16px);animation:entra .5s forwards}
+.nota:hover{transform:translateY(-4px);border-color:var(--menta)}
+@keyframes entra{to{opacity:1;transform:none}}
+.nota .img{height:150px;background-size:cover;background-position:center;background-color:#0f3a3f}
+.nota .img.sin{background:linear-gradient(135deg,#14545a,#0c2629);display:flex;align-items:flex-end;padding:12px;font-family:'Archivo Black';font-size:22px;color:var(--menta)}
+.nota .cu{padding:14px}
+.nota h3{font-size:16px;line-height:1.3;margin-bottom:6px}
+.meta{font-size:12px;color:var(--mut)}
+.etq{display:inline-block;font-size:11px;font-weight:800;color:#04211d;background:var(--oro);border-radius:999px;padding:2px 8px;margin-bottom:10px}
+/* Qué hacer */
+.guia{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;counter-reset:g}
+.paso{background:linear-gradient(160deg,#103a3e,#0a2225);border:1px solid var(--line);border-radius:18px;padding:18px;counter-increment:g}
+.paso:before{content:counter(g);font-family:'Archivo Black';font-size:34px;color:var(--menta);display:block;line-height:1;margin-bottom:6px}
+.paso h3{font-size:17px;margin-bottom:6px}
+.paso p{color:#cdeee8;font-size:14px}
+/* En vivo */
+.buscar{display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap}
+.buscar input{flex:1;min-width:200px;background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:999px;padding:12px 18px;font:15px Inter}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
+.chip{background:transparent;border:1px solid var(--line);color:var(--mut);border-radius:999px;padding:6px 12px;font:600 13px Inter;cursor:pointer}
+.chip.on{background:var(--menta);color:#04211d;border-color:var(--menta)}
+.vacio{color:var(--mut);background:var(--card);border:1px dashed var(--line);border-radius:16px;padding:18px}
+/* Petición */
+.pet{background:linear-gradient(135deg,#0f3437,#1a1f45);border:1px solid var(--menta);border-radius:24px;padding:24px}
+.campos{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin:16px 0}
+.campos input{background:#06181b;border:1px solid var(--line);color:var(--tx);border-radius:12px;padding:11px 12px;font:15px Inter}
+textarea{width:100%;min-height:300px;background:#06181b;border:1px solid var(--line);color:var(--tx);border-radius:14px;padding:14px;font:14px/1.5 Inter}
+.dest{font-size:13px;color:var(--mut);margin:10px 0;word-break:break-word}
+.acc{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.fuentes li{margin:8px 0 0 18px}
+footer{border-top:1px solid var(--line);padding:30px 0 60px;color:var(--mut);font-size:14px}
+footer p{margin-bottom:6px}
+.aviso{position:fixed;left:50%;bottom:20px;transform:translateX(-50%) translateY(120px);background:var(--menta);color:#04211d;font-weight:700;padding:12px 18px;border-radius:999px;transition:.3s;z-index:50}
+.aviso.ver{transform:translateX(-50%)}
+.nav{display:flex;gap:8px;overflow-x:auto;padding:12px 0;scrollbar-width:none}
+.nav a{white-space:nowrap;text-decoration:none;color:var(--mut);border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:13px;font-weight:600}
+.nav a:hover{color:var(--menta);border-color:var(--menta)}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="marca">FOMAG <span>al Día</span></div>
+  <button class="btn" id="idioma">EN</button>
+  <button class="btn prim" id="actualizar" data-t="actualizar">Actualizar</button>
+</div></header>
+
+<div class="hero">
+  <div class="foto" id="heroFoto"></div>
+  <div class="wrap">
+    <span class="vivo"><i></i><span data-t="vivo">En vivo · se actualiza cada 30 min</span></span>
+    <h1><span data-t="h1a">¿Se acaba el FOMAG?</span><br><em data-t="h1b">Todavía no.</em></h1>
+    <p id="intro"></p>
+    <div class="cifras">
+      <div class="cifra"><b id="nDias">0</b><small data-t="cDias">días de transición</small></div>
+      <div class="cifra"><b id="nHoy">0</b><small data-t="cHoy">noticias de hoy</small></div>
+      <div class="cifra"><b id="nTotal">0</b><small data-t="cTotal">noticias reunidas</small></div>
+      <div class="cifra"><b id="hora">--:--</b><small data-t="cHora">última revisión (hora Colombia)</small></div>
+    </div>
+  </div>
+</div>
+<div class="cinta"><div id="cinta"></div></div>
+
+<main class="wrap">
+  <nav class="nav">
+    <a href="#hoy" data-t="nHoy">Hoy</a><a href="#reparto" data-t="nRep">El borrador</a><a href="#versiones" data-t="nVer">Las dos versiones</a><a href="#linea" data-t="nLin">Línea de tiempo</a><a href="#que-hacer" data-t="nQue">Qué hago</a><a href="#vivoS" data-t="nViv">En vivo</a><a href="#peticion" data-t="nPet">Derecho de petición</a>
+  </nav>
+
+  <section id="hoy">
+    <h2 data-t="hoyT">Hoy</h2>
+    <p class="sub" data-t="hoyS">Lo último sobre el FOMAG, la transición y el borrador, de las últimas 24 horas.</p>
+    <div class="hoy" id="hoyGrid"></div>
+  </section>
+
+  <section id="reparto">
+    <h2 data-t="repT">Lo que propone el borrador</h2>
+    <p class="sub" data-t="repS">El FOMAG desaparecería y sus tres funciones quedarían en tres entidades distintas.</p>
+    <div class="reparto" id="repGrid"></div>
+  </section>
+
+  <section id="versiones">
+    <h2 data-t="verT">Las dos versiones, punto por punto</h2>
+    <p class="sub" data-t="verS">Coral: lo que dice el borrador. Lila: lo que dice el Gobierno. Menta: lo verificado con fuentes. Amarillo: lo que todavía falta saber.</p>
+    <div class="lados" id="lados"></div>
+  </section>
+
+  <section id="linea">
+    <h2 data-t="linT">Línea de tiempo</h2>
+    <p class="sub" data-t="linS">De la Ley 91 de 1989 a hoy.</p>
+    <div class="linea" id="lineaLista"></div>
+  </section>
+
+  <section id="que-hacer">
+    <h2 data-t="queT">Soy docente: ¿qué hago hoy?</h2>
+    <p class="sub" data-t="queS">Lo práctico mientras el caso se define.</p>
+    <div class="guia" id="guiaLista"></div>
+  </section>
+
+  <section id="vivoS">
+    <h2 data-t="vivoT">Noticias en vivo</h2>
+    <p class="sub" data-t="vivoS">Busque cualquier tema. Al abrir la app se hace una búsqueda nueva en la red.</p>
+    <div class="buscar"><input id="q" data-ph="buscarPh" placeholder="Buscar: Nueva EPS, licitación, Fecode..."><button class="btn" id="buscarRed" data-t="buscarRed">Buscar en la red</button></div>
+    <div class="chips" id="chips"></div>
+    <div class="hoy" id="vivoGrid"></div>
+  </section>
+
+  <section id="peticion">
+    <div class="pet">
+      <h2 data-t="petT">Derecho de petición: exija qué va a pasar con el FOMAG</h2>
+      <p class="sub" data-t="petS">Un solo envío a todas las entidades involucradas. Es su derecho (artículo 23 de la Constitución y Ley 1755 de 2015): deben responderle en 15 días hábiles.</p>
+      <div class="campos">
+        <input id="fNombre" data-ph="fNombre" placeholder="Nombre completo">
+        <input id="fCedula" data-ph="fCedula" placeholder="Cédula">
+        <input id="fCiudad" data-ph="fCiudad" placeholder="Ciudad">
+        <input id="fCorreo" data-ph="fCorreo" placeholder="Correo para la respuesta">
+        <input id="fTel" data-ph="fTel" placeholder="Teléfono">
+        <input id="fCalidad" data-ph="fCalidad" placeholder="Docente activo, pensionado, beneficiario o ciudadano">
+      </div>
+      <textarea id="carta"></textarea>
+      <p class="dest"><b data-t="para">Para:</b> <span id="destinos"></span></p>
+      <div class="acc">
+        <button class="btn prim" id="enviar" data-t="enviar">Enviar a todas las entidades</button>
+        <button class="btn" id="copiar" data-t="copiar">Copiar carta</button>
+        <a class="btn" id="superLink" href="https://superargo.supersalud.gov.co/2/formularioWeb/pqrd.php" target="_blank" rel="noopener" data-t="super">Radicar copia en Supersalud</a>
+        <button class="btn" id="whats" data-t="whats">Compartir por WhatsApp</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="fuentes">
+    <h2 data-t="fuT">Fuentes</h2>
+    <p class="sub" data-t="fuS">Todo lo que dice esta app tiene de dónde salió. Verifíquelo usted mismo.</p>
+    <ul class="fuentes" id="fuentesLista"></ul>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <p><b>Vibras Positivas HM</b> · <span data-t="pie">App ciudadana independiente. No pertenece al Gobierno, a Fecode ni a ningún partido. Los resúmenes enlazan a sus fuentes para que usted verifique.</span></p>
+  <p data-t="pie2">Seguimiento inspirado en el post de @labogadadelarosa.</p>
+  <p id="pieHora"></p>
+</div></footer>
+<div class="aviso" id="aviso"></div>
+
+<script>
+const T={
+ es:{actualizar:'Actualizar',vivo:'En vivo · se actualiza cada 30 min',h1a:'¿Se acaba el FOMAG?',h1b:'Todavía no.',cDias:'días de transición',cHoy:'noticias de hoy',cTotal:'noticias reunidas',cHora:'última revisión (hora Colombia)',nHoy:'Hoy',nRep:'El borrador',nVer:'Las dos versiones',nLin:'Línea de tiempo',nQue:'Qué hago',nViv:'En vivo',nPet:'Derecho de petición',hoyT:'Hoy',hoyS:'Lo último sobre el FOMAG, la transición y el borrador, de las últimas 24 horas.',repT:'Lo que propone el borrador',repS:'El FOMAG desaparecería y sus tres funciones quedarían en tres entidades distintas.',verT:'Las dos versiones, punto por punto',verS:'Coral: lo que dice el borrador. Lila: lo que dice el Gobierno. Menta: lo verificado con fuentes. Amarillo: lo que todavía falta saber.',linT:'Línea de tiempo',linS:'De la Ley 91 de 1989 a hoy.',queT:'Soy docente: ¿qué hago hoy?',queS:'Lo práctico mientras el caso se define.',vivoT:'Noticias en vivo',vivoS:'Busque cualquier tema. Al abrir la app se hace una búsqueda nueva en la red.',buscarPh:'Buscar: Nueva EPS, licitación, Fecode...',buscarRed:'Buscar en la red',petT:'Derecho de petición: exija qué va a pasar con el FOMAG',petS:'Un solo envío a todas las entidades involucradas. Es su derecho (artículo 23 de la Constitución y Ley 1755 de 2015): deben responderle en 15 días hábiles.',fNombre:'Nombre completo',fCedula:'Cédula',fCiudad:'Ciudad',fCorreo:'Correo para la respuesta',fTel:'Teléfono',fCalidad:'Docente activo, pensionado, beneficiario o ciudadano',para:'Para:',enviar:'Enviar a todas las entidades',copiar:'Copiar carta',super:'Radicar copia en Supersalud',whats:'Compartir por WhatsApp',fuT:'Fuentes',fuS:'Todo lo que dice esta app tiene de dónde salió. Verifíquelo usted mismo.',pie:'App ciudadana independiente. No pertenece al Gobierno, a Fecode ni a ningún partido. Los resúmenes enlazan a sus fuentes para que usted verifique.',pie2:'Seguimiento inspirado en el post de @labogadadelarosa.',
+  b:'Lo que dice el borrador',g:'Lo que dice el Gobierno',v:'Lo verificado',f:'Lo que falta saber',hoyAhora:'Hoy',borr:'Borrador',sello:'Propuesta, no es ley',sinHoy:'Hoy todavía no hay noticias nuevas. Esto es lo más reciente:',reciente:'Reciente',sinRes:'No hay resultados para esa búsqueda.',todo:'Todo',listo:'Actualizado',copiado:'Carta copiada',buscando:'Buscando en la red...'},
+ en:{actualizar:'Refresh',vivo:'Live · updates every 30 min',h1a:'Is FOMAG ending?',h1b:'Not yet.',cDias:'days of transition',cHoy:'stories today',cTotal:'stories collected',cHora:'last check (Colombia time)',nHoy:'Today',nRep:'The draft',nVer:'Both sides',nLin:'Timeline',nQue:'What do I do',nViv:'Live',nPet:'Right of petition',hoyT:'Today',hoyS:'The latest on FOMAG, the transition and the draft, from the last 24 hours.',repT:'What the draft proposes',repS:'FOMAG would disappear and its three functions would go to three different agencies.',verT:'Both sides, point by point',verS:'Coral: what the draft says. Lilac: what the Government says. Mint: what is verified with sources. Yellow: what is still unknown.',linT:'Timeline',linS:'From Law 91 of 1989 to today.',queT:'I am a teacher: what do I do today?',queS:'The practical part while the case is decided.',vivoT:'Live news',vivoS:'Search any topic. A fresh web search runs every time you open the app.',buscarPh:'Search: Nueva EPS, tender, Fecode...',buscarRed:'Search the web',petT:'Right of petition: demand to know what will happen to FOMAG',petS:'One message to every agency involved. It is your right (Article 23 of the Constitution and Law 1755 of 2015): they must answer within 15 business days.',fNombre:'Full name',fCedula:'ID number',fCiudad:'City',fCorreo:'Email for the reply',fTel:'Phone',fCalidad:'Active teacher, retiree, dependent or citizen',para:'To:',enviar:'Send to all agencies',copiar:'Copy letter',super:'File a copy with Supersalud',whats:'Share on WhatsApp',fuT:'Sources',fuS:'Everything in this app comes from somewhere. Check it yourself.',pie:'Independent civic app. Not affiliated with the Government, Fecode or any party. Summaries link to their sources so you can check.',pie2:'Tracking inspired by the post from @labogadadelarosa.',
+  b:'What the draft says',g:'What the Government says',v:'What is verified',f:'What we still don\'t know',hoyAhora:'Today',borr:'Draft',sello:'Proposal, not law',sinHoy:'No new stories yet today. Here is the latest:',reciente:'Recent',sinRes:'No results for that search.',todo:'All',listo:'Updated',copiado:'Letter copied',buscando:'Searching the web...'}
+};
+const DEST=[
+ ['Ministerio de Educación Nacional (Despacho de la Ministra y Dirección del FOMAG)','atencionalciudadano@mineducacion.gov.co'],
+ ['Fiduprevisora S.A., vocera y administradora del FOMAG','servicioalcliente@fiduprevisora.com.co'],
+ ['Ministerio de Hacienda y Crédito Público','relacionciudadano@minhacienda.gov.co'],
+ ['Ministerio del Trabajo (miembro del Consejo Directivo del FOMAG)','solucionesmintrabajo@mintrabajo.gov.co'],
+ ['Nueva EPS S.A.','secretaria.general@nuevaeps.com.co'],
+ ['Administradora Colombiana de Pensiones, Colpensiones','contacto@colpensiones.gov.co'],
+ ['Fondo Nacional del Ahorro','fna@fna.gov.co'],
+ ['Procuraduría General de la Nación','quejas@procuraduria.gov.co'],
+ ['Contraloría General de la República','cgr@contraloria.gov.co']];
+const INICIO=new Date('2026-11-01T00:00:00-05:00');
+let L=localStorage.getItem('lang')||'es',C=null,NOTI=[],VIVO=[],filtro='',FOTOS=['foto.jpg'];
+const $=id=>document.getElementById(id);
+const hBog=d=>new Date(d).toLocaleString(L==='es'?'es-CO':'en-US',{timeZone:'America/Bogota',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const dec=s=>{const t=document.createElement('textarea');t.innerHTML=s||'';return t.value.replace(/<[^>]+>/g,'')};
+function aviso(t){const a=$('aviso');a.textContent=t;a.classList.add('ver');setTimeout(()=>a.classList.remove('ver'),2200)}
+function contar(el,n){let i=0;const s=Math.max(1,Math.ceil(n/30));clearInterval(el._t);el._t=setInterval(()=>{i=Math.min(n,i+s);el.textContent=i;if(i>=n)clearInterval(el._t)},30)}
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('ver');io.unobserve(e.target)}}),{threshold:.15});
+const mirar=()=>document.querySelectorAll('.rep:not(.ver),.hito:not(.ver)').forEach(x=>io.observe(x));
+
+function textos(){
+ document.documentElement.lang=L;$('idioma').textContent=L==='es'?'EN':'ES';
+ document.querySelectorAll('[data-t]').forEach(e=>e.textContent=T[L][e.dataset.t]);
+ document.querySelectorAll('[data-ph]').forEach(e=>e.placeholder=T[L][e.dataset.ph]);
+}
+function tarjeta(n,i,etq){
+ const img=n.imagen?`<div class="img" style="background-image:url('${esc(n.imagen)}')"></div>`:`<div class="img sin">${esc(dec(n.medio))}</div>`;
+ return `<a class="nota" style="animation-delay:${i*60}ms" href="${esc(n.link)}" target="_blank" rel="noopener">${img}<div class="cu">${etq?`<span class="etq">${etq}</span><br>`:''}<h3>${esc(dec(n.titulo))}</h3><div class="meta">${esc(dec(n.medio))} · ${hBog(n.fecha)}</div></div></a>`;
+}
+function pintarCaso(){
+ if(!C)return;$('intro').textContent=C.intro[L];
+ $('repGrid').innerHTML=C.propuesta.map(p=>`<div class="rep"><h3>${esc(p.area[L])}</h3><div class="flujo"><span class="de">${esc(p.hoy)}</span><span class="flecha"></span><span class="a">${esc(p.borrador)}</span></div><p>${esc(p.nota[L])}</p><span class="sello">${T[L].sello}</span></div>`).join('');
+ const l=C.lados;
+ $('lados').innerHTML=[['b',l.borrador],['g',l.gobierno],['v',l.verificado],['f',l.falta]].map(([k,x])=>`<div class="lado ${k}"><h4>${T[L][k]}</h4><p>${esc(x[L])}</p></div>`).join('');
+ $('lineaLista').innerHTML=C.linea.map(h=>`<div class="hito ${h.pendiente?'pend':''}"><b>${esc(h.f)}</b><p>${esc(h[L])}</p></div>`).join('');
+ $('guiaLista').innerHTML=C.hoyQue.map(q=>`<div class="paso"><h3>${esc(q.t[L])}</h3><p>${esc(q.d[L])}</p></div>`).join('');
+ $('fuentesLista').innerHTML=C.fuentes.map(f=>`<li><a href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.t)}</a></li>`).join('');
+ mirar();
+}
+function pintarHoy(){
+ const ayer=Date.now()-864e5,hoy=NOTI.filter(n=>new Date(n.fecha)>ayer);
+ $('hoyGrid').innerHTML=hoy.length?hoy.slice(0,9).map((n,i)=>tarjeta(n,i,T[L].hoyAhora)).join(''):`<div class="vacio" style="grid-column:1/-1">${T[L].sinHoy}</div>`+NOTI.slice(0,6).map((n,i)=>tarjeta(n,i,T[L].reciente)).join('');
+ contar($('nHoy'),hoy.length);contar($('nTotal'),NOTI.length);
+ contar($('nDias'),Math.max(0,Math.floor((Date.now()-INICIO)/864e5)+1));
+ const tit=NOTI.slice(0,12).map(n=>`<span>${esc(dec(n.titulo))} — ${esc(dec(n.medio))}</span>`).join('');
+ $('cinta').innerHTML=tit+tit;
+ const imgs=NOTI.filter(n=>n.imagen).slice(0,6).map(n=>n.imagen);
+ FOTOS=['foto.jpg',...imgs];
+}
+function pintarVivo(){
+ const todas=[...VIVO,...NOTI].filter((n,i,a)=>a.findIndex(x=>dec(x.titulo)===dec(n.titulo))===i);
+ const temas=[...new Set(NOTI.map(n=>n.tema))].slice(0,8);
+ $('chips').innerHTML=[`<button class="chip ${!filtro?'on':''}" data-f="">${T[L].todo}</button>`,...temas.map(t=>`<button class="chip ${filtro===t?'on':''}" data-f="${esc(t)}">${esc(t)}</button>`)].join('');
+ const q=$('q').value.toLowerCase().trim();
+ const r=todas.filter(n=>(!filtro||n.tema===filtro)&&(!q||dec(n.titulo+' '+n.resumen+' '+n.medio).toLowerCase().includes(q)));
+ $('vivoGrid').innerHTML=r.length?r.slice(0,24).map((n,i)=>tarjeta(n,i)).join(''):`<div class="vacio">${T[L].sinRes}</div>`;
+}
+async function cargar(){
+ const b=$('actualizar');b.classList.add('girando');
+ try{C=await (await fetch('data/caso.json?'+Date.now())).json()}catch(e){}
+ try{const d=await (await fetch('data/noticias.json?'+Date.now())).json();NOTI=(d.noticias||[]).sort((a,b)=>b.fecha.localeCompare(a.fecha));$('hora').textContent=new Date(d.actualizado).toLocaleTimeString('es-CO',{timeZone:'America/Bogota',hour:'2-digit',minute:'2-digit'});$('pieHora').textContent='Robot: '+hBog(d.actualizado)+' (America/Bogota)'}catch(e){}
+ pintarCaso();pintarHoy();pintarVivo();b.classList.remove('girando');
+}
+// Búsqueda en vivo en la red al abrir y al buscar
+async function buscarRed(q){
+ q=q||'Fomag docentes';const vg=$('vivoGrid');
+ if(!VIVO.length)vg.insertAdjacentHTML('afterbegin',`<div class="vacio" id="buscando">${T[L].buscando}</div>`);
+ const rss='https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=es-419&gl=CO&ceid=CO:es-419';
+ try{
+  const d=await (await fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(rss))).json();
+  if(d.items)VIVO=d.items.map(i=>({titulo:i.title,resumen:'',link:i.link,medio:(i.author||i.title.split(' - ').pop()||'Google News'),fecha:new Date(i.pubDate.replace(' ','T')+'Z').toISOString(),imagen:i.thumbnail||'',tema:q})).concat(VIVO);
+ }catch(e){}
+ const x=$('buscando');if(x)x.remove();pintarVivo();
+}
+// Derecho de petición
+function carta(){
+ const v=id=>$(id).value.trim()||'['+T.es[id]+']';
+ const f=new Date().toLocaleDateString('es-CO',{timeZone:'America/Bogota',day:'numeric',month:'long',year:'numeric'});
+ return `${v('fCiudad')}, ${f}
+
+Señores
+${DEST.map(d=>d[0]).join('\n')}
+
+Asunto: Derecho de petición — futuro del FOMAG, borrador de proyecto de ley y garantías de salud, pensiones y cesantías de los docentes
+
+Yo, ${v('fNombre')}, identificado(a) con cédula ${v('fCedula')}, en calidad de ${v('fCalidad')}, en ejercicio del derecho fundamental de petición (artículo 23 de la Constitución Política y Ley 1755 de 2015) y del derecho de acceso a la información pública (Ley 1712 de 2014), solicito respetuosamente:
+
+1. Al Ministerio de Educación Nacional: informar si existe un borrador de proyecto de ley que suprime el Fondo Nacional de Prestaciones Sociales del Magisterio (FOMAG) y traslada la salud a Nueva EPS, las pensiones a Colpensiones y las cesantías al Fondo Nacional del Ahorro; quién lo elaboró, en qué fecha, y si el Gobierno nacional lo radicará en el Congreso. De existir, entregar copia.
+
+2. Al Ministerio de Educación Nacional y a Fiduprevisora S.A.: entregar el plan de transición iniciado el 1 de noviembre de 2026 tras la no prórroga del contrato de fiducia 083 de 1990, con las medidas concretas que garantizan la continuidad de la atención en salud, los tratamientos en curso, la entrega de medicamentos y el pago oportuno de pensiones y cesantías.
+
+3. Al Ministerio de Educación Nacional: informar el cronograma de la licitación pública para seleccionar la nueva entidad administradora, y cómo participarán los docentes en la definición de los pliegos.
+
+4. Al Ministerio de Hacienda y Crédito Público y a Fiduprevisora S.A.: explicar el origen del patrimonio negativo de $3,198 billones reportado a junio de 2026 y con qué recursos se va a cubrir.
+
+5. Al Ministerio del Trabajo: informar su posición, como miembro del Consejo Directivo del FOMAG, frente a la supresión del Fondo y a la continuidad del régimen especial del magisterio.
+
+6. A Nueva EPS, Colpensiones y el Fondo Nacional del Ahorro: informar si han sido consultados o han hecho estudios técnicos o financieros para asumir la salud, las pensiones o las cesantías de los docentes del FOMAG, y entregar copia de dichos estudios.
+
+7. A la Procuraduría General de la Nación y a la Contraloría General de la República: informar si adelantan actuaciones preventivas, disciplinarias o fiscales sobre la transición del FOMAG y el manejo de sus recursos.
+
+Si alguna de estas solicitudes no es de su competencia, les pido darle traslado a la entidad competente, como lo ordena el artículo 21 de la Ley 1755 de 2015.
+
+Recibo respuesta en: ${v('fCorreo')} · Teléfono: ${v('fTel')}
+
+Atentamente,
+
+${v('fNombre')}
+C.C. ${v('fCedula')}`;
+}
+function pintarCarta(){$('carta').value=carta();$('destinos').textContent=DEST.map(d=>d[1]).join(', ')}
+['fNombre','fCedula','fCiudad','fCorreo','fTel','fCalidad'].forEach(id=>$(id).addEventListener('input',pintarCarta));
+$('enviar').onclick=()=>{location.href='mailto:'+DEST.map(d=>d[1]).join(',')+'?subject='+encodeURIComponent('Derecho de petición — futuro del FOMAG y garantías de los docentes')+'&body='+encodeURIComponent($('carta').value)};
+$('copiar').onclick=()=>{navigator.clipboard.writeText($('carta').value).then(()=>aviso(T[L].copiado))};
+$('whats').onclick=()=>window.open('https://wa.me/?text='+encodeURIComponent((L==='es'?'¿Se acaba el FOMAG? Siga el caso día a día y exija respuestas con un derecho de petición: ':'Is FOMAG ending? Follow the case day by day: ')+'https://fomag-al-dia.netlify.app/'));
+// Eventos
+$('actualizar').onclick=async()=>{await cargar();await buscarRed($('q').value);aviso(T[L].listo)};
+$('idioma').onclick=()=>{L=L==='es'?'en':'es';localStorage.setItem('lang',L);textos();pintarCaso();pintarHoy();pintarVivo()};
+$('q').addEventListener('input',pintarVivo);
+$('q').addEventListener('keydown',e=>{if(e.key==='Enter')buscarRed($('q').value)});
+$('buscarRed').onclick=()=>buscarRed($('q').value);
+$('chips').onclick=e=>{if(e.target.dataset.f!==undefined){filtro=e.target.dataset.f;pintarVivo()}};
+// Portada con fotos reales que rotan (foto del caso + fotos de las noticias)
+let fi=0;const hf=$('heroFoto');hf.style.backgroundImage=`url('${FOTOS[0]}')`;
+setInterval(()=>{if(FOTOS.length<2)return;fi=(fi+1)%FOTOS.length;hf.style.opacity=0;setTimeout(()=>{hf.style.backgroundImage=`url('${FOTOS[fi]}')`;hf.style.opacity=1},600)},9000);
+// "Hoy" se actualiza cada vez que entra a la app
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)cargar()});
+setInterval(cargar,5*60*1000);
+textos();pintarCarta();cargar().then(()=>buscarRed());
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
+</script>
+</body>
+</html>
