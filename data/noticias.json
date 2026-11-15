@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T16:44:25.655Z",
+  "actualizado": "2026-11-15T21:26:25.441Z",
   "total": 80,
   "noticias": [
     {
@@ -10,6 +10,24 @@
       "fecha": "2026-11-15T15:41:00.000Z",
       "imagen": "",
       "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Maestros en Caldas exigen mejoras en sistema de salud y anuncian plantones la próxima semana",
+      "resumen": "Los docentes en el departamento de Caldas exigen a la Fiduprevisora, al gobierno nacional y al Ministerio de Educación los giros de manera oportuna, se pacten las licitaciones de los operadores de ...",
+      "link": "https://caracol.com.co/2026/11/15/maestros-en-caldas-exigen-mejoras-en-sistema-de-salud-y-anuncian-plantones-la-proxima-semana/",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-15T10:42:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.D0TEMZ28ZOGk8ohkYRNkBw&pid=News",
+      "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Los 'milagros' en educación: obras por $337.000 millones, alivio a 235.000 usuarios del Icetex y auditoría al Fomag",
+      "resumen": "El Ministerio reporta clases restablecidas para 1.275.967 estudiantes tras el sismo y recorte de 70,1% en viajes.",
+      "link": "https://www.msn.com/es-co/noticias/other/los-milagros-en-educaci%C3%B3n-obras-por-337-000-millones-alivio-a-235-000-usuarios-del-icetex-y-auditor%C3%ADa-al-fomag/ar-AA2hugek",
+      "medio": "Portafolio on MSN",
+      "fecha": "2026-11-15T08:50:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.bmFN3WYqikJwmt_-h0TTRw&pid=News",
+      "tema": "Fomag"
     },
     {
       "titulo": "Fomag incumplió 8 de 13 órdenes y la Supersalud vigila Sanidad Militar - El Norte Hoy",
@@ -192,6 +210,15 @@
       "tema": "Fomag"
     },
     {
+      "titulo": "Docentes inician paro de 24 horas y adelantan plantón en Medellín por crisis en la atención salud - Blu Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN0N6SDEyVG5xRXhrZVA2aHA0aFNzcU12Qmd2ZVZmWUtLdDJma1A3RGRiS0JPSnU3MFFaMUlSWEc1V3NFLW9ocDFtM1VRb0k1bThuaUMyeFMyYXZqbWxOdW9ISjlORy1FWFdZN1RuVmhldVpUbEh2S1hxd3YzNm1oOGZtYVdXMHcyaml1V0gwSXBKTWc1YWhNdHpmUW",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN0N6SDEyVG5xRXhrZVA2aHA0aFNzcU12Qmd2ZVZmWUtLdDJma1A3RGRiS0JPSnU3MFFaMUlSWEc1V3NFLW9ocDFtM1VRb0k1bThuaUMyeFMyYXZqbWxOdW9ISjlORy1FWFdZN1RuVmhldVpUbEh2S1hxd3YzNm1oOGZtYVdXMHcyaml1V0gwSXBKTWc1YWhNdHpmUWFsSlNPSGxGcWNmVHE5T0F4NExuYW9ZVmFHSm9LMHdtVE00T21rZGZPNmQ0VFI2b3FFdlF5aGRrc0ZPc3QzUXQ5MFcw0gHsAUFVX3lxTE5hdWdKRTFRdmstN3lMcm9FWGxnVlNTeU5mOXNaS1BjUFE0eTdDLWdhZWRwcFcyRWR5STZ4OHF6MmJZTHdMaW5iYy14QmZkODFSVnF4UHNQQ0JYVF9xellpd1liWHpIRG1heUtiTkpQbkJzQmZLR2Q5WkJ3cVI5VUZpWnczN1RtWUpKdXM1SXpES19ORU5OMHN2OXhmUHltN3Q2TnpFRXJjTVdIVE9MZ1JBMEpGdkhQbEJaaFk4TEIzM1Y4Z0UxeUU2R1ZpcG83Zk9oX1R5Y2ptUEwtT2hwVDl3UUV0Y0drWVFKVmZz?oc=5",
+      "medio": "Blu Radio",
+      "fecha": "2026-11-11T18:58:43.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
       "titulo": "La catástrofe del Fomag",
       "resumen": "Cuando el gobierno de Gustavo Petro anunció que haría un cambio radical en el Fondo de Prestaciones Sociales del Magisterio (Fomag) para mejorarles ...",
       "link": "https://www.elcolombiano.com/opinion/editoriales/la-catastrofe-del-fomag-AG43540451",
@@ -208,15 +235,6 @@
       "fecha": "2026-11-11T11:30:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.p4qklHrZau6FjIxUl0I1SQ&pid=News",
       "tema": "Fecode Fomag"
-    },
-    {
-      "titulo": "Docentes inician paro de 24 horas y adelantan plantón en Medellín por crisis en la atención salud",
-      "resumen": "El magisterio antioqueño protesta ante el Gobierno Nacional por las filas de hasta dos cuadras y las graves aglomeraciones que persisten en el punto de dispensación del Fomag.",
-      "link": "https://www.bluradio.com/regiones/antioquia/docentes-inician-paro-de-24-horas-y-adelantan-planton-en-medellin-por-crisis-en-la-atencion-salud-rg10",
-      "medio": "Blu Radio",
-      "fecha": "2026-11-11T10:58:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.UuORgxqYKqC4f5gj_wBYvg&pid=News",
-      "tema": "salud del magisterio"
     },
     {
       "titulo": "Maestros no aguantan más al Fomag: harán plantón en protesta por la no atención en salud en Medellín",
@@ -449,7 +467,7 @@
       "link": "https://www.msn.com/es-co/noticias/other/fomag-tendr%C3%ADa-los-d%C3%ADas-contados-con-el-gobierno-de-la-espriella-fecode-asegura-que-nuevo-proyecto-lo-eliminar%C3%ADa/ar-AA2gHcvc",
       "medio": "Semana on MSN",
       "fecha": "2026-11-03T14:47:21.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Jn4jUmKsDFSIqeNFNWBRRA&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.E6vMYQOZ_vSFwMyRS_65YQ&pid=News",
       "tema": "Fecode Fomag"
     },
     {
@@ -687,15 +705,6 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Las razones por las que el Gobierno decidió terminar el contrato de 36 años con Fiduprevisora en el Fomag",
-      "resumen": "El Ministerio de Educación solicitó una auditoría forense y trasladó sus hallazgos a los organismos de control.",
-      "link": "https://www.msn.com/es-co/noticias/otras/las-razones-por-las-que-el-gobierno-decidi%C3%B3-terminar-el-contrato-de-36-a%C3%B1os-con-fiduprevisora-en-el-fomag/ar-AA2gxvnq",
-      "medio": "Portafolio on MSN",
-      "fecha": "2026-11-01T09:22:58.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.r01FUhfIKeEPzo6Pbi7N9A&pid=News",
-      "tema": "Fomag transición Fiduprevisora"
-    },
-    {
       "titulo": "Fecode defiende el régimen de salud del magisterio y advierte que el Fomag enfrenta un déficit de $2,6 billones - El Tiempo",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzNZc2NySTNvd2gyMlRpTVo0LVA4REhQOWh6M2h0LUNZQzJxQWhGY0hpbk5mZG92aTdTekdWNlpLd1JvdWNBbG9namM0YVNMNE9Ba2c3cm4zdkxHZUdVamF3WjFtSE9fMXlPUHpZeEs5S3BuQl9iRkplaEZDTVdRR3cyUl9lT0I4QVFGQWNFdXZFYnB5SUNiSmhLcT",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzNZc2NySTNvd2gyMlRpTVo0LVA4REhQOWh6M2h0LUNZQzJxQWhGY0hpbk5mZG92aTdTekdWNlpLd1JvdWNBbG9namM0YVNMNE9Ba2c3cm4zdkxHZUdVamF3WjFtSE9fMXlPUHpZeEs5S3BuQl9iRkplaEZDTVdRR3cyUl9lT0I4QVFGQWNFdXZFYnB5SUNiSmhLcTMwRzh6U2t5WnFEV1YxNVYtQmZUS2ZhY01Jc0VFQnZMWWVPVmFnNHpCSW81akdCV3lfZkJNS1Q5d1NsQ3R6VWRYZldQeEZUMGpDcnljeUN5Q0dXc9IB9AFBVV95cUxOYjdORW4tdmdIWEw3cGtJd2dpaUdHM3FadDgyZUVNaGJLLS1kc2dkN2dQNElFT0FDa3RobE94NmVEaGFEd2U0YXV4U3dMbXRQaWJ2NjNHczRUWWVUZWdGVUF3ZENsZGxjQkJLb2lrTHJzb3d2U0RXdXltQW0yVW9aTGsxeVFsNWExQk1pajBZUEJRbnVrMVdtZmlWVGY4NFUzeHlsQXV1UXYxY0NnNDdGVWw4OVVEZGU0eHpHbGhyRTY2SHg2eDRlbjZoZWk2Ykd5XzhOczVqa3lrRDd1Sk9WSWNCS1k0Q2U0Y1ZPS1JyRktzaUVf?oc=5",
@@ -709,15 +718,6 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxONlJtcmUwUFhQX0pPeV8ydURLNHFyN0N5bWxUZTdlUUdKSnNVRVdzY2lMWlcyUkdxRkozd0hSTmJQQjNXQ3ZWdURRengyMFBmM1MzOWNHRTJRVTJueDhrX3NlaGN2UTJIeGhjSTZPaG1Ma1RtTXJFNzlVc3ctaHFyUC11Z0ZhUlp1UFYtNUpLbS1TRkMzR3VCanZwdV",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONlJtcmUwUFhQX0pPeV8ydURLNHFyN0N5bWxUZTdlUUdKSnNVRVdzY2lMWlcyUkdxRkozd0hSTmJQQjNXQ3ZWdURRengyMFBmM1MzOWNHRTJRVTJueDhrX3NlaGN2UTJIeGhjSTZPaG1Ma1RtTXJFNzlVc3ctaHFyUC11Z0ZhUlp1UFYtNUpLbS1TRkMzR3VCanZwdVpqSlBpdjFiTzN5U3ZmWU9NQUNPTE8tdXNLY2ZvN3NUejZta0VxaTNyTkRheVMzYjFtdThJQ1k3eXU0VEJZclhMT2pPd1dwYy02bUhEbWZaS21uN0ZnLV82eXZpa2tWdzY4WVlLLWdSNENUZDU2bDktQVRZM2RLOS1OS0YzNmVlS1NMOVJBQQ?oc=5",
       "medio": "Ministerio de Educación Nacional",
-      "fecha": "2026-11-01T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "'Debe responder': Ministra de Educación cambia rumbo para los profesores en el Gobierno De La Espriella al poner fin a una era - RED+ Noticias",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnl2N2xhTU04dnBtN0d4aGNTZW5CWGk4R1dUa09xdHZfdTVKSXZmNzZGeFc3dVRMNVFhMnFxSmFJTFk3d2VFOWV4YUpTQ2FoQU1zczNFTDNyTEMtYVBlQ29ta1c1MVFoeWE5VGkyejhWbHlaRHNaYU1RZnUzSzRrbF85OEJRTkRUbzVLMXVSQWhYZHZfN28yVDBrcW",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnl2N2xhTU04dnBtN0d4aGNTZW5CWGk4R1dUa09xdHZfdTVKSXZmNzZGeFc3dVRMNVFhMnFxSmFJTFk3d2VFOWV4YUpTQ2FoQU1zczNFTDNyTEMtYVBlQ29ta1c1MVFoeWE5VGkyejhWbHlaRHNaYU1RZnUzSzRrbF85OEJRTkRUbzVLMXVSQWhYZHZfN28yVDBrcWhFS0NPcFg1bkREWll4cGNxdnVncmxTLXYwODFfZi1ua3RTVU44bUxQTE85NXp0OHdxb2VWVmJjWTJuZUF1aEdIdDFuYWFSbzdkR0xHeERHS0otQ293MnNlY2ZoS0x5QkRoUQ?oc=5",
-      "medio": "RED+ Noticias",
       "fecha": "2026-11-01T07:00:00.000Z",
       "imagen": "",
       "tema": "Fomag"
