@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T02:18:45.230Z",
+  "actualizado": "2026-11-15T09:42:09.492Z",
   "total": 80,
   "noticias": [
     {
@@ -183,15 +183,6 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Docentes inician paro de 24 horas y adelantan plantón en Medellín por crisis en la atención salud - Blu Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN0N6SDEyVG5xRXhrZVA2aHA0aFNzcU12Qmd2ZVZmWUtLdDJma1A3RGRiS0JPSnU3MFFaMUlSWEc1V3NFLW9ocDFtM1VRb0k1bThuaUMyeFMyYXZqbWxOdW9ISjlORy1FWFdZN1RuVmhldVpUbEh2S1hxd3YzNm1oOGZtYVdXMHcyaml1V0gwSXBKTWc1YWhNdHpmUW",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN0N6SDEyVG5xRXhrZVA2aHA0aFNzcU12Qmd2ZVZmWUtLdDJma1A3RGRiS0JPSnU3MFFaMUlSWEc1V3NFLW9ocDFtM1VRb0k1bThuaUMyeFMyYXZqbWxOdW9ISjlORy1FWFdZN1RuVmhldVpUbEh2S1hxd3YzNm1oOGZtYVdXMHcyaml1V0gwSXBKTWc1YWhNdHpmUWFsSlNPSGxGcWNmVHE5T0F4NExuYW9ZVmFHSm9LMHdtVE00T21rZGZPNmQ0VFI2b3FFdlF5aGRrc0ZPc3QzUXQ5MFcw0gHsAUFVX3lxTE5hdWdKRTFRdmstN3lMcm9FWGxnVlNTeU5mOXNaS1BjUFE0eTdDLWdhZWRwcFcyRWR5STZ4OHF6MmJZTHdMaW5iYy14QmZkODFSVnF4UHNQQ0JYVF9xellpd1liWHpIRG1heUtiTkpQbkJzQmZLR2Q5WkJ3cVI5VUZpWnczN1RtWUpKdXM1SXpES19ORU5OMHN2OXhmUHltN3Q2TnpFRXJjTVdIVE9MZ1JBMEpGdkhQbEJaaFk4TEIzM1Y4Z0UxeUU2R1ZpcG83Zk9oX1R5Y2ptUEwtT2hwVDl3UUV0Y0drWVFKVmZz?oc=5",
-      "medio": "Blu Radio",
-      "fecha": "2026-11-11T18:58:43.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
       "titulo": "La catástrofe del Fomag",
       "resumen": "Cuando el gobierno de Gustavo Petro anunció que haría un cambio radical en el Fondo de Prestaciones Sociales del Magisterio (Fomag) para mejorarles ...",
       "link": "https://www.elcolombiano.com/opinion/editoriales/la-catastrofe-del-fomag-AG43540451",
@@ -199,6 +190,24 @@
       "fecha": "2026-11-11T16:00:00.000Z",
       "imagen": "",
       "tema": "Fecode Fomag"
+    },
+    {
+      "titulo": "Fecode, principal sindicato de profesores, confirmó fecha de paro. Foto: Ministerio de Educación y Fecode Ministerio de Educación y Fecode",
+      "resumen": "La Federación Colombiana de Trabajadores de la Educación (Fecode) informa sobre medida que tendrá impacto en los estudiantes, justo en la temporada de fin de clases.",
+      "link": "https://redmas.com.co/colombia/colapso-fecode-hace-oficial-medida-que-afecta-clases-en-colegios-y-alza-su-voz-tras-cambio-anunciado-por-ministra-de-educacion-20261111-0015.html",
+      "medio": "Red+ Noticias",
+      "fecha": "2026-11-11T11:30:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.p4qklHrZau6FjIxUl0I1SQ&pid=News",
+      "tema": "Fecode Fomag"
+    },
+    {
+      "titulo": "Docentes inician paro de 24 horas y adelantan plantón en Medellín por crisis en la atención salud",
+      "resumen": "El magisterio antioqueño protesta ante el Gobierno Nacional por las filas de hasta dos cuadras y las graves aglomeraciones que persisten en el punto de dispensación del Fomag.",
+      "link": "https://www.bluradio.com/regiones/antioquia/docentes-inician-paro-de-24-horas-y-adelantan-planton-en-medellin-por-crisis-en-la-atencion-salud-rg10",
+      "medio": "Blu Radio",
+      "fecha": "2026-11-11T10:58:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.UuORgxqYKqC4f5gj_wBYvg&pid=News",
+      "tema": "salud del magisterio"
     },
     {
       "titulo": "Maestros no aguantan más al Fomag: harán plantón en protesta por la no atención en salud en Medellín",
@@ -359,7 +368,7 @@
       "link": "https://elfrente.com.co/gobierno-aclaro-que-el-fondo-nacional-de-prestaciones-sociales-del-magisterio-fomag-no-sera-eliminado/",
       "medio": "El Frente",
       "fecha": "2026-11-04T05:22:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.jX_USbQSJPFtg5DvQEwmTA&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.I2m7DbYSbNvaE2ipmtPGTg&pid=News",
       "tema": "licitación Fomag fiduciaria"
     },
     {
@@ -415,6 +424,15 @@
       "fecha": "2026-11-03T16:30:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.RsD81AYp_JP6mHNiENm2Dw&pid=News",
       "tema": "Fomag proyecto de ley"
+    },
+    {
+      "titulo": "¿Fomag tendría los días contados con el Gobierno de La Espriella? Fecode asegura que nuevo proyecto lo eliminaría",
+      "resumen": "El Fondo Nacional de Prestaciones Sociales del Magisterio en Colombia, más conocido como Fomag, ha enfrentado varios problemas desde hace varios meses, más en concreto desde el Gobierno de Gustavo Pet ...",
+      "link": "https://www.msn.com/es-co/noticias/other/fomag-tendr%C3%ADa-los-d%C3%ADas-contados-con-el-gobierno-de-la-espriella-fecode-asegura-que-nuevo-proyecto-lo-eliminar%C3%ADa/ar-AA2gHcvc",
+      "medio": "Semana on MSN",
+      "fecha": "2026-11-03T14:47:21.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.Jn4jUmKsDFSIqeNFNWBRRA&pid=News",
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "Borrador de reforma al FOMAG: Estas entidades asumirían los servicios de salud, pensiones y cesantías de los profesores",
@@ -561,15 +579,6 @@
       "tema": "Fomag proyecto de ley"
     },
     {
-      "titulo": "¿Fomag tendría los días contados con el Gobierno De La Espriella? Fecode asegura que nuevo proyecto lo eliminaría - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXNFZ3ZWTnExQU11Y2diVmx6NlY3V3lvbElReXRKMzhsbXZmM2dHRmFIMXd0UTVONjNDb3pqdlg1NGJsNVp5Z2hkUVNfTjU1bzdIaV9JMU93NTJqXzBDMmRla3J6R2FiclpoRWgzWWxmbnFOVXYtUEtid1U4YXpjc1ZBQmpEVlVaYXhQMkpGdlRxcmY1MWcwRjBSSV",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXNFZ3ZWTnExQU11Y2diVmx6NlY3V3lvbElReXRKMzhsbXZmM2dHRmFIMXd0UTVONjNDb3pqdlg1NGJsNVp5Z2hkUVNfTjU1bzdIaV9JMU93NTJqXzBDMmRla3J6R2FiclpoRWgzWWxmbnFOVXYtUEtid1U4YXpjc1ZBQmpEVlVaYXhQMkpGdlRxcmY1MWcwRjBSSVgtdUFGQzNscjN0eUt2QWx2RF9kOWQ1R3ZXb1NzdkNkdnRqY1RQTk5Kei0yZmNvYVMwNExHTzNQMzlRcTFKZHBXUUpRSWFlN2ptTlU1b0dlb2s3aG5SZ9IB9wFBVV95cUxNQ0pHQWdfSFUzTUcxanNWUXprVE1OQXAxeGVMLTVMUUdXT2RONmdNWGNHUVY1R29jdy05eHJUV2dwVG1KcXFvRTV3RWVxSjZLamloLWRGWWV1UzN5WDhONjdlRi1RWks1TWEwUnNQcUF0VlBPRTVWSEZ3c1piY2pFQ05HbEM4Nms0WjVtanBHMTZ1ZkxCZWh0M3ZUOEtVc3hRR3BoZ2VzTml1WHRYYTcwNFQxeFE2QVRBQUtuWklnUDVJYXBfNWQ5VmR6UWE2WTVaOE96R3hUYjZGYWw1Z19OUTVxTW9UTTFjZEExRzZ3Y19fRnZmOXB3?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-11-03T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fecode Fomag"
-    },
-    {
       "titulo": "¿Quien se robo el dinero del Fomag?: Los aliados políticos de Abelardo que administraban la Previsora. El señor Marín y sus amigos. La denuncia fue puesta por nosotros hace años en la procuraduría y en la fiscalía Es mi reforma al fomag, defendida débilm - X",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5\" target=\"_blank\">¿Quien se robo el dinero del Fomag?: Lo",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5",
@@ -613,6 +622,15 @@
       "fecha": "2026-11-03T03:14:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.cPX7Yw9H2UzP5_oypU_xLg&pid=News",
       "tema": "Fomag Nueva EPS docentes"
+    },
+    {
+      "titulo": "Salud de los maestros: Fomag inicia plan de choque en Antioquia para atender la crisis",
+      "resumen": "El Fondo Nacional de Prestaciones Sociales del Magisterio (Fomag) puso en marcha en Antioquia la primera intervención territorial de un plan de choque con el que busca estabilizar la prestación de los ...",
+      "link": "https://www.eltiempo.com/vida/educacion/salud-de-los-maestros-fomag-inicia-plan-de-choque-en-antioquia-para-atender-la-crisis-3598054",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-02T23:46:00.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
     },
     {
       "titulo": "Gobierno nacional desmiente proyecto de ley para acabar con el FOMAG",
@@ -678,15 +696,6 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Gobierno no prorrogará contrato con Fiduprevisora para administrar el Fomag: transición comienza el 1 de - Emisora Atlántico 1070 AM",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXNyaVpRZHh5eXVFcmJKeURYSURaSnhVUE1qNmRoZU1pMVo3aEM1UVhMMVpSM09NTG1LY2Jva1JUelJSZ0JCOFZOd0JEdDVTR2NaTTVlaWFDaW1yR2UxbWdpVWoxOXJ4VmM3S2ZhOGNmNGpOU0tmdkJWX2hsYTRTYTQwcjRJU2s2TzhpQUhocFJmNkttMHlwUWVSQy",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXNyaVpRZHh5eXVFcmJKeURYSURaSnhVUE1qNmRoZU1pMVo3aEM1UVhMMVpSM09NTG1LY2Jva1JUelJSZ0JCOFZOd0JEdDVTR2NaTTVlaWFDaW1yR2UxbWdpVWoxOXJ4VmM3S2ZhOGNmNGpOU0tmdkJWX2hsYTRTYTQwcjRJU2s2TzhpQUhocFJmNkttMHlwUWVSQy0wa0c4ZTQzNnNyRk5GdVZoM3hvRzNpY2dEZ1JjUWFLRHc1WTFWb2NTMm9pRGl4QUYyNDVveV9VQWZrUnBWWkZQTUVWOXJGNXREcG1XaVd3N1J30gH2AUFVX3lxTE41WXdHNERYSG83d21VaS1aQzgtZjJTTUw0Q2U0bEVtX0gwTHozQW1TdWJmZS1WdVNlVzRHVzlWNFJabi13QzliNm1ISUZwQm92VlQ0QnZYS1JndUpMZzFMTWZIWUxUdm5LTkRkakJEZGNQMTR5UXc4UW9yTmIxb2JZdEpRblFXSVZLQ3drM0htck54OHpCcV9HbEJiRlVjczRYZDFXZ3E2ei13bjFiTEU0bzFLOGJCcmlKSU9NRk1FWlRMT1d0anJNSEp3a1hJVFJqREVNWXhTZndGWnVCenNpYlB5R3U1OFVmRm5ENWFaYm50Vy1GZw?oc=5",
-      "medio": "Emisora Atlántico 1070 AM",
-      "fecha": "2026-11-01T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag transición Fiduprevisora"
-    },
-    {
       "titulo": "Fecode se pronuncia tras la salida de Fiduprevisora del Fomag y advierte que el déficit de la salud sigue sin resolverse - Revista Semana",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNNE1pR1piamtrcXcxS3c5aldEY0tPWjNoeFJnTFVuX3pPbnIzR1hsOWdBRHVJLW5YVEJJZTN5UWFFdzVMc0Y0S1I1QXdiUEppWDdMR2FmbWpXRzhLYnBYTzBqWkF0ZHBjc0hvVFZsWm0tZThLaWFQMFdjVmQ5RkYzQWFUMXVoU3lBeUVtM3R6eVM0b0pYb0dWcHVIal",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNE1pR1piamtrcXcxS3c5aldEY0tPWjNoeFJnTFVuX3pPbnIzR1hsOWdBRHVJLW5YVEJJZTN5UWFFdzVMc0Y0S1I1QXdiUEppWDdMR2FmbWpXRzhLYnBYTzBqWkF0ZHBjc0hvVFZsWm0tZThLaWFQMFdjVmQ5RkYzQWFUMXVoU3lBeUVtM3R6eVM0b0pYb0dWcHVIalJvYzdxTFlYTl9FXzU3R0N5ZDlzaXNyTkZNMERwcm9tdVF4NERHblkzZlM3VmdudTQtclNnVkR2Z2FUcDluMGQydjg0TXEzN3dsdTRNMUV5azVNSWU3eXoybklVYzdQM2NVcHpPNlNFNUFQa0lMV0FzVEQzctIBlgJBVV95cUxQR2JqWXUyMHZmRkpPT3pxZmtIdkFwSVpJWHFFN2h6OHhxMk9oaDNHaVJCNXhCQi0xV256TEYxaF9MelI2aXQ5cEl3M01IS1hRcV9Fc056MERER3lzQ2FjU1FQUmkwTzQ3aFdrVjA1VlR2WlNLTFI4RUpNVVJKNnBiT3Zsc05TNWVpM2JBMWxHZmZ1b3ZuTFpEWFJYanBfUXNYOWhEMGV6djBwOGdPb2V6WDMzTUxyOEY2RUtBTzFxOXltMV9GNm92SXBlbU1LZ1hPZVlkdTdpNC1kel9xamEzUE00dWxkZGdCeVZjWEtoN3JBR3dUOFdwSFNTM3BxNHk0NW9wY2R4SVpNay15ZFJleDJzeEk0UQ?oc=5",
@@ -709,15 +718,6 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa25Kb29KZU1zVVk0U1BuUjdibnAwc2M0YXVlc1NzSkt4cktUNWk2TDZfb1FRSWxXNktMV1pvNG04dWNpeHpHM1phZDRVcWJWY1B5c3BFZlc2Ylpucm1hcjhUeUxLQkQxSVRZMHBHUWFvODV6OTNESndEak9HV3Nza0k1VFkwWHhZMVVsZUhzRUVxMzNrb2RLODE3VV",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa25Kb29KZU1zVVk0U1BuUjdibnAwc2M0YXVlc1NzSkt4cktUNWk2TDZfb1FRSWxXNktMV1pvNG04dWNpeHpHM1phZDRVcWJWY1B5c3BFZlc2Ylpucm1hcjhUeUxLQkQxSVRZMHBHUWFvODV6OTNESndEak9HV3Nza0k1VFkwWHhZMVVsZUhzRUVxMzNrb2RLODE3VVJiOVg5dTdJNjRrd0RCa2syZ0VoRW0yVjVJSDVQMXhfWGROR3hQbk1kMWJ2NzVKd0lIazMwSGQwbWZUT3lCU1RQLUJzQW1zZEVhZk9qZjdKQVhDc3luenNfcHJmSzM4aXBSWWtQc1pPZHdtdVrSAaMCQVVfeXFMUDg2eG41UGxJV2ZfNUQzeXRZR05CVVBVWWV6STZJQ2lKazVTT2RlSEQ1cDI2SHJPTko3MUE2elNLRzdFeGE3bjkwU3RvcV84ODJpU1Q5bElOaEI0NTY2TEdab3llTVdPUlo3THZfOVJIVEF5dWtKOUxoMlhJMWV1aWw4TEFHNW5pY3Y3REljbzZmNmx4d0JLNDRxa3d3M0syNVNBeTk2OW81YTd0d0hpUEpfMnhwZzNSblVLcE5mTHpteVdxbnJwX3BLSmJqQVl4c1YtcFRBT3BjMWh3bC1pd0wwdF94a3JGNnNhaVpXazEyOGdBTTdKajhYWFYzel9aSHU3ci11S09OMjZiUURUQlhEc2tjN2cwUXlaUV93WnhOMjA0?oc=5",
       "medio": "Infobae",
-      "fecha": "2026-11-01T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag transición Fiduprevisora"
-    },
-    {
-      "titulo": "FOMAG rompe contrato de 36 años con Fiduprevisora: Gobierno anuncia cambio en la administración de la salud de los maestros - Tolima Online",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGVORTVmSWwyS0tkRG5ONi1SM2pkdGVtS21RYmVWNTRDekRZaTBkWDhXSWpnRENDUlQyRTl3QUs0dkFXRmh6ZFNWRmxNUExQUnlXUWlsQXBQdHpaTTVkSnB3S0YxVzZuQ1RMenNiWGFickpJRVZzaW9iZExqUmdEeWE1X2d5Zm9wdktGSFdNVmRLMG5qVnM3a1Bfci",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGVORTVmSWwyS0tkRG5ONi1SM2pkdGVtS21RYmVWNTRDekRZaTBkWDhXSWpnRENDUlQyRTl3QUs0dkFXRmh6ZFNWRmxNUExQUnlXUWlsQXBQdHpaTTVkSnB3S0YxVzZuQ1RMenNiWGFickpJRVZzaW9iZExqUmdEeWE1X2d5Zm9wdktGSFdNVmRLMG5qVnM3a1Bfci1lRGhTMkVuOHFURXdEUUZaWXJfLVo5ZnBtOHN3RFFITEtsdVJpaWZEaWZnMVdFR2xHbDZVMWNaSVBZUXZkdExMNHNGaHFB?oc=5",
-      "medio": "Tolima Online",
       "fecha": "2026-11-01T07:00:00.000Z",
       "imagen": "",
       "tema": "Fomag transición Fiduprevisora"
