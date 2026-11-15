@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T22:50:12.080Z",
+  "actualizado": "2026-11-15T02:18:45.230Z",
   "total": 80,
   "noticias": [
     {
@@ -111,15 +111,6 @@
       "tema": "salud del magisterio"
     },
     {
-      "titulo": "Supersalud revisa fallas en la atención de Sanidad Militar y el sistema de salud del Magisterio - Blu Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObWUtdFZYVy1LSlFhcUEtY0Z2eWJJZFhzNjFjMUhiMEtNQ01oSGQ4SktGZmhYbzh3d3NfWjdJMTdsSFRHQ0czNUMxSTB5R2ZDbF85NkJHZVdTclJfd1lHYXdvaW54a0RPcWF3TV9iZVR5RFh6S2twbTdlMTJsWnFJOWF6TGZCNGZHa3RfbUViUFIzWWRGTkx6SUxjb0",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObWUtdFZYVy1LSlFhcUEtY0Z2eWJJZFhzNjFjMUhiMEtNQ01oSGQ4SktGZmhYbzh3d3NfWjdJMTdsSFRHQ0czNUMxSTB5R2ZDbF85NkJHZVdTclJfd1lHYXdvaW54a0RPcWF3TV9iZVR5RFh6S2twbTdlMTJsWnFJOWF6TGZCNGZHa3RfbUViUFIzWWRGTkx6SUxjb096WmNiYmdNRHdfV3RTeUF3VkZoMU9OOVBsMDI5NVNlQVQ1LUVvNjdhNko0Y2NOQdIB2AFBVV95cUxNWm5wbmdpQmtRQmU3aTgtYklUZVF4VzJPZC1YakVHb1h0QldKU1hYSFZaWmg5WGhGc2tXYzR2dzNVbF9UbTFLSjkzbGRYeGZXWDFXUXZJbDBsOUZPVHFLZDRqYk1EWGN0a3hXWG9hcUtOeE9aUWM0REhVbTJOUzRoZVFwYy1mNzZ6cmdld3p2dzBVcDdHQzRCMDJWTEp1ZGpuRlFwaHRPa0FJNjFsY1c4eHp3LU1sVmlqTWlGVU9sMUpkUlpremQwZGREeGtEcTNFek9tM1VUZHE?oc=5",
-      "medio": "Blu Radio",
-      "fecha": "2026-11-12T18:03:02.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
       "titulo": "Lupa de la Supersalud sobre la atención médica de militares y maestros - Nos Cogió la Noche",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFdXSktpU3AweGJvVVJ0VWprRkt4NXUxVWc5Qkh4X1NlWmVscms0RGVrUEtuX1JtVTdsT2M0cGU3RkJDLUo0aDBkOExSaDRpd2llUldhVmV3NkVsZjctLXgtVTVxbHNhUEdnSUV0bk9oTkc3Z2xQQXNSbXd0M2VBOFUyQmVSY2s0THFVZVNRb08xaURmX0kxNGlaTn",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFdXSktpU3AweGJvVVJ0VWprRkt4NXUxVWc5Qkh4X1NlWmVscms0RGVrUEtuX1JtVTdsT2M0cGU3RkJDLUo0aDBkOExSaDRpd2llUldhVmV3NkVsZjctLXgtVTVxbHNhUEdnSUV0bk9oTkc3Z2xQQXNSbXd0M2VBOFUyQmVSY2s0THFVZVNRb08xaURmX0kxNGlaTnJOQUZO?oc=5",
@@ -163,6 +154,15 @@
       "fecha": "2026-11-12T10:42:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.FoTJ7Q8zAFYDN78dtzH1bA&pid=News",
       "tema": "Fecode Fomag"
+    },
+    {
+      "titulo": "Supersalud revisa fallas en la atención de Sanidad Militar y el sistema de salud del Magisterio",
+      "resumen": "La entidad busca verificar las quejas de los usuarios, las fallas en la prestación de los servicios y posibles irregularidades en la contratación.",
+      "link": "https://www.bluradio.com/salud/supersalud-revisa-fallas-en-la-atencion-de-sanidad-militar-y-el-sistema-de-salud-del-magisterio-rg10",
+      "medio": "Blu Radio",
+      "fecha": "2026-11-12T10:03:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.LjQFoudtkPWAU_ofTS0bfg&pid=News",
+      "tema": "salud del magisterio"
     },
     {
       "titulo": "Supersalud prende alarmas por atención en salud de militares y docentes: Sanidad Militar y Fomag, bajo revisión",
@@ -417,15 +417,6 @@
       "tema": "Fomag proyecto de ley"
     },
     {
-      "titulo": "¿Fomag tendría los días contados con el Gobierno de La Espriella? Fecode asegura que nuevo proyecto lo eliminaría",
-      "resumen": "El Fondo Nacional de Prestaciones Sociales del Magisterio en Colombia, más conocido como Fomag, ha enfrentado varios problemas desde hace varios meses, más en concreto desde el Gobierno de Gustavo Pet ...",
-      "link": "https://www.msn.com/es-co/noticias/other/fomag-tendr%C3%ADa-los-d%C3%ADas-contados-con-el-gobierno-de-la-espriella-fecode-asegura-que-nuevo-proyecto-lo-eliminar%C3%ADa/ar-AA2gHcvc",
-      "medio": "Semana on MSN",
-      "fecha": "2026-11-03T14:47:21.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Jn4jUmKsDFSIqeNFNWBRRA&pid=News",
-      "tema": "Fecode Fomag"
-    },
-    {
       "titulo": "Borrador de reforma al FOMAG: Estas entidades asumirían los servicios de salud, pensiones y cesantías de los profesores",
       "resumen": "Un borrador de proyecto de ley que busca eliminar el Fondo Nacional de Prestaciones Sociales del Magisterio (FOMAG) plantea modificar la administración de los servicios de salud y las prestaciones ...",
       "link": "https://www.elpais.com.co/colombia/borrador-de-reforma-al-fomag-estas-entidades-asumirian-los-servicios-de-salud-pensiones-y-cesantias-de-los-profesores-0356.html",
@@ -568,6 +559,15 @@
       "fecha": "2026-11-03T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag proyecto de ley"
+    },
+    {
+      "titulo": "¿Fomag tendría los días contados con el Gobierno De La Espriella? Fecode asegura que nuevo proyecto lo eliminaría - Revista Semana",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXNFZ3ZWTnExQU11Y2diVmx6NlY3V3lvbElReXRKMzhsbXZmM2dHRmFIMXd0UTVONjNDb3pqdlg1NGJsNVp5Z2hkUVNfTjU1bzdIaV9JMU93NTJqXzBDMmRla3J6R2FiclpoRWgzWWxmbnFOVXYtUEtid1U4YXpjc1ZBQmpEVlVaYXhQMkpGdlRxcmY1MWcwRjBSSV",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSXNFZ3ZWTnExQU11Y2diVmx6NlY3V3lvbElReXRKMzhsbXZmM2dHRmFIMXd0UTVONjNDb3pqdlg1NGJsNVp5Z2hkUVNfTjU1bzdIaV9JMU93NTJqXzBDMmRla3J6R2FiclpoRWgzWWxmbnFOVXYtUEtid1U4YXpjc1ZBQmpEVlVaYXhQMkpGdlRxcmY1MWcwRjBSSVgtdUFGQzNscjN0eUt2QWx2RF9kOWQ1R3ZXb1NzdkNkdnRqY1RQTk5Kei0yZmNvYVMwNExHTzNQMzlRcTFKZHBXUUpRSWFlN2ptTlU1b0dlb2s3aG5SZ9IB9wFBVV95cUxNQ0pHQWdfSFUzTUcxanNWUXprVE1OQXAxeGVMLTVMUUdXT2RONmdNWGNHUVY1R29jdy05eHJUV2dwVG1KcXFvRTV3RWVxSjZLamloLWRGWWV1UzN5WDhONjdlRi1RWks1TWEwUnNQcUF0VlBPRTVWSEZ3c1piY2pFQ05HbEM4Nms0WjVtanBHMTZ1ZkxCZWh0M3ZUOEtVc3hRR3BoZ2VzTml1WHRYYTcwNFQxeFE2QVRBQUtuWklnUDVJYXBfNWQ5VmR6UWE2WTVaOE96R3hUYjZGYWw1Z19OUTVxTW9UTTFjZEExRzZ3Y19fRnZmOXB3?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "¿Quien se robo el dinero del Fomag?: Los aliados políticos de Abelardo que administraban la Previsora. El señor Marín y sus amigos. La denuncia fue puesta por nosotros hace años en la procuraduría y en la fiscalía Es mi reforma al fomag, defendida débilm - X",
