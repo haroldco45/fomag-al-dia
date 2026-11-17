@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T02:14:57.371Z",
+  "actualizado": "2026-11-17T10:55:49.045Z",
   "total": 80,
   "noticias": [
     {
@@ -28,6 +28,15 @@
       "fecha": "2026-11-16T13:56:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.9gV1ydgHnTTQgGEC4ifx1A&pid=News",
       "tema": "Fecode Fomag"
+    },
+    {
+      "titulo": "Gremios de salud, educación y jubilados de Monagas protestan en Maturín por mejoras salariales y aguinaldos",
+      "resumen": "La protesta, que partió desde la plaza Piar en Maturín, congregó a diversos sectores laborales de la entidad. La jornada tuvo como epicentro los reclamos por la desmejora en los beneficios económicos ...",
+      "link": "https://laprensademonagas.com/gremios-de-salud-educacion-y-jubilados-de-monagas-protestan-en-maturin-por-mejoras-salariales-y-aguinaldos/",
+      "medio": "laprensademonagas.com",
+      "fecha": "2026-11-16T09:47:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.EGVd1mcQHctID9fLyFUdOA&pid=News",
+      "tema": "salud del magisterio"
     },
     {
       "titulo": "Maestros en Caldas exigen mejoras en sistema de salud y anuncian plantones la próxima semana - Caracol Radio",
@@ -224,7 +233,7 @@
       "link": "https://www.semana.com/salud/articulo/supersalud-prende-alarmas-por-atencion-en-salud-de-militares-y-docentes-sanidad-militar-y-fomag-bajo-revision/202657/",
       "medio": "Semana",
       "fecha": "2026-11-12T10:02:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.lmuup9U988g5eyPzsC9uLw&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.B3JB3asPKl5pAHObEZZgew&pid=News",
       "tema": "Fomag"
     },
     {
@@ -233,7 +242,7 @@
       "link": "https://www.lafm.com.co/sociedad/supersalud-eps-sanidad-militar-fomag-fallas-atencion-medica-417009",
       "medio": "La FM",
       "fecha": "2026-11-12T00:05:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.hJ8uRzLAKqyKjBWYZ-4bmw&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.49BP_D_RjbhWBJbuiIH4Gg&pid=News",
       "tema": "Fomag"
     },
     {
@@ -467,7 +476,7 @@
       "link": "https://www.lafm.com.co/economia/ministerio-de-educacion-desmiente-eliminacion-del-fomag-416049",
       "medio": "La FM",
       "fecha": "2026-11-03T16:50:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.whY4IXSrDdOq9Rbteok7aQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.6t0kZTphajqAClDemL5FuA&pid=News",
       "tema": "Fomag"
     },
     {
@@ -494,7 +503,7 @@
       "link": "https://www.msn.com/es-co/noticias/other/fomag-tendr%C3%ADa-los-d%C3%ADas-contados-con-el-gobierno-de-la-espriella-fecode-asegura-que-nuevo-proyecto-lo-eliminar%C3%ADa/ar-AA2gHcvc",
       "medio": "Semana on MSN",
       "fecha": "2026-11-03T14:47:21.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Jn4jUmKsDFSIqeNFNWBRRA&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.E6vMYQOZ_vSFwMyRS_65YQ&pid=News",
       "tema": "Fecode Fomag"
     },
     {
@@ -674,7 +683,7 @@
       "link": "https://www.eltiempo.com/vida/educacion/por-que-el-gobierno-no-renovo-el-contrato-del-fomag-con-fiduprevisora-que-tan-grave-es-la-crisis-y-que-pasara-con-la-salud-de-los-maestros-3598138",
       "medio": "El Tiempo",
       "fecha": "2026-11-03T04:59:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.6iUfhNEI-qI49tk34zKvpg&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.mikee0EyjbkVMaQK_Tj5bw&pid=News",
       "tema": "Fomag"
     },
     {
@@ -712,15 +721,6 @@
       "fecha": "2026-11-02T16:00:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.djrvbANMNJNn5GUO5Zu1bA&pid=News",
       "tema": "Fomag proyecto de ley"
-    },
-    {
-      "titulo": "Gobierno no prorroga contrato del FOMAG con Fiduprevisora: comienza transición para garantizar la salud de los maestros",
-      "resumen": "El Ministerio reportó un patrimonio negativo de $3,198 billones a junio de 2026.",
-      "link": "https://consultorsalud.com/fomag-no-prorroga-contrato-fiduprevisora-2026/",
-      "medio": "Consultorsalud",
-      "fecha": "2026-11-02T14:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag transición"
     }
   ]
 }
