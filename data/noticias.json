@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-11-18T01:59:03.631Z",
+  "actualizado": "2026-11-18T09:53:02.515Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "FOMAG y presupuesto de educación: las propuestas del Gobierno que generan preocupación entre los maestros - Diario La Libertad",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelRVTVpxWExVR2QtYVVEN0dUcHBRNlpxbWRoTFFjbVlCS05kQy1rR0hyTWZUMnZhaFYxYnpkejBPd0l3NEdoODhTRnE0bTZNdjNqWFNnc0lReWlmZnRuVGxIT25GYjBSZklvV041dWhPOTRnckV6NUVMRlFfX3dGeDh1cENXX0lwNGltRFl3TU9Uc05mYUw5UDl5T1",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelRVTVpxWExVR2QtYVVEN0dUcHBRNlpxbWRoTFFjbVlCS05kQy1rR0hyTWZUMnZhaFYxYnpkejBPd0l3NEdoODhTRnE0bTZNdjNqWFNnc0lReWlmZnRuVGxIT25GYjBSZklvV041dWhPOTRnckV6NUVMRlFfX3dGeDh1cENXX0lwNGltRFl3TU9Uc05mYUw5UDl5T1B1OGRGczl5VTE5YldRVWJrSjJEWWRfS0E2M1RBMVlUek5xUVRZY3hQTTZuczduYUdmQThVblpuZEctZ3hyWDI1NGc?oc=5",
+      "medio": "Diario La Libertad",
+      "fecha": "2026-11-18T03:16:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Magisterio de Nariño se suma al paro nacional convocado para el 19 de noviembre",
+      "resumen": "Docentes de Nariño participarán en el paro nacional del 19 de noviembre para exigir respuestas a sus solicitudes.",
+      "link": "https://www.diariodelsur.com.co/noticias/magisterio-de-narino-se-suma-al-paro-nacional-convocado-para-el-19-de-noviembre-2",
+      "medio": "Diario del Sur",
+      "fecha": "2026-11-17T16:00:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.fN6TWyE1rPY8Zy29aXhi8A&pid=News",
+      "tema": "salud del magisterio"
+    },
     {
       "titulo": "Nariño: el magisterio anuncia participación en paro nacional - Diario del Cauca",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNX1BJU1NYVFJublZfWUpHZHFERENET0x2NHd4MnNZM1ZONndLdXNHWi1iUUxLQlpUbVNmamlwbm1tdy1nRE16ZldCUFk3M1BCQllsdEF3MzVENTkwc1YtOUlQa092ZDdNb1RNTEJBZTlmLWs1U0ZRa2xtQUZZNDlieThqUlFWRmw0OFE1NW5NUzk4N1oycnhjaklSSG",
@@ -9,15 +27,6 @@
       "medio": "Diario del Cauca",
       "fecha": "2026-11-17T14:32:43.000Z",
       "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Magisterio de Nariño se suma al paro nacional convocado para el 19 de noviembre",
-      "resumen": "El magisterio de Nariño anunció su participación en el paro nacional convocado para el próximo 19 de noviembre ...",
-      "link": "https://www.diariodelsur.com.co/noticias/magisterio-de-narino-se-suma-al-paro-nacional-convocado-para-el-19-de-noviembre",
-      "medio": "Diario del Sur",
-      "fecha": "2026-11-17T09:38:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.s_NYftRql452gmt75XJ1fA&pid=News",
       "tema": "salud del magisterio"
     },
     {
@@ -75,6 +84,15 @@
       "tema": "salud del magisterio"
     },
     {
+      "titulo": "Los 'milagros' en educación: obras por $337.000 millones, alivio a 235.000 usuarios del Icetex y auditoría al Fomag - Portafolio.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX00zbllDZjR3NlF5NmxsM2RpY3gxVUJIcXlEWWY4U0MtOUJTZGJrWTRROFZldnFvNFUtLWtWVlJqRmZiR0dnOVVlV0xraDRsRTgwNURZRHhNczNlSDllVVFUQmhXM2NEZzEtRzY5SkdTMl81cnY5TWt3ZDFrd0VhSldNcWpqSGg5UzVTRXh5NkIyb1lPZGgwbUhfTD",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX00zbllDZjR3NlF5NmxsM2RpY3gxVUJIcXlEWWY4U0MtOUJTZGJrWTRROFZldnFvNFUtLWtWVlJqRmZiR0dnOVVlV0xraDRsRTgwNURZRHhNczNlSDllVVFUQmhXM2NEZzEtRzY5SkdTMl81cnY5TWt3ZDFrd0VhSldNcWpqSGg5UzVTRXh5NkIyb1lPZGgwbUhfTDVWenBPeXJoZ0p0czhQNjlQMWp5MHVKMzRHcUIxNDZyekNTV1U0RTZRVE9lMXFOOGpQWGNtMFZRdDI2eE81YV9hSEtZbDZIemY4Q1dTb2VFS2lsSFRfVk3SAfgBQVVfeXFMTnJiSGRpQUZRZG5kUGdIZEpOU0ZBMjZJMkZsTDlEaUh0NEZXbGdNWTlHaXJjZDh2anZ0WjBJbW9KWUtSWTk2ZS1sSGkzVHJmN2hFbTQwcmJqaWVCcWpXNXJSWUw2MDRxdXR2Yy1faDdBM0tGUXpfLXEyVVJLMkhwMWs5b2xHM19nUEpPTEo2UXY5WkM5eFVwQ093NVJrTjgtXzJGdXVKXzdJaFFPWlh0N2NhVmdFRlNlYkJfeWJwNS1WX3Y4M1U1dy00M1hsSHZjZmMyN0NuYlludW83aGRtUFZjMHZwQzZLQTRxUlpFd0VWUEJrcnBKYnc?oc=5",
+      "medio": "Portafolio.co",
+      "fecha": "2026-11-15T16:50:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
       "titulo": "Trabajadores de salud, universitarios y magisterio van a Paro Nacional por 12 horas este lunes - El Martillo Venezuela",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0tuVTNxQ09maV9VYTIwQkVrY3kwYjNjQ2VJNFlEV0JYVkpxSUhLb0I1V2tXYWJUanAyQnFBdlo5a2Jaa09oR0dqeWpYVEd2aGQ3bkN3ZTdBYnhWX29vR2ZnMVZsY0NIaWtidGlacFAzYjhHOHJDSVNyRkV1SlVMcEV6ME1fd2V2bjFFVklWZFJsVy1iMm5TaXhqSj",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0tuVTNxQ09maV9VYTIwQkVrY3kwYjNjQ2VJNFlEV0JYVkpxSUhLb0I1V2tXYWJUanAyQnFBdlo5a2Jaa09oR0dqeWpYVEd2aGQ3bkN3ZTdBYnhWX29vR2ZnMVZsY0NIaWtidGlacFAzYjhHOHJDSVNyRkV1SlVMcEV6ME1fd2V2bjFFVklWZFJsVy1iMm5TaXhqSjg3dS1iVjlTZVdVNmduQ2tLbDNQbTdKbFk1RW1iUWZ2UmlzYk9qdw?oc=5",
@@ -82,15 +100,6 @@
       "fecha": "2026-11-15T15:41:00.000Z",
       "imagen": "",
       "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Los 'milagros' en educación: obras por $337.000 millones, alivio a 235.000 usuarios del Icetex y auditoría al Fomag",
-      "resumen": "El Ministerio reporta clases restablecidas para 1.275.967 estudiantes tras el sismo y recorte de 70,1% en viajes.",
-      "link": "https://www.msn.com/es-co/noticias/otras/los-milagros-en-educaci%C3%B3n-obras-por-337000-millones-alivio-a-235000-usuarios-del-icetex-y-auditor%C3%ADa-al-fomag/ar-AA2hugek",
-      "medio": "Portafolio on MSN",
-      "fecha": "2026-11-15T08:50:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.bmFN3WYqikJwmt_-h0TTRw&pid=News",
-      "tema": "Fomag"
     },
     {
       "titulo": "Fomag incumplió 8 de 13 órdenes y la Supersalud vigila Sanidad Militar - El Norte Hoy",
@@ -261,7 +270,7 @@
       "medio": "Semana",
       "fecha": "2026-11-12T10:02:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.lmuup9U988g5eyPzsC9uLw&pid=News",
-      "tema": "Fomag"
+      "tema": "Fomag Nueva EPS docentes"
     },
     {
       "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica",
@@ -306,7 +315,7 @@
       "medio": "Blu Radio",
       "fecha": "2026-11-11T05:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.1WxYHjo4-oSJsd-KpHjsEQ&pid=News",
-      "tema": "Fomag"
+      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "En Carabobo gremios de salud, magisterio y universidad anuncian que se unen a paro de 12 horas - Diario La Calle",
@@ -351,7 +360,7 @@
       "medio": "El Nuevo Día",
       "fecha": "2026-11-09T05:00:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.6IRXeyfoQanqSggKYQJ9hQ&pid=News",
-      "tema": "Fomag"
+      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "Fomag anuncia acuerdos con centros asistenciales en Antioquia: vuelven servicios de cancerología",
@@ -513,7 +522,7 @@
       "medio": "La FM",
       "fecha": "2026-11-03T16:50:00.000Z",
       "imagen": "",
-      "tema": "Fomag"
+      "tema": "Fomag proyecto de ley"
     },
     {
       "titulo": "Gobierno desmiente que esté preparando un proyecto de ley para acabar el Fomag",
@@ -575,17 +584,8 @@
       "link": "https://www.msn.com/es-co/noticias/otras/denuncian-a-tres-exministros-de-petro-por-crisis-de-salud-del-magisterio-pulzo/vi-AA2gGvvQ",
       "medio": "Pulzo.com on MSN",
       "fecha": "2026-11-03T11:37:56.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.x3ubxjiDh7rcCjlmrFw8Zg&pid=News",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Gobierno buscaría eliminar el Fomag: salud de los maestros pasaría a Nueva EPS, según Fecode",
-      "resumen": "La dirigente sindical Martha Alfonso aseguró que el Ejecutivo prepara un proyecto de ley que trasladaría las funciones del Fondo a Nueva EPS, Colpensiones y ...",
-      "link": "https://www.eldiario.com.co/noticias/gobierno-buscaria-eliminar-el-fomag-salud-de-los-maestros-pasaria-a-nueva-eps-segun-fecode/",
-      "medio": "El Diario",
-      "fecha": "2026-11-03T11:37:00.000Z",
       "imagen": "",
-      "tema": "Fomag"
+      "tema": "salud del magisterio"
     },
     {
       "titulo": "A revisar cuentas y contratos: FOMAG inicia intervención en Medellín para estabilizar la salud del magisterio",
@@ -595,6 +595,15 @@
       "fecha": "2026-11-03T11:17:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.8J7FcuNIXgEGqhgbAO5OCA&pid=News",
       "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "«No nos dejemos engañar»: MinEducación desmiente proyecto de ley para acabar con el Fomag",
+      "resumen": "El Ministerio de Educación desmintió un proyecto de ley para acabar con el Fomag: la transición sin Fiduprevisora no afecta salud, pensiones ni cesantías de los maestros.",
+      "link": "https://www.minuto30.com/no-nos-dejemos-enganar-mineducacion-desmiente-proyecto-de-ley-para-acabar-con-el-fomag/1727094/",
+      "medio": "Minuto30",
+      "fecha": "2026-11-03T11:08:00.000Z",
+      "imagen": "",
+      "tema": "Fomag proyecto de ley"
     },
     {
       "titulo": "Gobierno de Abelardo de la Espriella pretendería eliminar el Fomag con un proyecto de ley en el Congreso, según Fecode",
@@ -687,19 +696,19 @@
       "tema": "Fomag Nueva EPS docentes"
     },
     {
+      "titulo": "Gobierno buscaría eliminar el Fomag: salud de los maestros pasaría a Nueva EPS, según Fecode - El Diario - Noticias Pereira, Colombia y el Mundo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWG1kb3dzWkc4YWFtZk15blZfZktFUUJxQTd0ajdHNW5qeU5KX3hPT2h5MHB3MWxlZzdiTnZuZVd6aTNsX2VrNW90bDRqWWdiaTdKc0JPZTNTVHA3eC1vWENGNWdTZEtTeDhJVUh4OEF3TzlMYmZIX2hwMHlzN1hfU0E1U3I1M05Wc21nbVZ0NGlpb1ZjenRSQnN6Zm",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWG1kb3dzWkc4YWFtZk15blZfZktFUUJxQTd0ajdHNW5qeU5KX3hPT2h5MHB3MWxlZzdiTnZuZVd6aTNsX2VrNW90bDRqWWdiaTdKc0JPZTNTVHA3eC1vWENGNWdTZEtTeDhJVUh4OEF3TzlMYmZIX2hwMHlzN1hfU0E1U3I1M05Wc21nbVZ0NGlpb1ZjenRSQnN6ZmdxMzVVQXR2Y3o5SkdUUGZhX2tYc3lvLWVCLUhZa1AtNjJpaUdmMnVpc05V?oc=5",
+      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag Nueva EPS docentes"
+    },
+    {
       "titulo": "Gobierno desmiente que esté preparando un proyecto de ley para acabar el Fomag - El Espectador",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDBTWFBYa1lLUTEwUU1OdmhaeVczUTNza01tdmtJeDFocERPZG1vZ2ZMVTM1Sml2aTlIb1ZmVC16cHdNYUZxRXEtZWgweVRzVHYzb29SYTd3cUpQUFVib19LZVdiMXg0QWQ3bi1Nakt0eVBSX2tIcUFObFdQYkNnVU9qX24yT2Ffb2RWOFE5NVRyRnlYQWRadWtGUG",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDBTWFBYa1lLUTEwUU1OdmhaeVczUTNza01tdmtJeDFocERPZG1vZ2ZMVTM1Sml2aTlIb1ZmVC16cHdNYUZxRXEtZWgweVRzVHYzb29SYTd3cUpQUFVib19LZVdiMXg0QWQ3bi1Nakt0eVBSX2tIcUFObFdQYkNnVU9qX24yT2Ffb2RWOFE5NVRyRnlYQWRadWtGUGJDSzRkNXFGRFhOWWZEOW1WVFMzenJNMWlDOTZfc1HSAc4BQVVfeXFMTy14a0lMbDZQWkE5YmJYWVVyaEswZ1E5YWtVdm96emNfNzdzQ05nZXZjSXdOWDdoQmJrekVTZjh1MHBITHV2S3FtcnJSWmNtUFlkUEljenZfVEs0MEFBVjlNSlg5R1RsbEIybWpiX19aemtMSDZmX0ZCNUVVOG9ia3JucU5DckpQY2plTERhaU5NdVRkTkVqNzBnSnhWZGszc29YVjczV1A4cEcyZU9JdWJBaGI5aW5ZeEhqWHdCZnhZU2VnZG9fRlFlMTVqbXc?oc=5",
       "medio": "El Espectador",
-      "fecha": "2026-11-03T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag proyecto de ley"
-    },
-    {
-      "titulo": "«No nos dejemos engañar»: MinEducación desmiente proyecto de ley para acabar con el Fomag - Minuto30",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUtLQVduV2JyUmFhSzBQRG1iTnVEelVZMDhmb2VyUXRDOXFieHd1X2NCMnRsc054TDRMOXk5anctcjRxbzNuUzB3bXVxVzZXRHJqWl9RWGFuZHVvNGF5R2xTNkhnSG1EMG11blV4UWVxenhxWUNyREpHVVI2YTVnbnA0c0FxekxuNkU4eURvMG5QNEctdXdMV0x2ej",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUtLQVduV2JyUmFhSzBQRG1iTnVEelVZMDhmb2VyUXRDOXFieHd1X2NCMnRsc054TDRMOXk5anctcjRxbzNuUzB3bXVxVzZXRHJqWl9RWGFuZHVvNGF5R2xTNkhnSG1EMG11blV4UWVxenhxWUNyREpHVVI2YTVnbnA0c0FxekxuNkU4eURvMG5QNEctdXdMV0x2ejF0NFE5RkZmZWlaTGthVGp3MF9XSnE1UktKSnZDQUk0Wg?oc=5",
-      "medio": "Minuto30",
       "fecha": "2026-11-03T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag proyecto de ley"
@@ -710,15 +719,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5",
       "medio": "X",
       "fecha": "2026-11-03T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "Fomag, en la cuerda floja: el cambio que pondría la salud de los maestros en otras manos",
-      "resumen": "Un borrador pondría fin al Fomag y repartiría sus funciones. Salud, pensiones y cesantías de los maestros entrarían en transición.",
-      "link": "https://www.minuto30.com/fomag-cambios-salud-maestros/1726957/",
-      "medio": "Minuto30",
-      "fecha": "2026-11-03T06:40:00.000Z",
       "imagen": "",
       "tema": "Fomag"
     }
