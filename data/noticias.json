@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T19:30:45.138Z",
+  "actualizado": "2026-11-18T01:59:03.631Z",
   "total": 80,
   "noticias": [
     {
@@ -90,7 +90,7 @@
       "medio": "Portafolio on MSN",
       "fecha": "2026-11-15T08:50:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.bmFN3WYqikJwmt_-h0TTRw&pid=News",
-      "tema": "Fecode Fomag"
+      "tema": "Fomag"
     },
     {
       "titulo": "Fomag incumplió 8 de 13 órdenes y la Supersalud vigila Sanidad Militar - El Norte Hoy",
@@ -327,6 +327,15 @@
       "tema": "Fecode Fomag"
     },
     {
+      "titulo": "Clínica que realiza 2.500 cirugías mensuales y emplea a 5.00 personas advierte posibles cierres: estos son los pacientes que estarían en riesgo",
+      "resumen": "La Foscal, en Floridablanca, enfrenta deudas superiores a los $600.000 millones de la Nueva EPS y el Fomag. Atiende pacientes de siete departamentos.",
+      "link": "https://www.eltiempo.com/salud/clinica-que-realiza-2-500-cirugias-mensuales-y-emplea-a-5-00-personas-advierte-posibles-cierres-estos-son-los-pacientes-que-estarian-en-riesgo-3599975",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-10T07:38:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.8VOLUOk6S_bIIje2uyksBQ&pid=News",
+      "tema": "Fomag"
+    },
+    {
       "titulo": "Clínica FOSCAL advierte posible cierre de servicios por cartera de $600.000 millones - consultorsalud",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaS1MNW5rNGFKR0ZyRzAyc0VPN2xyUHNBSXd0NVpzMGlpYzAxaXBSbzRaT0dPZVZKY0F0WHVvZEtGdVlBekJCQW9PdUNWQmtlUU9Wck9HYS1DYVkxZzZpSWRaODAtZ1dwSWw4SUMtLVctckJQRDZpbVJEZw?oc=5\" target=\"_blank\">Clínica FOSCAL advier",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaS1MNW5rNGFKR0ZyRzAyc0VPN2xyUHNBSXd0NVpzMGlpYzAxaXBSbzRaT0dPZVZKY0F0WHVvZEtGdVlBekJCQW9PdUNWQmtlUU9Wck9HYS1DYVkxZzZpSWRaODAtZ1dwSWw4SUMtLVctckJQRDZpbVJEZw?oc=5",
@@ -342,7 +351,7 @@
       "medio": "El Nuevo Día",
       "fecha": "2026-11-09T05:00:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.6IRXeyfoQanqSggKYQJ9hQ&pid=News",
-      "tema": "Fomag transición Fiduprevisora"
+      "tema": "Fomag"
     },
     {
       "titulo": "Fomag anuncia acuerdos con centros asistenciales en Antioquia: vuelven servicios de cancerología",
@@ -450,7 +459,7 @@
       "medio": "Blu Radio",
       "fecha": "2026-11-04T11:09:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.JVNLF_TSgU9i40UgQihUrQ&pid=News",
-      "tema": "Fecode Fomag"
+      "tema": "Fomag Nueva EPS docentes"
     },
     {
       "titulo": "Fecode no baja la guardia por cambios en el Fomag y declara al magisterio en alerta - Blu Radio",
@@ -467,7 +476,7 @@
       "link": "https://elfrente.com.co/gobierno-aclaro-que-el-fondo-nacional-de-prestaciones-sociales-del-magisterio-fomag-no-sera-eliminado/",
       "medio": "El Frente",
       "fecha": "2026-11-04T05:22:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.jX_USbQSJPFtg5DvQEwmTA&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.I2m7DbYSbNvaE2ipmtPGTg&pid=News",
       "tema": "licitación Fomag fiduciaria"
     },
     {
@@ -503,16 +512,16 @@
       "link": "https://www.lafm.com.co/economia/ministerio-de-educacion-desmiente-eliminacion-del-fomag-416049",
       "medio": "La FM",
       "fecha": "2026-11-03T16:50:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.whY4IXSrDdOq9Rbteok7aQ&pid=News",
+      "imagen": "",
       "tema": "Fomag"
     },
     {
       "titulo": "Gobierno desmiente que esté preparando un proyecto de ley para acabar el Fomag",
       "resumen": "La ministra de Educación, Ilva Myriam Hoyos Castañeda, negó que estén trabajando en una iniciativa de ley para acabar con el Fomag, tras la decisión de no prorrogar el contrato con la Fiduprevisora.",
-      "link": "https://www.msn.com/es-co/noticias/other/gobierno-desmiente-que-est%C3%A9-preparando-un-proyecto-de-ley-para-acabar-el-fomag/ar-AA2gHaAI",
+      "link": "https://www.msn.com/es-co/noticias/nacional/gobierno-desmiente-que-est%C3%A9-preparando-un-proyecto-de-ley-para-acabar-el-fomag/ar-AA2gHaAI",
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-03T16:37:49.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.r62y_BAKi-PC9MB1B2aIvA&pid=News",
+      "imagen": "",
       "tema": "Fomag proyecto de ley"
     },
     {
@@ -521,8 +530,17 @@
       "link": "https://larazon.co/mineducacion-niega-proyecto-para-acabar-con-el-fomag-y-garantiza-que-respetara-la-ley-91-de-1989/",
       "medio": "LA RAZON.CO",
       "fecha": "2026-11-03T16:30:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.RsD81AYp_JP6mHNiENm2Dw&pid=News",
+      "imagen": "",
       "tema": "Fomag proyecto de ley"
+    },
+    {
+      "titulo": "Gobierno no prorrogará contrato del Fomag con Fiduprevisora tras 36 años y 43 otrosíes: ordenan auditoría forense",
+      "resumen": "El Gobierno nacional anunció este martes que no prorrogará el contrato del Fondo Nacional de Prestaciones Sociales del Magisterio (FOMAG) con Fiduprevisora, después de 36 años de relación contractual ...",
+      "link": "https://www.msn.com/es-co/salud/other/gobierno-no-prorrogar%C3%A1-contrato-del-fomag-con-fiduprevisora-tras-36-a%C3%B1os-y-43-otros%C3%ADes-ordenan-auditor%C3%ADa-forense/ar-AA2gH6kb",
+      "medio": "Agencia de Periodismo Investigativo on MSN",
+      "fecha": "2026-11-03T16:22:46.000Z",
+      "imagen": "",
+      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "¿Fomag tendría los días contados con el Gobierno de La Espriella? Fecode asegura que nuevo proyecto lo eliminaría",
@@ -530,7 +548,7 @@
       "link": "https://www.msn.com/es-co/noticias/other/fomag-tendr%C3%ADa-los-d%C3%ADas-contados-con-el-gobierno-de-la-espriella-fecode-asegura-que-nuevo-proyecto-lo-eliminar%C3%ADa/ar-AA2gHcvc",
       "medio": "Semana on MSN",
       "fecha": "2026-11-03T14:47:21.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Jn4jUmKsDFSIqeNFNWBRRA&pid=News",
+      "imagen": "",
       "tema": "Fecode Fomag"
     },
     {
@@ -539,7 +557,7 @@
       "link": "https://redmas.com.co/colombia/presidente-de-la-espriella-define-el-futuro-de-los-profesores-en-colombia-tras-inedita-decision-del-ministerio-de-educacion-20261103-0036.html",
       "medio": "Red+ Noticias",
       "fecha": "2026-11-03T13:04:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Zow2w1XqR3AHlSG-yLyEfg&pid=News",
+      "imagen": "",
       "tema": "Fomag Nueva EPS docentes"
     },
     {
@@ -566,17 +584,8 @@
       "link": "https://www.eldiario.com.co/noticias/gobierno-buscaria-eliminar-el-fomag-salud-de-los-maestros-pasaria-a-nueva-eps-segun-fecode/",
       "medio": "El Diario",
       "fecha": "2026-11-03T11:37:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.2-cXIvycxIUROVlV1Nqhrg&pid=News",
+      "imagen": "",
       "tema": "Fomag"
-    },
-    {
-      "titulo": "Gobierno no prorrogará contrato del Fomag con Fiduprevisora tras 36 años y 43 otrosíes: ordenan auditoría forense",
-      "resumen": "Presidente denuncia que tiene un patrimonio negativo superior a $3,1 billones y ordena investigar posibles irregularidades.",
-      "link": "https://www.agenciapi.co/noticia/salud/gobierno-no-prorrogara-contrato-del-fomag-con-fiduprevisora-tras-36-anos-y-43-otrosies-ordenan-auditoria-forense",
-      "medio": "Agencia de Periodismo Investigativo",
-      "fecha": "2026-11-03T11:22:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.BupNTNh04NffNrWb12pcfQ&pid=News",
-      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "A revisar cuentas y contratos: FOMAG inicia intervención en Medellín para estabilizar la salud del magisterio",
@@ -586,15 +595,6 @@
       "fecha": "2026-11-03T11:17:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.8J7FcuNIXgEGqhgbAO5OCA&pid=News",
       "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "«No nos dejemos engañar»: MinEducación desmiente proyecto de ley para acabar con el Fomag",
-      "resumen": "El Ministerio de Educación desmintió un proyecto de ley para acabar con el Fomag: la transición sin Fiduprevisora no afecta salud, pensiones ni cesantías de los maestros.",
-      "link": "https://www.minuto30.com/no-nos-dejemos-enganar-mineducacion-desmiente-proyecto-de-ley-para-acabar-con-el-fomag/1727094/",
-      "medio": "Minuto30",
-      "fecha": "2026-11-03T11:08:00.000Z",
-      "imagen": "",
-      "tema": "Fomag proyecto de ley"
     },
     {
       "titulo": "Gobierno de Abelardo de la Espriella pretendería eliminar el Fomag con un proyecto de ley en el Congreso, según Fecode",
@@ -633,19 +633,19 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Ministerio de Educación negó proyecto para modificar la Ley 91 de 1989 y aseguró continuidad de los servicios del Fomag - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbk13OXFOeU1yYjJ2dHhlNWg3dGxBVEQxaDgxUTA4WnkxNzktZkROTlhlZGhJamRMcTRoV0tWQUFaZzU2Qkt5bDBhYmlILTRBb0xTdEhLdTNDal9kSVNBcng5b1NEdjJiT20xb2xfMHJ4RmVfLUsyTHVjNmpKY1phcTJlWHRaV0kyQVh4ZlFJbVBGdnNjNmtISlAwVE",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbk13OXFOeU1yYjJ2dHhlNWg3dGxBVEQxaDgxUTA4WnkxNzktZkROTlhlZGhJamRMcTRoV0tWQUFaZzU2Qkt5bDBhYmlILTRBb0xTdEhLdTNDal9kSVNBcng5b1NEdjJiT20xb2xfMHJ4RmVfLUsyTHVjNmpKY1phcTJlWHRaV0kyQVh4ZlFJbVBGdnNjNmtISlAwVE1QUERWMERtVUtWUzVnRUwzYXlLemZFR1NNM3hXV2tjdlZ4dkR1R0N5TXBxUWdMSWo2dlZFV2kySXVjQ2RyZXV1QV84ZnVvNWFiSXNrdnVYUG9SSE9LWFBCZVFV0gGSAkFVX3lxTE9KR2hMOWl1VXAyZkdZMUlEYWVfZENQRHpvSGxUYVlRNTMwZ0J6bGZ3V3ZyUmVrMWlCeU9Ub1o1ekJPUE12amo0UzJ3UGdfSmhsX1ZWNWswRUo2S1QzN0UzcG9MelVRZFBmaG5HM180b2lWME9XcHI0NGVLVVZCMUZ4OVNzMVpBdTVjTjNKZ2Fkbl82eGF1SlQ3Sl9yakFZa09Mdmd5LXRKYkF4bnFUOUtjSXl6bi1zY0FYM1NyRnVlU3d4M1dmWmRxWTdhMUF0eFJ1azhzQTBOdEx0MkJHVnVNMUliSk0xXzBvRmVXRkdoSGNQb1ZwVmhod2FIR1l5cWJxM0tTanJFc3NROENzWE4yUkE?oc=5",
-      "medio": "Infobae",
+      "titulo": "“Se acabó la alcahuetería”: Presidente se pronuncia sobre el Fomag y anuncia auditoria forense - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQd080NEpHdTYzbXdiNXpyb05FZkhBcEU0MXFyS2R6UHRBZ1FfbGdiX09YN1RueTFWV01abU5zczZ3cXZEZUFNVGRHZE1VS3NMU2FRUDJrZy0zSFFuNlRta2hOX1lULWxHTHp4bGE0REN1LWU2ZmpfZV9wUEtTZWhYS2s0R1l5RmpuUnRpSkFsX1Z4OUx0OXNuMi04c0",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd080NEpHdTYzbXdiNXpyb05FZkhBcEU0MXFyS2R6UHRBZ1FfbGdiX09YN1RueTFWV01abU5zczZ3cXZEZUFNVGRHZE1VS3NMU2FRUDJrZy0zSFFuNlRta2hOX1lULWxHTHp4bGE0REN1LWU2ZmpfZV9wUEtTZWhYS2s0R1l5RmpuUnRpSkFsX1Z4OUx0OXNuMi04c0w0ak1pRjVUdktNNVR1X1hTeFNsVzFZRDRwVEVQbzJNRDFBeWlOYm9H0gHYAUFVX3lxTE5CSmZKOVlTWnVyTUlzemFlX3JIeG9kN2hjWUZFMDBCaV9JeUNza0pzeHplbkxHdkFqNUZvOUFfRjZDTkNBNWpUVkViOThYcS01LTY3NTRheGw5Y25rX3VKMVhFVkY3TXJzOWU1WXF1RkJTdV93RXdldmJlNnY0UXpoWHFUOEtsMWV3b2R3eXRETWNQaF9EaU5TNUw4c1ViMFNPRWdxaHVTaDAwU18wX0hYVk9Vbkg4U0Uyd3VKQUxhRmRId0dnNHRySlpBRENxU0h4SGxkSUI1VA?oc=5",
+      "medio": "Caracol Radio",
       "fecha": "2026-11-03T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag"
     },
     {
-      "titulo": "“Se acabó la alcahuetería”: Presidente se pronuncia sobre el Fomag y anuncia auditoria forense - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQd080NEpHdTYzbXdiNXpyb05FZkhBcEU0MXFyS2R6UHRBZ1FfbGdiX09YN1RueTFWV01abU5zczZ3cXZEZUFNVGRHZE1VS3NMU2FRUDJrZy0zSFFuNlRta2hOX1lULWxHTHp4bGE0REN1LWU2ZmpfZV9wUEtTZWhYS2s0R1l5RmpuUnRpSkFsX1Z4OUx0OXNuMi04c0",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd080NEpHdTYzbXdiNXpyb05FZkhBcEU0MXFyS2R6UHRBZ1FfbGdiX09YN1RueTFWV01abU5zczZ3cXZEZUFNVGRHZE1VS3NMU2FRUDJrZy0zSFFuNlRta2hOX1lULWxHTHp4bGE0REN1LWU2ZmpfZV9wUEtTZWhYS2s0R1l5RmpuUnRpSkFsX1Z4OUx0OXNuMi04c0w0ak1pRjVUdktNNVR1X1hTeFNsVzFZRDRwVEVQbzJNRDFBeWlOYm9H0gHYAUFVX3lxTE5CSmZKOVlTWnVyTUlzemFlX3JIeG9kN2hjWUZFMDBCaV9JeUNza0pzeHplbkxHdkFqNUZvOUFfRjZDTkNBNWpUVkViOThYcS01LTY3NTRheGw5Y25rX3VKMVhFVkY3TXJzOWU1WXF1RkJTdV93RXdldmJlNnY0UXpoWHFUOEtsMWV3b2R3eXRETWNQaF9EaU5TNUw4c1ViMFNPRWdxaHVTaDAwU18wX0hYVk9Vbkg4U0Uyd3VKQUxhRmRId0dnNHRySlpBRENxU0h4SGxkSUI1VA?oc=5",
-      "medio": "Caracol Radio",
+      "titulo": "Ministerio de Educación negó proyecto para modificar la Ley 91 de 1989 y aseguró continuidad de los servicios del Fomag - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbk13OXFOeU1yYjJ2dHhlNWg3dGxBVEQxaDgxUTA4WnkxNzktZkROTlhlZGhJamRMcTRoV0tWQUFaZzU2Qkt5bDBhYmlILTRBb0xTdEhLdTNDal9kSVNBcng5b1NEdjJiT20xb2xfMHJ4RmVfLUsyTHVjNmpKY1phcTJlWHRaV0kyQVh4ZlFJbVBGdnNjNmtISlAwVE",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbk13OXFOeU1yYjJ2dHhlNWg3dGxBVEQxaDgxUTA4WnkxNzktZkROTlhlZGhJamRMcTRoV0tWQUFaZzU2Qkt5bDBhYmlILTRBb0xTdEhLdTNDal9kSVNBcng5b1NEdjJiT20xb2xfMHJ4RmVfLUsyTHVjNmpKY1phcTJlWHRaV0kyQVh4ZlFJbVBGdnNjNmtISlAwVE1QUERWMERtVUtWUzVnRUwzYXlLemZFR1NNM3hXV2tjdlZ4dkR1R0N5TXBxUWdMSWo2dlZFV2kySXVjQ2RyZXV1QV84ZnVvNWFiSXNrdnVYUG9SSE9LWFBCZVFV0gGSAkFVX3lxTE9KR2hMOWl1VXAyZkdZMUlEYWVfZENQRHpvSGxUYVlRNTMwZ0J6bGZ3V3ZyUmVrMWlCeU9Ub1o1ekJPUE12amo0UzJ3UGdfSmhsX1ZWNWswRUo2S1QzN0UzcG9MelVRZFBmaG5HM180b2lWME9XcHI0NGVLVVZCMUZ4OVNzMVpBdTVjTjNKZ2Fkbl82eGF1SlQ3Sl9yakFZa09Mdmd5LXRKYkF4bnFUOUtjSXl6bi1zY0FYM1NyRnVlU3d4M1dmWmRxWTdhMUF0eFJ1azhzQTBOdEx0MkJHVnVNMUliSk0xXzBvRmVXRkdoSGNQb1ZwVmhod2FIR1l5cWJxM0tTanJFc3NROENzWE4yUkE?oc=5",
+      "medio": "Infobae",
       "fecha": "2026-11-03T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag"
@@ -658,6 +658,15 @@
       "fecha": "2026-11-03T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag"
+    },
+    {
+      "titulo": "¿Por qué el Gobierno no renovó el contrato del Fomag con Fiduprevisora, qué tan grave es la crisis y qué pasará con la salud de los maestros? - El Tiempo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnBMbXpUdk9aLUpIakt6MURnUkQxY2RCdEQwZF9tazVsamhPSnQxRmI0YzlyY0N6dkI3WDR6X0RVcXBDcU9PSlVhcWtidzdobUlhTlFXaEFCSEpJVGNRTEwyUDlGMWdiNW0wcnlnemlIWFlHQ1VTLTJ3UE1kVkd6ZHlNQ3NMUDBKS0ctVGEtMXctOFRFLWZFcTdUYl",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnBMbXpUdk9aLUpIakt6MURnUkQxY2RCdEQwZF9tazVsamhPSnQxRmI0YzlyY0N6dkI3WDR6X0RVcXBDcU9PSlVhcWtidzdobUlhTlFXaEFCSEpJVGNRTEwyUDlGMWdiNW0wcnlnemlIWFlHQ1VTLTJ3UE1kVkd6ZHlNQ3NMUDBKS0ctVGEtMXctOFRFLWZFcTdUYlVMX1VrczNhUmtwVWRETnBoY3BlUmVQd2FETkJRaHVSREdyamNwQXg3QTdTMVYyRl9GVmxVRUY5bEhiUy1nZl9CVmlURkdHdzNUWGEzT19iMGNnakxscHJjdnpENERWdGtBRVlETUZvVlBkR0p4VW15RjJySE5qU3jSAZoCQVVfeXFMTlUxN3UwM3RfT1ZtY2d0OVl6cmV3d2wyN1FoT21aNzhQdGo0THM5a0NqQ0xXYlZCMGFTZkRISmZ6enMxSTNKakp2czNEcW5VNnY3NXkwY1c5Y1RtZGxxSm4wTGloLWpqNFZkSEYyOGJrSVNxcmxleEEySHR3dVBvbkpCcWRoYmEtTzExeVBuM1ZwQ284THlOZm16Q1FwM21seVVrX0tCcHN6OW85d0c2UFpIal9QOEFOR255aGZ5YW5Dc1hwOTZ0Vi0yVW53cDh2d0tmemFjcVV1Y0hjSk9rOVVjNFNiQTRFaVd2aFpEUy04WU5OMWVBYzNoS2VoTEdZWW5EaXk5STRCeFdUemUtM2w3dWZxdjFFMHRR?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "¿Qué pasará con salud de maestros tras fin de contrato con Fiduprevisora? Esto dicen FOMAG y Fecode - Caracol Radio",
@@ -687,6 +696,15 @@
       "tema": "Fomag proyecto de ley"
     },
     {
+      "titulo": "«No nos dejemos engañar»: MinEducación desmiente proyecto de ley para acabar con el Fomag - Minuto30",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUtLQVduV2JyUmFhSzBQRG1iTnVEelVZMDhmb2VyUXRDOXFieHd1X2NCMnRsc054TDRMOXk5anctcjRxbzNuUzB3bXVxVzZXRHJqWl9RWGFuZHVvNGF5R2xTNkhnSG1EMG11blV4UWVxenhxWUNyREpHVVI2YTVnbnA0c0FxekxuNkU4eURvMG5QNEctdXdMV0x2ej",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUtLQVduV2JyUmFhSzBQRG1iTnVEelVZMDhmb2VyUXRDOXFieHd1X2NCMnRsc054TDRMOXk5anctcjRxbzNuUzB3bXVxVzZXRHJqWl9RWGFuZHVvNGF5R2xTNkhnSG1EMG11blV4UWVxenhxWUNyREpHVVI2YTVnbnA0c0FxekxuNkU4eURvMG5QNEctdXdMV0x2ejF0NFE5RkZmZWlaTGthVGp3MF9XSnE1UktKSnZDQUk0Wg?oc=5",
+      "medio": "Minuto30",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag proyecto de ley"
+    },
+    {
       "titulo": "¿Quien se robo el dinero del Fomag?: Los aliados políticos de Abelardo que administraban la Previsora. El señor Marín y sus amigos. La denuncia fue puesta por nosotros hace años en la procuraduría y en la fiscalía Es mi reforma al fomag, defendida débilm - X",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5\" target=\"_blank\">¿Quien se robo el dinero del Fomag?: Lo",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyMUctZ3dOdWU2U2NxaG8tX2hPNFJEUlpvV2VpMDhjeVhySkw0MGZDUF8xYl9Lck5LN1ViQm81VVQwRlhvQmlJSHZSVTBLZ1FXcDN5dS1CVmhJZTdYcmozWlVNQzdOa3VTWDI2bktB?oc=5",
@@ -701,26 +719,8 @@
       "link": "https://www.minuto30.com/fomag-cambios-salud-maestros/1726957/",
       "medio": "Minuto30",
       "fecha": "2026-11-03T06:40:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.NCv7kYcqcw7YhBTmNuUr3Q&pid=News",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "¿Por qué el Gobierno no renovó el contrato del Fomag con Fiduprevisora, qué tan grave es la crisis y qué pasará con la salud de los maestros?",
-      "resumen": "Déficit de 2,7 billones, un solo contrato legalizado y 109.000 quejas pesaron en la decisión; habrá transición de un año y licitación pública.",
-      "link": "https://www.eltiempo.com/vida/educacion/por-que-el-gobierno-no-renovo-el-contrato-del-fomag-con-fiduprevisora-que-tan-grave-es-la-crisis-y-que-pasara-con-la-salud-de-los-maestros-3598138",
-      "medio": "El Tiempo",
-      "fecha": "2026-11-03T04:59:00.000Z",
       "imagen": "",
       "tema": "Fomag"
-    },
-    {
-      "titulo": "¿Y ahora qué? Maestros en incertidumbre por cuenta del Fomag - noscogiolanoche.com",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1d4dHlfS2ZsX3BJc1hxc0pTdm1feWxMTHYtSndpdFlIREhCOVVDT1cxRkJrX1BmQnBMOUJxVGp6M204dWtNSDdYLWZYVFBHX3F3WTl6YzluR1pqZ3BTWndfZG8xZmNscG5wOW4yS2d1YkU3WmkxZHRNWW9FZVhpVGtFR2xHZUc5WkplZmxrUUE?oc=5\" target=\"",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1d4dHlfS2ZsX3BJc1hxc0pTdm1feWxMTHYtSndpdFlIREhCOVVDT1cxRkJrX1BmQnBMOUJxVGp6M204dWtNSDdYLWZYVFBHX3F3WTl6YzluR1pqZ3BTWndfZG8xZmNscG5wOW4yS2d1YkU3WmkxZHRNWW9FZVhpVGtFR2xHZUc5WkplZmxrUUE?oc=5",
-      "medio": "noscogiolanoche.com",
-      "fecha": "2026-11-03T03:26:46.000Z",
-      "imagen": "",
-      "tema": "licitación Fomag fiduciaria"
     }
   ]
 }
