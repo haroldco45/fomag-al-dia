@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-20T07:35:26.886Z",
+  "actualizado": "2026-11-20T16:34:09.404Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Docentes de Aguadas participaron en el paro nacional para protestar por las fallas en el servicio de salud y exigir atención oportuna y de calidad. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️ - Facebook",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR1N3NXE1clpUWUFpV0EzclhHLWNPZDA1OGNVV1dmN1A1QjZGNnFCX0cyWHpLUURoVU0yMjVCMnNWSk1STEJqYTB0QWxlTFExVW9TdlZ1UFQxenBsbmx1di1RVzdYdEktQjhVWVdfbFJCcmpVMzNIVHhpdWdwTlFwcU1lZWdoeEVuSHZXQnNQMnZzeUFjaDlRZjJMdU",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR1N3NXE1clpUWUFpV0EzclhHLWNPZDA1OGNVV1dmN1A1QjZGNnFCX0cyWHpLUURoVU0yMjVCMnNWSk1STEJqYTB0QWxlTFExVW9TdlZ1UFQxenBsbmx1di1RVzdYdEktQjhVWVdfbFJCcmpVMzNIVHhpdWdwTlFwcU1lZWdoeEVuSHZXQnNQMnZzeUFjaDlRZjJMdUJ6WDVWVmFvX3ZmQ2NtZ2daNURCcEg3NVJ1SVo5N1NvV3BndndiV2s5YTZaSkd0WXoxdzFJQXRJUHBlTGk5dmUtVDdiTTJB?oc=5",
+      "medio": "Facebook",
+      "fecha": "2026-11-20T14:21:39.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
+    },
     {
       "titulo": "Salud y Magisterio se alían para movilizarse por sus demandas - El País Tarija",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2I4ODlENDIyakFaNTJVdURQMWhCWEx5dUl3M1VIdnZldmZ5bGhySnNPNHNyS2dtR3dZOFU1a2dqSF9tZzNHclloNU8xTnpiS2M5Uk9FdWV0cm14LVFNRXFkZ2M4WHpLY19HTFl1YzNtckczbFlHQ0p4NXdSTHVPVEF4eHVyWGxrckhZX0hzU2tsaGJFQ1dKeEN4Yk",
@@ -21,15 +30,6 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Magisterio Urbano y sector salud de Tarija acuerdan marcha conjunta contra la descentralización - La Voz de Tarija",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1E5MDVxSnM1bzNSZ2daQnZHQkIxX3hHNF9va2JYV3E5NlcxNGJpNThFampvY0NKTHpycDhPVDJjZm9seTBRYkxTTU1rZ3pTcG93TDNrekEtYkJMQjc0ZGxkWmlZejQ1V0pHMF93YW5Dd2xhNzV4Z0c3dV9CMWE1a3ZXclQ0WTBqa2RXZjEyXzE3VlhsY1pWeHRNVU",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1E5MDVxSnM1bzNSZ2daQnZHQkIxX3hHNF9va2JYV3E5NlcxNGJpNThFampvY0NKTHpycDhPVDJjZm9seTBRYkxTTU1rZ3pTcG93TDNrekEtYkJMQjc0ZGxkWmlZejQ1V0pHMF93YW5Dd2xhNzV4Z0c3dV9CMWE1a3ZXclQ0WTBqa2RXZjEyXzE3VlhsY1pWeHRNVU5SaUZWSmd4enZkZWNQRTFMdjJxaDZiTHN0eElIWUZFQ1hKMk0taHV6M2prNVVGcHR2UQ?oc=5",
-      "medio": "La Voz de Tarija",
-      "fecha": "2026-11-19T14:23:30.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
       "titulo": "Miles se vuelcan a las calles de Colombia para rechazar las políticas de De la Espriella",
       "resumen": "Miles de personas salieron este jueves a las calles de las principales ciudades de Colombia para rechazar las políticas del Gobierno del presidente Abelardo de la Espriella, principalmente al proyecto ...",
       "link": "https://www.msn.com/es-cl/noticias/otras/miles-se-vuelcan-a-las-calles-de-colombia-para-rechazar-las-pol%C3%ADticas-de-de-la-espriella/ar-AA2hNBGC",
@@ -45,7 +45,16 @@
       "medio": "Blu Radio",
       "fecha": "2026-11-19T07:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.WMUvdhjNGqYwQ3U2EiQivg&pid=News",
-      "tema": "Fomag"
+      "tema": "Fecode Fomag"
+    },
+    {
+      "titulo": "Magisterio Urbano y sector salud de Tarija acuerdan marcha conjunta contra la descentralización",
+      "resumen": "El ejecutivo del Magisterio Urbano de Tarija, Nicanor Gaite, informó que el sector educativo alcanzó un acuerdo con representantes del sector salud para fortalecer la defensa de la educación y la salu ...",
+      "link": "https://lavozdetarija.com/2026/11/19/magisterio-urbano-y-sector-salud-de-tarija-acuerdan-marcha-conjunta-contra-la-descentralizacion/",
+      "medio": "La Voz de Tarija",
+      "fecha": "2026-11-19T02:23:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.KTNkvZnUT9IedcQ_RYhUBQ&pid=News",
+      "tema": "salud del magisterio"
     },
     {
       "titulo": "Docentes en Medellín madrugan y hacen largas filas para reclamar medicamentos ante fallas del Fomag",
@@ -62,6 +71,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVHJ1UjFTaDRIU0RULURGM0t6T3NNTmRjdTNKZjhWd1l6WnZfNzRPczBwRVJhVmZIamdvS01NN1N6LWRLV0VjOXhEUGV3RGszNTFBYS1HQVJsUmU5Yl83WmNaaVZhTHU1aDJrWkJGendTMzZIMVY3SE9talBZLXBIeFZkRUMyWkFVZWxfSFJ3?oc=5",
       "medio": "Kienyke",
       "fecha": "2026-11-18T20:30:11.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Alberto Mario Vergara Puccini asume la presidencia de la Fiduprevisora y Maybeline Rojas llega al Fomag - LA RAZÓN.CO",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXFUajAzMGpFV0N2X2VOSkxlOE5MSkNmNGtUeWFELWZDVXZHcVd2cl95ZzJZNHo3R0ttd21HREhaWlVmUkdUVHc5SFU0MFhoRVozS2VSYy1MQkZBNEpjUExRRWstZG9GZm9OQ3NMeU1wdWtoLWlPME9JQVZjU1lYd1pmejBNNk83STdBcndLNC1WUFE4MFNKbFJxa1",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXFUajAzMGpFV0N2X2VOSkxlOE5MSkNmNGtUeWFELWZDVXZHcVd2cl95ZzJZNHo3R0ttd21HREhaWlVmUkdUVHc5SFU0MFhoRVozS2VSYy1MQkZBNEpjUExRRWstZG9GZm9OQ3NMeU1wdWtoLWlPME9JQVZjU1lYd1pmejBNNk83STdBcndLNC1WUFE4MFNKbFJxa1hXRjRZNFM4OVFlQ0VYaU5ydGg2WHQwVnQ1dk1PUDNSQTZTMGU?oc=5",
+      "medio": "LA RAZÓN.CO",
+      "fecha": "2026-11-18T15:47:53.000Z",
       "imagen": "",
       "tema": "Fomag"
     },
@@ -136,15 +154,6 @@
       "fecha": "2026-11-18T07:53:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.X7Iy4AJUvi0EdCOSOwLOMg&pid=News",
       "tema": "Fecode Fomag"
-    },
-    {
-      "titulo": "Alberto Mario Vergara Puccini asume la presidencia de la Fiduprevisora y Maybeline Rojas llega al Fomag",
-      "resumen": "El abogado Alberto Mario Vergara Puccini asume la presidencia de la Fiduprevisora, entidad fiduciaria del Estado. Su perfil reúne conocimientos en derecho bancario, normativa financiera nacional y ase ...",
-      "link": "https://larazon.co/alberto-mario-vergara-puccini-asume-la-presidencia-de-la-fiduprevisora-y-maybeline-rojas-llega-al-fomag/",
-      "medio": "LA RAZON.CO",
-      "fecha": "2026-11-18T07:47:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.WGpszKuJypTvfXeJ4myb6w&pid=News",
-      "tema": "Fomag"
     },
     {
       "titulo": "Magisterio anuncia participación en paro nacional este 19 de noviembre",
@@ -495,7 +504,7 @@
       "medio": "Caracol Radio",
       "fecha": "2026-11-10T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fomag proyecto de ley"
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "Maestros de Norte de Santander, en alerta por el futuro del Fomag y la atención en salud - La Opinión Cúcuta",
@@ -630,7 +639,7 @@
       "medio": "La FM",
       "fecha": "2026-11-05T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fomag proyecto de ley"
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "Fecode se declara en alerta por futuro de la salud de los maestros - City Tv",
@@ -705,22 +714,13 @@
       "tema": "Fomag proyecto de ley"
     },
     {
-      "titulo": "Maestros en alerta por cambios en el manejo de Fomag - Opanoticias",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbk1ZdWZBTUw0aDBQZDN5aTZ5eDY2eGFZNFVjQUNyNGo2YTNfa3MzSUFfcWtnTTRGQzNONG93bllwbjNraktKbWVyTXlsM3laWjFsNjRneDBUOFc5N2Fhb2g5TjdKZEJoSGJrdEtiRG9NRVdESzhHeWZkX3lWdDhkbktTMXhmNFBrQmM4?oc=5\" target=\"_blank\"",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbk1ZdWZBTUw0aDBQZDN5aTZ5eDY2eGFZNFVjQUNyNGo2YTNfa3MzSUFfcWtnTTRGQzNONG93bllwbjNraktKbWVyTXlsM3laWjFsNjRneDBUOFc5N2Fhb2g5TjdKZEJoSGJrdEtiRG9NRVdESzhHeWZkX3lWdDhkbktTMXhmNFBrQmM4?oc=5",
-      "medio": "Opanoticias",
+      "titulo": "Fecode no baja la guardia por cambios en el Fomag y declara al magisterio en alerta - Blu Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcDFpOFFTZmd1UHpNWVg5alJHUXMyUVJoRU9TaGpQWDhSOGdsZDZSck1hNm90OHFJOVpsdWtYMndmMUZHZG9iU0d3QVVNT1Q2OHlXeE42em5WNDlQQmVQQjFJVTJuNERLRHNBNjdwT1ZuV1BZdVREY2NRSVFERUEwNXRWOWM4Q2ljSlpQNWJrZnluM2ZaZEJ1Umd3Yz",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcDFpOFFTZmd1UHpNWVg5alJHUXMyUVJoRU9TaGpQWDhSOGdsZDZSck1hNm90OHFJOVpsdWtYMndmMUZHZG9iU0d3QVVNT1Q2OHlXeE42em5WNDlQQmVQQjFJVTJuNERLRHNBNjdwT1ZuV1BZdVREY2NRSVFERUEwNXRWOWM4Q2ljSlpQNWJrZnluM2ZaZEJ1Umd3YzVTNm91SkpjRmFkRGN1dEdES08xcTJlekhKZ2RBbVN1ctIBygFBVV95cUxQd1Ezekg5RHVsSlhldWFxc25wWHhNRWZzT2tXT2dIX01hTjdoUzZaY1g3RnlEX05aMVItZ3JvQXhKRldsb1M4dDcxRGp1MHBDLU04eGM1VFlVekU4SW1kUlRGVWxzMnFia19fa1ZiYmNFa0JLSHZNTmRaalRVdm8xeElfeEZNbF9WTkt3R05vQjUzeFFoNGZmZUN6UXl0YmhRNVd0UXpiQkl6blBBdnhrTU1tNTJJSkNvQTEwRUdMZDQ5U0owSXlDRHVn?oc=5",
+      "medio": "Blu Radio",
       "fecha": "2026-11-04T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fomag proyecto de ley"
-    },
-    {
-      "titulo": "CUT Boyacá alerta por posible reforma que modificaría el régimen del Fomag - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0FMd3ZDYU1EX3dtV2V6Y0xLS0pRVjJKeGRrZlFqQm9RelEzdjBiZ1VwVmtrXy1rbXlCRW91akxOMTFKQ0FGQm0zeVhZNGtPTVA0am9rdnk0OUt3b25zX2ZtdGJSTlE4TkNiMHpjdXBrck5JbXBWZ0I0Vlh3WndydS1qMmZiSHZsS1c5MTk1U05VakxlM0tWdm42RU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0FMd3ZDYU1EX3dtV2V6Y0xLS0pRVjJKeGRrZlFqQm9RelEzdjBiZ1VwVmtrXy1rbXlCRW91akxOMTFKQ0FGQm0zeVhZNGtPTVA0am9rdnk0OUt3b25zX2ZtdGJSTlE4TkNiMHpjdXBrck5JbXBWZ0I0Vlh3WndydS1qMmZiSHZsS1c5MTk1U05VakxlM0tWdm42RUJvYVBlaUNYbTJiNXIzN1lMZ1HSAcIBQVVfeXFMUEJ4MjF3Q3JOM05lSjdfQlUwTDNDdXJkbjJaSVFyRk41M1FZcDNLRTBGZHJiV2dUVnhrZFdYbmNtdklLekZ4SndqSklnUzIwLXo0Y1F2MVJBUFVQN0pSUzFHM242UXNBVHU5OFVqckI3MnNYcmdqZWxZeVpZbTZWMHE0V1ZJUVNFQmR3dURFOVA2bUJXbnNMUVE2Nm9ZVW1rbVJFd0xydWc3QnVzVVd2T3V1dG0wV1hHMUMxMUFqa3BVcnc?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-11-04T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag proyecto de ley"
+      "tema": "Fecode Fomag"
     }
   ]
 }
