@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T11:57:04.307Z",
+  "actualizado": "2026-11-21T18:41:31.650Z",
   "total": 80,
   "noticias": [
     {
@@ -345,6 +345,15 @@
       "tema": "salud del magisterio"
     },
     {
+      "titulo": "Salud: medicamentos, Fomag y deudas, los tres frentes que ponen a prueba al Gobierno de De la Espriella en 100 días - Portafolio.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZU5NLTdjRGNyMkVDWTF0ZTYxN0ZsUUFkRnNfcUFvZUxITDZwMV9qRS1Oa24tWDJnSjdhX2V0NmpQSzdzV1RpREg2QWVTNHZIVzR0S3Vibm10OGh0ODU1NTdnN0RTV2lLRUN6WTFuY1RyNG9rYkhOdWlMM0hFWnZXMTZ6ZENHOEdyRzJQZDItTXJxVG5nby1EWXBmZE",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZU5NLTdjRGNyMkVDWTF0ZTYxN0ZsUUFkRnNfcUFvZUxITDZwMV9qRS1Oa24tWDJnSjdhX2V0NmpQSzdzV1RpREg2QWVTNHZIVzR0S3Vibm10OGh0ODU1NTdnN0RTV2lLRUN6WTFuY1RyNG9rYkhOdWlMM0hFWnZXMTZ6ZENHOEdyRzJQZDItTXJxVG5nby1EWXBmZEtWT08tTnE3dEhOTDZaM0Rmb2g1TkdKSUs5M1VGelFZUlhhY01lS05mY2o4aVdNMlNfTUJfYjA4QVdBMm5WZ1VnSzBjaG5JLVh5c2tUV2xoSDdHZFJGb1hhRGfSAfsBQVVfeXFMTmNycXNrT2dRbUpCX3ZoUkVpdDlHLWlsMnRIVFRPZ0paUTJscGhZSExaNVM1RFhhdW16bE1HQmZfdHpydmR4VU5fczBVU1J4a1Bmd3NQNTZPM2MwNUNYLWxsX3NFR0l4b3lkWGJXUU9RUmg4Y1RkMjRDUzF6RzRDYkdleWNFczZQUjk0YTlVRy1QdWVjd1RydkxuaGVEZzRvQl9ETkFXbXg4ajZnYzJBMlI0OTU3RTNJdy1zNHF6c3RlcVZ4Y3RNdTAwNGFaYkFGRDVacHFQSjI3WnNjT3RSRS1BRTFXODNleUdnZXBtUWw0aml4dFBja25KYms?oc=5",
+      "medio": "Portafolio.co",
+      "fecha": "2026-11-13T01:35:21.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
       "titulo": "Magisterio del Tolima advierte crisis en entrega de medicamentos y confirma paro para el 19 de noviembre",
       "resumen": "Jessiel Melendro Vega, presidente de SUTET-SIMATOL, informó sobre los compromisos adquiridos en una reunión en Bogotá con representantes del FOMAG, FIDUPREVISORA y otros actores del sistema.",
       "link": "https://www.ecosdelcombeima.com/index.php/tolima/nota-197797-magisterio-del-tolima-advierte-crisis-en-entrega-de-medicamentos-y-confirma-paro",
@@ -417,15 +426,6 @@
       "tema": "salud del magisterio"
     },
     {
-      "titulo": "Salud: medicamentos, Fomag y deudas, los tres frentes que ponen a prueba al Gobierno de De la Espriella en 100 días",
-      "resumen": "Aunque el Plan de Choque reporta avances, persisten dudas sobre citas y sostenibilidad financiera.",
-      "link": "https://www.msn.com/es-co/noticias/other/salud-medicamentos-fomag-y-deudas-los-tres-frentes-que-ponen-a-prueba-al-gobierno-de-de-la-espriella-en-100-d%C3%ADas/ar-AA2hkVDc",
-      "medio": "Portafolio on MSN",
-      "fecha": "2026-11-12T17:35:21.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.dqPtUisoULe8uro8EKqu-Q&pid=News",
-      "tema": "Fomag"
-    },
-    {
       "titulo": "Lupa de la Supersalud sobre la atención médica de militares y maestros - Nos Cogió la Noche",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFdXSktpU3AweGJvVVJ0VWprRkt4NXUxVWc5Qkh4X1NlWmVscms0RGVrUEtuX1JtVTdsT2M0cGU3RkJDLUo0aDBkOExSaDRpd2llUldhVmV3NkVsZjctLXgtVTVxbHNhUEdnSUV0bk9oTkc3Z2xQQXNSbXd0M2VBOFUyQmVSY2s0THFVZVNRb08xaURmX0kxNGlaTn",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFdXSktpU3AweGJvVVJ0VWprRkt4NXUxVWc5Qkh4X1NlWmVscms0RGVrUEtuX1JtVTdsT2M0cGU3RkJDLUo0aDBkOExSaDRpd2llUldhVmV3NkVsZjctLXgtVTVxbHNhUEdnSUV0bk9oTkc3Z2xQQXNSbXd0M2VBOFUyQmVSY2s0THFVZVNRb08xaURmX0kxNGlaTnJOQUZO?oc=5",
@@ -450,7 +450,7 @@
       "medio": "BusinessCol",
       "fecha": "2026-11-12T13:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.GcRwJhLJ2DuY1BLa6pZD7A&pid=News",
-      "tema": "Fomag proyecto de ley"
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "FECODE convoca a paro nacional el 19 de noviembre: maestros saldrán a las calles a exigir",
@@ -570,13 +570,13 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Veedurías piden esclarecer crisis del Fomag y el manejo de los recursos para la salud de los docentes en Colombia - Portafolio.co",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDhuSHB0ZlJYaXh3RWZmSXJTT3UtV0x3R2NEYjBJUHJRS3MyX3VaOXREUXhGZXgya3pWeUowSk0tZkhvTW1MaTJDU2JrbmxxRGpnTkhjdUVST21NNk5xZmVNSTN3ZUkwdWZfajNiOEJSX2VMRjh1bG9SMmUzXzBrNFJTVUs4QWdhMFJkS1lVTDFfSFFabXlwWUNkcj",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDhuSHB0ZlJYaXh3RWZmSXJTT3UtV0x3R2NEYjBJUHJRS3MyX3VaOXREUXhGZXgya3pWeUowSk0tZkhvTW1MaTJDU2JrbmxxRGpnTkhjdUVST21NNk5xZmVNSTN3ZUkwdWZfajNiOEJSX2VMRjh1bG9SMmUzXzBrNFJTVUs4QWdhMFJkS1lVTDFfSFFabXlwWUNkcjJXM0YxUk9ETEhsWWowODRsM2o3d0RHZXluVkVRZ2g3eVhZNEx3bUxtRlBiYTQyX09SbXFRdS1aQ2g4RldGWEZUWkdBT09KaDFwMFVtdWZKSDRmcWhxRV9BYWtr0gH8AUFVX3lxTE9TdFV3TXJHNUtxUGMzcjNOLTBzQW9vTE5BeUZlTlVlZmVaUWNxMlBaYXpNYm44RWFtTHQwOXVkdzREV29yTTYwazF3YXB5dWxDWGZad3I0YjVkeHFCUDlyT2FiUGhCeHlKb1BTTjdUNnNOc0FkWGJHckliMmdGWUZuS1NrekNFTG1BOXdzUGhhNmdKaU5wTFkyVDd6QTBhZnppLU1wb01qN1NzbkVaaFJfTVMycUxyMVF5QkR5cXJwWWgwVEd5ejgwQTY4R0VILXhaRnVDd3p2SzRueVVLc2Z5MlVSVktqaGhnMmNnZ2dnYlNXeWdmV2pNZl9nUA?oc=5",
-      "medio": "Portafolio.co",
-      "fecha": "2026-11-09T13:30:14.000Z",
+      "titulo": "Veedurías piden esclarecer crisis del Fomag y el manejo de los recursos para la salud de los docentes en Colombia",
+      "resumen": "La denuncia pide revisar contratos, traslados presupuestales y decisiones tomadas entre 2023 y 2026.",
+      "link": "https://www.msn.com/es-co/noticias/otras/veedur%C3%ADas-piden-esclarecer-crisis-del-fomag-y-el-manejo-de-los-recursos-para-la-salud-de-los-docentes-en-colombia/ar-AA2h4mJL",
+      "medio": "Portafolio on MSN",
+      "fecha": "2026-11-09T05:30:14.000Z",
       "imagen": "",
-      "tema": "salud del magisterio"
+      "tema": "Fomag"
     },
     {
       "titulo": "FOMAG: la hora de la eficiencia y la transparencia",
@@ -666,7 +666,7 @@
       "medio": "La FM",
       "fecha": "2026-11-05T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fomag Nueva EPS docentes"
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "Fomag: Gobierno inicia transición y aún no define quién atenderá la salud de los docentes - El Tiempo",
