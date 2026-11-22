@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-22T04:27:27.037Z",
+  "actualizado": "2026-11-22T12:46:31.438Z",
   "total": 80,
   "noticias": [
     {
-      "titulo": "'Exigimos': Profesores notifican drástica decisión al gobierno De La Espriella ante compleja situación del magisterio - RED+ Noticias",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbE0tRkJqSnFWMmpTMm1FYlNBb2x3Ty1iRnpCb1k4QzViOGVENkhuTG1iOXo3cWh3TV9CSF96ZmpiUE0yVmlSOGxpdUdSYnJTTXBvak4wRzVQR2tMVUdUTzBsY1VpbjRYcG5OTU44OUp5RlhtSjRYdUlRMXBXWmo4WTdreE1PNDhlUXRJZzhYRGwzUWNxWVh4RGQzd0",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbE0tRkJqSnFWMmpTMm1FYlNBb2x3Ty1iRnpCb1k4QzViOGVENkhuTG1iOXo3cWh3TV9CSF96ZmpiUE0yVmlSOGxpdUdSYnJTTXBvak4wRzVQR2tMVUdUTzBsY1VpbjRYcG5OTU44OUp5RlhtSjRYdUlRMXBXWmo4WTdreE1PNDhlUXRJZzhYRGwzUWNxWVh4RGQzd0tBZ0ZyZkc3WmFGdlBFLUY5YlNJa3RVdVlDVEFiSG8tUi04XzdUU09raDNjdkFVN3Q2ZzdYTnlBMjZIN2VJcnAtLWU3dmdTLU9nRGo1TzVjOVNrYjhhcWl0Qkgw?oc=5",
-      "medio": "RED+ Noticias",
-      "fecha": "2026-11-22T00:02:24.000Z",
-      "imagen": "",
+      "titulo": "'Exigimos': Profesores notifican drástica decisión al gobierno De La Espriella ante compleja situación del magisterio",
+      "resumen": "Profesores en Bogotá fijan postura ante compleja realidad del magisterio. Hacen llamado urgente al gobierno del presidente Abelardo De La Espriella.",
+      "link": "https://redmas.com.co/colombia/exigimos-profesores-notifican-drastica-decision-al-gobierno-de-la-espriella-ante-compleja-situacion-del-magisterio-20261121-0012.html",
+      "medio": "Red+ Noticias",
+      "fecha": "2026-11-21T16:02:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.rvHipz8loLpSLBtpJIdl1g&pid=News",
       "tema": "salud del magisterio"
     },
     {
@@ -462,15 +462,6 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG",
-      "resumen": "BusinessCol.com Noticias. Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG Negocios con Colombia. Economía, Empresas, Comex y más BusinessCol. Noticia ...",
-      "link": "https://www.businesscol.com/fecode-advierte-sobre-continuidad-del-servicio-de-salud-tras-liquidacion-del-fideicomiso-del-fomag/",
-      "medio": "BusinessCol",
-      "fecha": "2026-11-12T13:06:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.GcRwJhLJ2DuY1BLa6pZD7A&pid=News",
-      "tema": "Fecode Fomag"
-    },
-    {
       "titulo": "FECODE convoca a paro nacional el 19 de noviembre: maestros saldrán a las calles a exigir",
       "resumen": "La jornada de movilización busca exigir al Gobierno Nacional el cumplimiento de los acuerdos con el magisterio.",
       "link": "https://www.diariodelsur.com.co/noticias/fecode-convoca-a-paro-nacional-el-19-de-noviembre-maestros-saldran-a-las-calles-a-exigir",
@@ -486,7 +477,16 @@
       "medio": "Semana",
       "fecha": "2026-11-12T10:02:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.lmuup9U988g5eyPzsC9uLw&pid=News",
-      "tema": "Fomag"
+      "tema": "Fomag Nueva EPS docentes"
+    },
+    {
+      "titulo": "Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG - BusinessCol.com",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbU",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbUc1ckNjTGdPejBHTm8zTk9FcHVYQkdEZnc1b0I3MkZsQnlGOFpHeEF0MUE?oc=5",
+      "medio": "BusinessCol.com",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica - La FM",
@@ -552,6 +552,15 @@
       "tema": "salud del magisterio"
     },
     {
+      "titulo": "FECODE convocó nuevo paro nacional el 19 de noviembre: ¿Por qué? Esto dice la circular No. 73 - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSW",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSWQtTGhxRkFuY0tOT2tSckVNR3BaRlFWM0dIajdjZzlteUlwQWN0QdIB1gFBVV95cUxORFNMZW9VTUhqRTVzRi1iaDZTN0gwZzlvWHhJOXp5TVpjSTNOODZ1b3hSeEZiWTRZdmExRXprZVJuV1dUNmp2NWNOeTN0V3VjQmZMYnFRUkxMcnc0RUlzMklxTGZjMzRsVlpkckk0ZEdnRVN2WVhnVUlNamNuUDc2Y1pJSmtQZlM2ZnRGbEI5bG83ZXJtQ01uVlpwekJwNzI1cHZCRTVTNlJNNzFLQ3lNcEk5cEpBckJkbnIwTmV3OHhsQ05NVGhkYmVVa0dkTkxmSEI2YWtR?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-10T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fecode Fomag"
+    },
+    {
       "titulo": "Maestros de Norte de Santander, en alerta por el futuro del Fomag y la atención en salud - La Opinión Cúcuta",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5V1hxNHVEZDFvVlctN1M5N1ZjaW5KaHJuRFI3UUFjaFNINXJIcXFCLWkwSm56VlJUams5OW0zdE1OLXhyMHZuWHZ5ZUVwclFNVmRkT0RMazVDZGs1ekN2TnhUZTlCb3ZSZG1ZSEViTWU0bHRqV25iazZxLTRtTGh1YnJKRkRVaU0xWjdDWk5BSHZjZ1pXcGtZLW",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5V1hxNHVEZDFvVlctN1M5N1ZjaW5KaHJuRFI3UUFjaFNINXJIcXFCLWkwSm56VlJUams5OW0zdE1OLXhyMHZuWHZ5ZUVwclFNVmRkT0RMazVDZGs1ekN2TnhUZTlCb3ZSZG1ZSEViTWU0bHRqV25iazZxLTRtTGh1YnJKRkRVaU0xWjdDWk5BSHZjZ1pXcGtZLWhHWE9lNzBSSFpvbVh1amJIb2tta09HMkl5UQ?oc=5",
@@ -559,15 +568,6 @@
       "fecha": "2026-11-10T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag"
-    },
-    {
-      "titulo": "FECODE convocó nuevo paro nacional el 19 de noviembre: ¿Por qué? Esto dice la circular No. 73 - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSW",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSWQtTGhxRkFuY0tOT2tSckVNR3BaRlFWM0dIajdjZzlteUlwQWN0QdIB1gFBVV95cUxORFNMZW9VTUhqRTVzRi1iaDZTN0gwZzlvWHhJOXp5TVpjSTNOODZ1b3hSeEZiWTRZdmExRXprZVJuV1dUNmp2NWNOeTN0V3VjQmZMYnFRUkxMcnc0RUlzMklxTGZjMzRsVlpkckk0ZEdnRVN2WVhnVUlNamNuUDc2Y1pJSmtQZlM2ZnRGbEI5bG83ZXJtQ01uVlpwekJwNzI1cHZCRTVTNlJNNzFLQ3lNcEk5cEpBckJkbnIwTmV3OHhsQ05NVGhkYmVVa0dkTkxmSEI2YWtR?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-11-10T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag Nueva EPS docentes"
     },
     {
       "titulo": "Clínica que realiza 2.500 cirugías mensuales y emplea a 5.00 personas advierte posibles cierres: estos son los pacientes que estarían en riesgo",
