@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-11-23T08:49:11.253Z",
+  "actualizado": "2026-11-23T20:45:56.153Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Bloqueos hoy en Bogotá: protesta de maestros en la calle 72 genera desvíos en rutas del SITP - Minuto60",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1zUGVabjF5MXlpSUxBRnFWMEJJd3llRmZyNkt5ZG5BUmZmbkhoOXNSMHlHMF9kU0s2SnlEV2hfdnBRdnJlUVhPTm1xbms1VnlhTXZGRy1Wbjdmc2dNeEd1UDg4a0IwaUNqM1RVRmNKR1hVRk1ETGllQmIxZw?oc=5\" target=\"_blank\">Bloqueos hoy en Bogot",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zUGVabjF5MXlpSUxBRnFWMEJJd3llRmZyNkt5ZG5BUmZmbkhoOXNSMHlHMF9kU0s2SnlEV2hfdnBRdnJlUVhPTm1xbms1VnlhTXZGRy1Wbjdmc2dNeEd1UDg4a0IwaUNqM1RVRmNKR1hVRk1ETGllQmIxZw?oc=5",
+      "medio": "Minuto60",
+      "fecha": "2026-11-23T20:15:15.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Gremios de salud, magisterio y universitarios reiteran llamado a jornada nacional de protesta y marcha a Miraflores - Efecto Cocuyo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUWY3cmFnSUp3OXVEdU9ZRElHUzZEcXhBVzg5N0JzMlRobzhVNnpMdzJkbVNad2Ezd244Y1B4dHVaSlBvZWcwVzB3NTNLNGk4VlM5Y3FlYUNNVU9NZDFOMkltOVRJZEtjVFFudmFiMWh3MmZ5U0dlYzFFTmFfWWhDSzRLTldiR0phZGdCYlFzUHk1dVpST3ZhWnJXQz",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUWY3cmFnSUp3OXVEdU9ZRElHUzZEcXhBVzg5N0JzMlRobzhVNnpMdzJkbVNad2Ezd244Y1B4dHVaSlBvZWcwVzB3NTNLNGk4VlM5Y3FlYUNNVU9NZDFOMkltOVRJZEtjVFFudmFiMWh3MmZ5U0dlYzFFTmFfWWhDSzRLTldiR0phZGdCYlFzUHk1dVpST3ZhWnJXQzM2LVd0VFdfRUlCOC1NTS04aE9TNDNFMkdPTGtlZm0zb1FKSnlHNkpacnc1YWRKRDJNZ1J4eGJHbHhua0lKQ0NCMkFXUnJ3bFBleENQ?oc=5",
+      "medio": "Efecto Cocuyo",
+      "fecha": "2026-11-23T15:16:40.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "El magisterio realiza manifestación en Bogotá por fallas en la atención en salud",
+      "resumen": "Integrantes de la Junta Directiva de Fecode y representantes del Magisterio participan en una manifestación que concurrió frente a la sede de la ...",
+      "link": "https://hoydiariodelmagdalena.com.co/archivos/1314860/el-magisterio-realiza-manifestacion-en-bogota-por-fallas-en-la-atencion-en-salud/",
+      "medio": "HOY DIARIO DEL MAGDALENA",
+      "fecha": "2026-11-23T12:03:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.sADQdjlCkYV9W6iD6RAPtA&pid=News",
+      "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Salud de los maestros: el Fomag avanza en su transición mientras arrastra deudas por más de $2,4 billones",
+      "resumen": "El sistema de salud del magisterio colombiano opera desde el 1 de noviembre de 2026 bajo un plan de transición, luego de que el Gobierno decidiera ...",
+      "link": "https://ifmnoticias.com/salud/salud-de-los-maestros-el-fomag-avanza-en-su-transicion-mientras-arrastra-deudas-/",
+      "medio": "ifmnoticias",
+      "fecha": "2026-11-23T03:41:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.VoOXH_rAFMjyEoLmwA1Lew&pid=News",
+      "tema": "Fomag"
+    },
     {
       "titulo": "Ministerio de Salud anuncia alivio para pacientes: 631.833 colombianos están al día con sus medicamentos o tratamientos médicos",
       "resumen": "Mientras el Gobierno anuncia avances en la entrega de fármacos en cumplimiento de la estrategia de Plan de Choque, también enfrenta un déficit de $2,7 billones en el Fomag, de acuerdo con sus reportes ...",
@@ -567,7 +603,7 @@
       "medio": "Caracol Radio",
       "fecha": "2026-11-10T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fecode Fomag"
+      "tema": "Fomag proyecto de ley"
     },
     {
       "titulo": "Maestros de Norte de Santander, en alerta por el futuro del Fomag y la atención en salud - La Opinión Cúcuta",
@@ -685,42 +721,6 @@
       "fecha": "2026-11-06T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag Nueva EPS docentes"
-    },
-    {
-      "titulo": "Estos maestros de Manizales y de Riosucio siguen sin servicios en salud, Gobierno adelanta plan de choque - La Patria",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQk5qZUgta1p5MS1KV0VHcGd5aDc3cHBHZWxXT1BNYTBuYkd3TlcxZW93M3dpYVNKU3VGYWZiSXRvWkJ0UkFqSnBDNzRYYlRBb0JBVElvMTdaODFFTE02TjktWGRZSHRkNWlOZ2dIRWRzQTZaOGdPUUhIdTBLRXZibmxMZVAyTmpzSGVjbS05S2VRS0ZsWmFpenBocU",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQk5qZUgta1p5MS1KV0VHcGd5aDc3cHBHZWxXT1BNYTBuYkd3TlcxZW93M3dpYVNKU3VGYWZiSXRvWkJ0UkFqSnBDNzRYYlRBb0JBVElvMTdaODFFTE02TjktWGRZSHRkNWlOZ2dIRWRzQTZaOGdPUUhIdTBLRXZibmxMZVAyTmpzSGVjbS05S2VRS0ZsWmFpenBocURWbEI2c1B0X2Y1bWQxYXF5R05ENFNTYzVnRXlud0JvQlptX00zdw?oc=5",
-      "medio": "La Patria",
-      "fecha": "2026-11-05T21:16:41.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Gremios de salud, magisterio y universidades convocan paro nacional de 12 horas el 16 de noviembre - Efecto Cocuyo",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdjZQal9nZF9Fbk1zYWFyM3NRNVlZSzEzSzFxd1liNWJqNGtGZTdXeVBzVzdHUUs1UmkyZjQ4Qk5PRmR6b3VvZ2RZVnZrSDZoX0Jjdk1wb1licjEtblUxaFlZQURzVC0zN3A0SkxXekVFZ2J5M3hiN0ltNW5VQUpNQlhvNDYxN1IwMnpZUXdaMWVLWDVLc1J2QkJPZU",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdjZQal9nZF9Fbk1zYWFyM3NRNVlZSzEzSzFxd1liNWJqNGtGZTdXeVBzVzdHUUs1UmkyZjQ4Qk5PRmR6b3VvZ2RZVnZrSDZoX0Jjdk1wb1licjEtblUxaFlZQURzVC0zN3A0SkxXekVFZ2J5M3hiN0ltNW5VQUpNQlhvNDYxN1IwMnpZUXdaMWVLWDVLc1J2QkJPZUVXWGN3eDgwNUgwZ29iQzlZSTBDWEpabEpFVmpiUWVaX3VuX2hQSi03cG01Zml3TWFrcFV3eWc?oc=5",
-      "medio": "Efecto Cocuyo",
-      "fecha": "2026-11-05T18:15:59.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Fecode prende las alarmas por supuesto plan para dividir el Fomag y trasladar las prestaciones de los maestros - La FM",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVYxUFg1bWR6d3JCbW53WnFNbTFRN3pxVnNwUU1vNUVFa3EzWnhuRDV0R2gzRlZoM2RnRXFMaTVEM25kYTA5cnRjMkxBN3d1T3ZQMWxLZ0VJZVF0SEVHbzFlWEN2WkN5a2tPRWJoVjc1OWtLcE94bU1NV1k4SXJEMjIxcU90SXgtYUN0MmFSR1RTOHR3Z0tac0VmTW",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVYxUFg1bWR6d3JCbW53WnFNbTFRN3pxVnNwUU1vNUVFa3EzWnhuRDV0R2gzRlZoM2RnRXFMaTVEM25kYTA5cnRjMkxBN3d1T3ZQMWxLZ0VJZVF0SEVHbzFlWEN2WkN5a2tPRWJoVjc1OWtLcE94bU1NV1k4SXJEMjIxcU90SXgtYUN0MmFSR1RTOHR3Z0tac0VmTWV4UTlqS2ZyVEln0gGmAUFVX3lxTE83c21ncDV6SWJTWGV0czVDU1dweUNEUVVEei16aC1IVDA5NzhiakhDMGFPVF9qVy1rNDd4NTBiTGxPTU1PSHpZdkIyWDRtS2d2S1VOWXhaVWhXZmdGV05LcHFxRS1xbnU5WE1lXzEwQVpVMGFLTmZLUFA1eFhYZnFzOFdYQlBWN1BFTVg1eTFpdXk1Mld5ckhma1h3SmtWZlV3STBBUnc?oc=5",
-      "medio": "La FM",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fecode Fomag"
-    },
-    {
-      "titulo": "Fomag: Gobierno inicia transición y aún no define quién atenderá la salud de los docentes - El Tiempo",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMnBJSGZ5cTM1UlBkVEI4OGZMamwySnRleWhNOEh0d1BvRkl1amdNY3Z4d0tpOG1aaTdtN2t2MzI0STlnWi0xUk54VElzSmVhNmlBM253eVJuX291ZG5yS3ltWmx0dFdJeDk0dTBXNVNvVmhON213czFfbEVBMkhuQjA1X29fN2FMQWZlbmdybW9HWlRqZXpMMUxtST",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMnBJSGZ5cTM1UlBkVEI4OGZMamwySnRleWhNOEh0d1BvRkl1amdNY3Z4d0tpOG1aaTdtN2t2MzI0STlnWi0xUk54VElzSmVhNmlBM253eVJuX291ZG5yS3ltWmx0dFdJeDk0dTBXNVNvVmhON213czFfbEVBMkhuQjA1X29fN2FMQWZlbmdybW9HWlRqZXpMMUxtSTlxU1pIMzZnVlBQc2xNOXJUUURmSjBTZnBBV1p3VzFwdF82WV83dlNWeUxwSERSam1QQkpCVks00gHYAUFVX3lxTE45RWpHTUdMX3NHT1ozU0M0dGNZLWpaLTd2MFZrMmZhaTZ3TGI1MURKaGdQczVUck5tOVNsanU0ZVU4YUJ0YWVHN3VCWHR4Q1cxMXRNdFhJZU85X0pKaFBHNmw0cTNqdjFXQkFWZ0JkbDkyWkhBZzlqLWR6RmJHZjZuY0JETkkyUGxuSGtoWUFjRHJBclQ0dUNiRWRFYldvclBZUWZnR21LOUxvQ0s4TGNiWm9LX1BlVjlHMGJjZm5ZcUtGMjBzY0Z0a1F4eHVKaXBtTzRObDN1ag?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag"
     }
   ]
 }
