@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-22T20:05:05.035Z",
+  "actualizado": "2026-11-23T01:00:10.924Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Ministerio de Salud anuncia alivio para pacientes: 631.833 colombianos están al día con sus medicamentos o tratamientos médicos",
+      "resumen": "Mientras el Gobierno anuncia avances en la entrega de fármacos en cumplimiento de la estrategia de Plan de Choque, también enfrenta un déficit de $2,7 billones en el Fomag, de acuerdo con sus reportes ...",
+      "link": "https://www.infobae.com/colombia/2026/11/22/ministerio-de-salud-anuncia-alivio-para-pacientes-631833-colombianos-estan-al-dia-con-sus-medicamentos-o-tratamientos-medicos/",
+      "medio": "Infobae",
+      "fecha": "2026-11-22T01:40:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.oPLupCfXApdU7m8pEnRxJw&pid=News",
+      "tema": "salud del magisterio"
+    },
     {
       "titulo": "'Exigimos': Profesores notifican drástica decisión al gobierno De La Espriella ante compleja situación del magisterio - RED+ Noticias",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbE0tRkJqSnFWMmpTMm1FYlNBb2x3Ty1iRnpCb1k4QzViOGVENkhuTG1iOXo3cWh3TV9CSF96ZmpiUE0yVmlSOGxpdUdSYnJTTXBvak4wRzVQR2tMVUdUTzBsY1VpbjRYcG5OTU44OUp5RlhtSjRYdUlRMXBXWmo4WTdreE1PNDhlUXRJZzhYRGwzUWNxWVh4RGQzd0",
@@ -603,7 +612,7 @@
       "medio": "El Nuevo Día",
       "fecha": "2026-11-09T05:00:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.6IRXeyfoQanqSggKYQJ9hQ&pid=News",
-      "tema": "Fomag"
+      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "Primera semana de transición en el Fomag: déficit de $2,7 billones, garantías oficiales y los primeros cambios de IPS para los maestros - IFM Noticias",
@@ -712,15 +721,6 @@
       "fecha": "2026-11-05T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag"
-    },
-    {
-      "titulo": "Fecode se declara en alerta por futuro de la salud de los maestros - City Tv",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaWVZUTNvN0xpd2tza3FoWC12X0RRZ1hIODNtU1pZLV9rSkRkUmo4VS01Yl9PRDFUZ0dKNDFQeHM1eU5iYzdyanllR1A2V1VjRU14VlNXME5DRGpwbktWQ3ZtRWRUZl9pVnkyQVB0M3FFMGd6eWNQdDZQRXFuYlNIeGJiYVJBTkZTZndJNk5UMVdGaS1nblk3U0l1Ym",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaWVZUTNvN0xpd2tza3FoWC12X0RRZ1hIODNtU1pZLV9rSkRkUmo4VS01Yl9PRDFUZ0dKNDFQeHM1eU5iYzdyanllR1A2V1VjRU14VlNXME5DRGpwbktWQ3ZtRWRUZl9pVnkyQVB0M3FFMGd6eWNQdDZQRXFuYlNIeGJiYVJBTkZTZndJNk5UMVdGaS1nblk3U0l1YmQ1ZTFtcFl2VkZlbHQ2WGM4cXdTNjliYjMzaVpLczkxWS14dnZGSXk5cVdDc09BajdsNWtoNUHSAdoBQVVfeXFMTk1KUEZQanVRdFB2X1cyOVdZWWtZTDVhdXd0bnk1WUJvM2I0RFZ4NTJkTlA2ZGxNTTFKSDZpbjBndDRjSm1Vb054eC1tbTIwdEhfUDl0Yi1XbUxfaGQxZFJnajE0cTJydGRXWHVtWTMyU2N1ZUN2UXg5ekxKV0ctNXRQbWJDV241QV9sbklBNG9uNndoWE03SFlsSFpIT0FYRjk5ZHptT184bzZoVDhYQVpQODIzcTBVX2VoTDliTktlWDB1UW1vdWREMlh4OTF3YzBNb0k4NDVnX2c?oc=5",
-      "medio": "City Tv",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
     }
   ]
 }
