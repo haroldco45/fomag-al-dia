@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T01:00:10.924Z",
+  "actualizado": "2026-11-23T08:49:11.253Z",
   "total": 80,
   "noticias": [
     {
@@ -471,6 +471,15 @@
       "tema": "Fomag"
     },
     {
+      "titulo": "Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG",
+      "resumen": "BusinessCol.com Noticias. Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG Negocios con Colombia. Economía, Empresas, Comex y más BusinessCol. Noticia ...",
+      "link": "https://www.businesscol.com/fecode-advierte-sobre-continuidad-del-servicio-de-salud-tras-liquidacion-del-fideicomiso-del-fomag/",
+      "medio": "BusinessCol",
+      "fecha": "2026-11-12T13:06:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.GcRwJhLJ2DuY1BLa6pZD7A&pid=News",
+      "tema": "Fecode Fomag"
+    },
+    {
       "titulo": "FECODE convoca a paro nacional el 19 de noviembre: maestros saldrán a las calles a exigir",
       "resumen": "La jornada de movilización busca exigir al Gobierno Nacional el cumplimiento de los acuerdos con el magisterio.",
       "link": "https://www.diariodelsur.com.co/noticias/fecode-convoca-a-paro-nacional-el-19-de-noviembre-maestros-saldran-a-las-calles-a-exigir",
@@ -487,15 +496,6 @@
       "fecha": "2026-11-12T10:02:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.lmuup9U988g5eyPzsC9uLw&pid=News",
       "tema": "Fomag Nueva EPS docentes"
-    },
-    {
-      "titulo": "Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG - BusinessCol.com",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbU",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbUc1ckNjTGdPejBHTm8zTk9FcHVYQkdEZnc1b0I3MkZsQnlGOFpHeEF0MUE?oc=5",
-      "medio": "BusinessCol.com",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fecode Fomag"
     },
     {
       "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica - La FM",
@@ -612,7 +612,7 @@
       "medio": "El Nuevo Día",
       "fecha": "2026-11-09T05:00:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.6IRXeyfoQanqSggKYQJ9hQ&pid=News",
-      "tema": "Fomag transición Fiduprevisora"
+      "tema": "Fomag"
     },
     {
       "titulo": "Primera semana de transición en el Fomag: déficit de $2,7 billones, garantías oficiales y los primeros cambios de IPS para los maestros - IFM Noticias",
