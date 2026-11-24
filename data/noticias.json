@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T05:05:52.604Z",
+  "actualizado": "2026-11-24T16:04:53.559Z",
   "total": 80,
   "noticias": [
     {
@@ -117,7 +117,7 @@
       "medio": "ELHERALDO.CO",
       "fecha": "2026-11-19T21:55:21.000Z",
       "imagen": "",
-      "tema": "salud del magisterio"
+      "tema": "Fomag"
     },
     {
       "titulo": "\"FECODE no votó ese cambio\": Ruth Fernández cuestiona el modelo de salud del magisterio - Blu Radio",
@@ -153,7 +153,7 @@
       "medio": "Blu Radio",
       "fecha": "2026-11-19T07:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.WMUvdhjNGqYwQ3U2EiQivg&pid=News",
-      "tema": "Fecode Fomag"
+      "tema": "salud del magisterio"
     },
     {
       "titulo": "Docentes en Medellín madrugan y hacen largas filas para reclamar medicamentos ante fallas del Fomag",
@@ -174,10 +174,10 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Alberto Mario Vergara Puccini asume la presidencia de la Fiduprevisora y Maybeline Rojas llega al Fomag - larazon.co",
+      "titulo": "Alberto Mario Vergara Puccini asume la presidencia de la Fiduprevisora y Maybeline Rojas llega al Fomag - LA RAZÓN.CO",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXFUajAzMGpFV0N2X2VOSkxlOE5MSkNmNGtUeWFELWZDVXZHcVd2cl95ZzJZNHo3R0ttd21HREhaWlVmUkdUVHc5SFU0MFhoRVozS2VSYy1MQkZBNEpjUExRRWstZG9GZm9OQ3NMeU1wdWtoLWlPME9JQVZjU1lYd1pmejBNNk83STdBcndLNC1WUFE4MFNKbFJxa1",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXFUajAzMGpFV0N2X2VOSkxlOE5MSkNmNGtUeWFELWZDVXZHcVd2cl95ZzJZNHo3R0ttd21HREhaWlVmUkdUVHc5SFU0MFhoRVozS2VSYy1MQkZBNEpjUExRRWstZG9GZm9OQ3NMeU1wdWtoLWlPME9JQVZjU1lYd1pmejBNNk83STdBcndLNC1WUFE4MFNKbFJxa1hXRjRZNFM4OVFlQ0VYaU5ydGg2WHQwVnQ1dk1PUDNSQTZTMGU?oc=5",
-      "medio": "larazon.co",
+      "medio": "LA RAZÓN.CO",
       "fecha": "2026-11-18T15:47:53.000Z",
       "imagen": "",
       "tema": "Fomag"
@@ -318,15 +318,6 @@
       "tema": "salud del magisterio"
     },
     {
-      "titulo": "Atentos conductores: maestros protagonizarán dos tomas de Manizales, dos días marcharán por vías principales - La Patria",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2EzdXZ3NkFSZzdzRDJ6bWt4OUQ4OXRFNkdDQk1GUzVZM2gwcVFxTHJqNU1uNmY3dHRFZFM3SE5QN3VZX19mWHhPaDNkdFpqS01veTZZV3JVSkROUnNEVHFYSmk1dkk2bkgwX0JBWVZyNDNWMGtWd1NTTUk5dVV6TjhRRVJoMzBhOHpuX0NCTk5DRDc2aTVDYldPdG",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2EzdXZ3NkFSZzdzRDJ6bWt4OUQ4OXRFNkdDQk1GUzVZM2gwcVFxTHJqNU1uNmY3dHRFZFM3SE5QN3VZX19mWHhPaDNkdFpqS01veTZZV3JVSkROUnNEVHFYSmk1dkk2bkgwX0JBWVZyNDNWMGtWd1NTTUk5dVV6TjhRRVJoMzBhOHpuX0NCTk5DRDc2aTVDYldPdGZWM2g5LXNlNGdiVnA3MDk2Y3NBMHRsOVRQMXFZaFZ2ejZUS2RYQQ?oc=5",
-      "medio": "La Patria",
-      "fecha": "2026-11-16T15:18:55.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
       "titulo": "Fecode revela las fechas de un nuevo paro en Colombia: afectará a los colegios",
       "resumen": "La Federación Colombiana de Trabajadores de la Educación confirmó su participación en una jornada de paro nacional para noviembre.",
       "link": "https://colombia.as.com/actualidad/fecode-revela-las-fechas-de-un-nuevo-paro-en-colombia-afectara-a-los-colegios-f202611-n/",
@@ -342,6 +333,15 @@
       "medio": "laprensademonagas.com",
       "fecha": "2026-11-16T09:47:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.EGVd1mcQHctID9fLyFUdOA&pid=News",
+      "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Atentos conductores: maestros protagonizarán dos tomas de Manizales, dos días marcharán por vías principales - La Patria",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2EzdXZ3NkFSZzdzRDJ6bWt4OUQ4OXRFNkdDQk1GUzVZM2gwcVFxTHJqNU1uNmY3dHRFZFM3SE5QN3VZX19mWHhPaDNkdFpqS01veTZZV3JVSkROUnNEVHFYSmk1dkk2bkgwX0JBWVZyNDNWMGtWd1NTTUk5dVV6TjhRRVJoMzBhOHpuX0NCTk5DRDc2aTVDYldPdG",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2EzdXZ3NkFSZzdzRDJ6bWt4OUQ4OXRFNkdDQk1GUzVZM2gwcVFxTHJqNU1uNmY3dHRFZFM3SE5QN3VZX19mWHhPaDNkdFpqS01veTZZV3JVSkROUnNEVHFYSmk1dkk2bkgwX0JBWVZyNDNWMGtWd1NTTUk5dVV6TjhRRVJoMzBhOHpuX0NCTk5DRDc2aTVDYldPdGZWM2g5LXNlNGdiVnA3MDk2Y3NBMHRsOVRQMXFZaFZ2ejZUS2RYQQ?oc=5",
+      "medio": "La Patria",
+      "fecha": "2026-11-16T08:00:00.000Z",
+      "imagen": "",
       "tema": "salud del magisterio"
     },
     {
@@ -390,6 +390,15 @@
       "tema": "salud del magisterio"
     },
     {
+      "titulo": "Magisterio del Tolima advierte crisis en entrega de medicamentos y confirma paro para el 19 de noviembre - Ecos del Combeima",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPWF91bm5zSHR0ZFhNeHJQaGJZcHNGaUl3Tk1mWWt6SzQyTG41dFRBR0ZWUmdHSE1oUUlub1ljZ3E2Zkt1MVZCem9zLW52NWpuTURPMU43ajVwNmd0TVBNd2IySmFuUjZmR1hUM2x1MWZIVHR1WGF5ZlotSFYtR2Q3MFBJdG9UdndELW0ycnFXeGxfelhHUUtJMEE0MV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWF91bm5zSHR0ZFhNeHJQaGJZcHNGaUl3Tk1mWWt6SzQyTG41dFRBR0ZWUmdHSE1oUUlub1ljZ3E2Zkt1MVZCem9zLW52NWpuTURPMU43ajVwNmd0TVBNd2IySmFuUjZmR1hUM2x1MWZIVHR1WGF5ZlotSFYtR2Q3MFBJdG9UdndELW0ycnFXeGxfelhHUUtJMEE0MVF2MXhTbUltZG1oRWtnLVl5cklINjgzOWhjU2VlajVnOWVVQnM4LUFwVWc?oc=5",
+      "medio": "Ecos del Combeima",
+      "fecha": "2026-11-13T13:41:57.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
+    },
+    {
       "titulo": "La catástrofe del Fomag - El Colombiano",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdnUEtSTm80RXpEbFFOVVRqTjVTY0o3MUNkTDRGZmtBUkxLUWhqbkx4ZEF4V1I5RlllMXg4LXItUGlNb0lsa3FiUHB5NUpPZVNRLV9xZ0U2N0R4RVl4eHZ3N3pyWHZvUmo2UlhLY2pXcXhHNHlRZmN4ODhUZkJRaTk5WUlFS3o3OHFF?oc=5\" target=\"_blank\"",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmdnUEtSTm80RXpEbFFOVVRqTjVTY0o3MUNkTDRGZmtBUkxLUWhqbkx4ZEF4V1I5RlllMXg4LXItUGlNb0lsa3FiUHB5NUpPZVNRLV9xZ0U2N0R4RVl4eHZ3N3pyWHZvUmo2UlhLY2pXcXhHNHlRZmN4ODhUZkJRaTk5WUlFS3o3OHFF?oc=5",
@@ -415,24 +424,6 @@
       "fecha": "2026-11-13T01:35:21.000Z",
       "imagen": "",
       "tema": "Fomag"
-    },
-    {
-      "titulo": "Magisterio del Tolima advierte crisis en entrega de medicamentos y confirma paro para el 19 de noviembre",
-      "resumen": "Jessiel Melendro Vega, presidente de SUTET-SIMATOL, informó sobre los compromisos adquiridos en una reunión en Bogotá con representantes del FOMAG, FIDUPREVISORA y otros actores del sistema.",
-      "link": "https://www.ecosdelcombeima.com/index.php/tolima/nota-197797-magisterio-del-tolima-advierte-crisis-en-entrega-de-medicamentos-y-confirma-paro",
-      "medio": "ECOS INTERACTIVA",
-      "fecha": "2026-11-13T00:29:00.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Quejas de usuarios llevan a la Supersalud a reforzar controles sobre la salud de militares y docentes - La Patria",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTRfWkdFSzQwQlFYQ19RQmZ3YkRyWjBvSnFLRno4XzNua0ppbGRaY0ZRR3VSby1hRElLWk9nVDdSSnNCa1dJQnpWamtxZG0xSjNsTnlpZ2RQc19XbEl0VWFRSEx0eVk1OWY5ZGlZTldQUzFwVlloUGlIQnZCT2xJY2hYYzhzNkpEcUdRVHlVOWhMZEFWQ3RLVnZZSW",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTRfWkdFSzQwQlFYQ19RQmZ3YkRyWjBvSnFLRno4XzNua0ppbGRaY0ZRR3VSby1hRElLWk9nVDdSSnNCa1dJQnpWamtxZG0xSjNsTnlpZ2RQc19XbEl0VWFRSEx0eVk1OWY5ZGlZTldQUzFwVlloUGlIQnZCT2xJY2hYYzhzNkpEcUdRVHlVOWhMZEFWQ3RLVnZZSW1KdVdqMkhXRHU3UUdXR0l5WU95YUIxaU5xcTFvT0NZ?oc=5",
-      "medio": "La Patria",
-      "fecha": "2026-11-12T21:45:04.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
     },
     {
       "titulo": "Supersalud pone bajo la lupa la salud de militares y maestros - Opanoticias",
@@ -471,24 +462,6 @@
       "tema": "salud del magisterio"
     },
     {
-      "titulo": "Supersalud intensifica vigilancia a Sanidad Militar y revisa deficiencias en la atención del FOMAG - consultorsalud",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB4SlhlclBYekpoZ2h6cmR1UEZ3RFFpalp3d1NZVnY2YndBZ0NnOHZLejZsY0tmLXhCNzlUQ0drdjZhbUo5bC1CYkt4Rjc4Qk9NYklUQ1A2eE13UmpZdkVUUWxpbHJsT2kzU3NPNE9LRjFiR3hjTWxGVVRMTQ?oc=5\" target=\"_blank\">Supersalud intensific",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4SlhlclBYekpoZ2h6cmR1UEZ3RFFpalp3d1NZVnY2YndBZ0NnOHZLejZsY0tmLXhCNzlUQ0drdjZhbUo5bC1CYkt4Rjc4Qk9NYklUQ1A2eE13UmpZdkVUUWxpbHJsT2kzU3NPNE9LRjFiR3hjTWxGVVRMTQ?oc=5",
-      "medio": "consultorsalud",
-      "fecha": "2026-11-12T16:29:10.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG",
-      "resumen": "BusinessCol.com Noticias. Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG Negocios con Colombia. Economía, Empresas, Comex y más BusinessCol. Noticia ...",
-      "link": "https://www.businesscol.com/fecode-advierte-sobre-continuidad-del-servicio-de-salud-tras-liquidacion-del-fideicomiso-del-fomag/",
-      "medio": "BusinessCol",
-      "fecha": "2026-11-12T13:06:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.GcRwJhLJ2DuY1BLa6pZD7A&pid=News",
-      "tema": "Fecode Fomag"
-    },
-    {
       "titulo": "FECODE convoca a paro nacional el 19 de noviembre: maestros saldrán a las calles a exigir",
       "resumen": "La jornada de movilización busca exigir al Gobierno Nacional el cumplimiento de los acuerdos con el magisterio.",
       "link": "https://www.diariodelsur.com.co/noticias/fecode-convoca-a-paro-nacional-el-19-de-noviembre-maestros-saldran-a-las-calles-a-exigir",
@@ -498,13 +471,40 @@
       "tema": "Fecode Fomag"
     },
     {
-      "titulo": "Supersalud prende alarmas por atención en salud de militares y docentes: Sanidad Militar y Fomag, bajo revisión",
-      "resumen": "Las quejas de usuarios y las alertas de veedurías ciudadanas motivaron nuevas actuaciones de inspección sobre los servicios de salud de militares y docentes.",
-      "link": "https://www.semana.com/salud/articulo/supersalud-prende-alarmas-por-atencion-en-salud-de-militares-y-docentes-sanidad-militar-y-fomag-bajo-revision/202657/",
-      "medio": "Semana",
-      "fecha": "2026-11-12T10:02:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.lmuup9U988g5eyPzsC9uLw&pid=News",
-      "tema": "Fomag Nueva EPS docentes"
+      "titulo": "Supersalud intensifica vigilancia a Sanidad Militar y revisa deficiencias en la atención del FOMAG - consultorsalud",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB4SlhlclBYekpoZ2h6cmR1UEZ3RFFpalp3d1NZVnY2YndBZ0NnOHZLejZsY0tmLXhCNzlUQ0drdjZhbUo5bC1CYkt4Rjc4Qk9NYklUQ1A2eE13UmpZdkVUUWxpbHJsT2kzU3NPNE9LRjFiR3hjTWxGVVRMTQ?oc=5\" target=\"_blank\">Supersalud intensific",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4SlhlclBYekpoZ2h6cmR1UEZ3RFFpalp3d1NZVnY2YndBZ0NnOHZLejZsY0tmLXhCNzlUQ0drdjZhbUo5bC1CYkt4Rjc4Qk9NYklUQ1A2eE13UmpZdkVUUWxpbHJsT2kzU3NPNE9LRjFiR3hjTWxGVVRMTQ?oc=5",
+      "medio": "consultorsalud",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Supersalud prende alarmas por atención en salud de militares y docentes: Sanidad Militar y Fomag, bajo revisión - Revista Semana",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeFE0T0lhYy1sYm5zd2JKSXdTRmx3alVqb2c3TWNmMS1lc0Y0R3E1TzV3TDJQeTg2NlN1SGZPaFB2WG56ZGVKQkpYYk9pdnBSdm1xalN5LWdKTTZnVkNLZk5BcHlqU2xhajhyN1l0bTZ6WmVfZzZxZndRQkE5MUpxMkdFUlJtRDNqbGVFNHhPT2xCWTBpdDlPSlp1NF",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeFE0T0lhYy1sYm5zd2JKSXdTRmx3alVqb2c3TWNmMS1lc0Y0R3E1TzV3TDJQeTg2NlN1SGZPaFB2WG56ZGVKQkpYYk9pdnBSdm1xalN5LWdKTTZnVkNLZk5BcHlqU2xhajhyN1l0bTZ6WmVfZzZxZndRQkE5MUpxMkdFUlJtRDNqbGVFNHhPT2xCWTBpdDlPSlp1NFptc1EwS2NmZWdBZXpDdDRuS1QyeEE0Q1lUUUZ6WmNLOHpMZUZnUkczUHFDaDVtc1NlaElTMnhCWWFOM2pKY1lxTHlMRzFwcUp3SjYtOGkw0gHwAUFVX3lxTE4wZHJBeWxjc3YzbUJTWENTZGxVdWtKVC1PMWRtYTQxR1gzMTJmX1NFckx2UFhfN3d6bGt3b2w4YlF0OHA1SGR0Y1NzSkRleFN2amJqMGhHblROUzJaUzhwUV9zWXVvck1KVVZUUi0xbms0MVYwVDBWdlNvaGM2a0hZaHgwWXpRWGNITGxxUUtkbmpKWGwwRGhyaC1McTBFblBNcjF6ZXF4REJpWkd4UkpUd2YtOGpNdHdVTTdFMDlRRF9NcThFY2RmcDZrcHBnUTRSX0l2d1B3aHNmbmRnZkhFaC1IRXZGSlNJcnE2dFF6Rg?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica - La FM",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYj",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYjNwaDh40gGgAUFVX3lxTFBZdXpDTkdRLV9hOVVDejVlWTB4eVZEekJ5YTlqRXRHUmVwXzJkUFRzYVN4aWlITTdvVHFrcC1TcVhxNGJKUU9VSUMyYV9hY09ZNzJRTlNFQWV1bmhKNjd5WTI4a2wwekJydmpGMk12QUVKRGxZMXctU1UxWWVpWWlsZTNESm9vLXM5QmMtUXl6b2FCQjgtVFBUMUlDbUVnU3M?oc=5",
+      "medio": "La FM",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG - BusinessCol.com",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbU",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbUc1ckNjTGdPejBHTm8zTk9FcHVYQkdEZnc1b0I3MkZsQnlGOFpHeEF0MUE?oc=5",
+      "medio": "BusinessCol.com",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fecode Fomag"
     },
     {
       "titulo": "¿Qué está pasando con la salud de militares y maestros? Supersalud aumenta controles - Caracol Radio",
@@ -525,6 +525,15 @@
       "tema": "salud del magisterio"
     },
     {
+      "titulo": "Quejas de usuarios llevan a la Supersalud a reforzar controles sobre la salud de militares y docentes - La Patria",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTRfWkdFSzQwQlFYQ19RQmZ3YkRyWjBvSnFLRno4XzNua0ppbGRaY0ZRR3VSby1hRElLWk9nVDdSSnNCa1dJQnpWamtxZG0xSjNsTnlpZ2RQc19XbEl0VWFRSEx0eVk1OWY5ZGlZTldQUzFwVlloUGlIQnZCT2xJY2hYYzhzNkpEcUdRVHlVOWhMZEFWQ3RLVnZZSW",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTRfWkdFSzQwQlFYQ19RQmZ3YkRyWjBvSnFLRno4XzNua0ppbGRaY0ZRR3VSby1hRElLWk9nVDdSSnNCa1dJQnpWamtxZG0xSjNsTnlpZ2RQc19XbEl0VWFRSEx0eVk1OWY5ZGlZTldQUzFwVlloUGlIQnZCT2xJY2hYYzhzNkpEcUdRVHlVOWhMZEFWQ3RLVnZZSW1KdVdqMkhXRHU3UUdXR0l5WU95YUIxaU5xcTFvT0NZ?oc=5",
+      "medio": "La Patria",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
+    },
+    {
       "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el Magisterio - Agencia de Periodismo Investigativo",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzF0eGE0N3JVdkNXOTJuYzlzMlhWelp3VXJHZ19lYTZSRjhteDlCZTRtc24xM0FoVFhCVENIWG9lcFVUMnl4RnhOU09rcXQ2SzJSSEpKbFM5OFlYQndXbE82aUJjcFNzY1dzZGR0M1QyN2plZUQyWEtOZEhwd2MySkJfNHZ3Y3BEajhxVmotdXk1SlZqM1pVLTltSH",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzF0eGE0N3JVdkNXOTJuYzlzMlhWelp3VXJHZ19lYTZSRjhteDlCZTRtc24xM0FoVFhCVENIWG9lcFVUMnl4RnhOU09rcXQ2SzJSSEpKbFM5OFlYQndXbE82aUJjcFNzY1dzZGR0M1QyN2plZUQyWEtOZEhwd2MySkJfNHZ3Y3BEajhxVmotdXk1SlZqM1pVLTltSHJxWGhvRUU3dTFnLVlyNkNSc21N?oc=5",
@@ -532,15 +541,6 @@
       "fecha": "2026-11-12T08:00:00.000Z",
       "imagen": "",
       "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica - La FM",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYj",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYjNwaDh40gGgAUFVX3lxTFBZdXpDTkdRLV9hOVVDejVlWTB4eVZEekJ5YTlqRXRHUmVwXzJkUFRzYVN4aWlITTdvVHFrcC1TcVhxNGJKUU9VSUMyYV9hY09ZNzJRTlNFQWV1bmhKNjd5WTI4a2wwekJydmpGMk12QUVKRGxZMXctU1UxWWVpWWlsZTNESm9vLXM5QmMtUXl6b2FCQjgtVFBUMUlDbUVnU3M?oc=5",
-      "medio": "La FM",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag"
     },
     {
       "titulo": "La catástrofe del Fomag",
@@ -597,22 +597,31 @@
       "tema": "salud del magisterio"
     },
     {
-      "titulo": "FECODE convocó nuevo paro nacional el 19 de noviembre: ¿Por qué? Esto dice la circular No. 73 - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSW",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSWQtTGhxRkFuY0tOT2tSckVNR3BaRlFWM0dIajdjZzlteUlwQWN0QdIB1gFBVV95cUxORFNMZW9VTUhqRTVzRi1iaDZTN0gwZzlvWHhJOXp5TVpjSTNOODZ1b3hSeEZiWTRZdmExRXprZVJuV1dUNmp2NWNOeTN0V3VjQmZMYnFRUkxMcnc0RUlzMklxTGZjMzRsVlpkckk0ZEdnRVN2WVhnVUlNamNuUDc2Y1pJSmtQZlM2ZnRGbEI5bG83ZXJtQ01uVlpwekJwNzI1cHZCRTVTNlJNNzFLQ3lNcEk5cEpBckJkbnIwTmV3OHhsQ05NVGhkYmVVa0dkTkxmSEI2YWtR?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-11-10T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag proyecto de ley"
-    },
-    {
       "titulo": "Maestros de Norte de Santander, en alerta por el futuro del Fomag y la atención en salud - La Opinión Cúcuta",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5V1hxNHVEZDFvVlctN1M5N1ZjaW5KaHJuRFI3UUFjaFNINXJIcXFCLWkwSm56VlJUams5OW0zdE1OLXhyMHZuWHZ5ZUVwclFNVmRkT0RMazVDZGs1ekN2TnhUZTlCb3ZSZG1ZSEViTWU0bHRqV25iazZxLTRtTGh1YnJKRkRVaU0xWjdDWk5BSHZjZ1pXcGtZLW",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHg5V1hxNHVEZDFvVlctN1M5N1ZjaW5KaHJuRFI3UUFjaFNINXJIcXFCLWkwSm56VlJUams5OW0zdE1OLXhyMHZuWHZ5ZUVwclFNVmRkT0RMazVDZGs1ekN2TnhUZTlCb3ZSZG1ZSEViTWU0bHRqV25iazZxLTRtTGh1YnJKRkRVaU0xWjdDWk5BSHZjZ1pXcGtZLWhHWE9lNzBSSFpvbVh1amJIb2tta09HMkl5UQ?oc=5",
       "medio": "La Opinión Cúcuta",
       "fecha": "2026-11-10T08:00:00.000Z",
       "imagen": "",
-      "tema": "salud del magisterio"
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Clínica Foscal advierte riesgo de cierres por falta de pagos de Nueva EPS y Fomag - Canal 1 En vivo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGZ1alVKdHdaVzR1MFNSdzhILVZnbU1vRDIzekVUYTZqcnA1aEtTSm03cTFpb3Z0b3pEcXJKQkdSRUZNTE5LYkZxQ1pPU3BuME9SN0hRUTh2Sl9MNm03SWVRNkZRek9qdlBUTWZXcWtqN193Y0lCbUY0R1E2M2RENUhxQ1htWUdrYUFJeXdHTkVKVWJSdkRUWEtmeW",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGZ1alVKdHdaVzR1MFNSdzhILVZnbU1vRDIzekVUYTZqcnA1aEtTSm03cTFpb3Z0b3pEcXJKQkdSRUZNTE5LYkZxQ1pPU3BuME9SN0hRUTh2Sl9MNm03SWVRNkZRek9qdlBUTWZXcWtqN193Y0lCbUY0R1E2M2RENUhxQ1htWUdrYUFJeXdHTkVKVWJSdkRUWEtmeWNSMDV6VENLbWtfN09NS0JTVlVrcC1LbnV2T21PaWZqTEViTdIBxAFBVV95cUxOaWVGZ2NtUVV5VlJ5ZDRxVjBmNXhKVWRxYU9IQUJpSlpMSVV0TXllYXRYd2xPZmo3Y0ZlcndRcHE0Nnh4em0wWHB1LWhoQnRNanhlY1dXMXRWRFFBZGFMS3pvbWI4aHNDbjFKa3dzSU8wMnI1MXhOTXlGdnFOZjk3TUVmUDJjVHNNVS1mLS1mMWc2aVo4TVFpS1N6NGlGTER0eFdVUGpIcklHNFZWSU5mY2RqamRTWnNrNkFjR0RMcG13NkFI?oc=5",
+      "medio": "Canal 1 En vivo",
+      "fecha": "2026-11-10T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "FECODE convocó nuevo paro nacional el 19 de noviembre: ¿Por qué? Esto dice la circular No. 73 - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSW",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVU3bnBCSkpjaGI0WXNROTR5aWtGbmNVVWtMaHk1UGE1VDQzUHJVMWpKVmhaTTVkV2ZEQVgzQktqZDFWcXc5TTQ0aG5oTm9LSTd1MFNmYnhMMGZCN0tRb3ZGNVltV2ZZelFzbGZ1ZmtjWS0xSi16d3ptSjkxV2pBcWdBM3RaTjUzaWNMbGZ3T2Jkd3lrVmN1eXJPSWQtTGhxRkFuY0tOT2tSckVNR3BaRlFWM0dIajdjZzlteUlwQWN0QdIB1gFBVV95cUxORFNMZW9VTUhqRTVzRi1iaDZTN0gwZzlvWHhJOXp5TVpjSTNOODZ1b3hSeEZiWTRZdmExRXprZVJuV1dUNmp2NWNOeTN0V3VjQmZMYnFRUkxMcnc0RUlzMklxTGZjMzRsVlpkckk0ZEdnRVN2WVhnVUlNamNuUDc2Y1pJSmtQZlM2ZnRGbEI5bG83ZXJtQ01uVlpwekJwNzI1cHZCRTVTNlJNNzFLQ3lNcEk5cEpBckJkbnIwTmV3OHhsQ05NVGhkYmVVa0dkTkxmSEI2YWtR?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-10T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag Nueva EPS docentes"
     },
     {
       "titulo": "Clínica que realiza 2.500 cirugías mensuales y emplea a 5.00 personas advierte posibles cierres: estos son los pacientes que estarían en riesgo",
@@ -639,7 +648,16 @@
       "medio": "Portafolio.co",
       "fecha": "2026-11-09T08:00:00.000Z",
       "imagen": "",
-      "tema": "salud del magisterio"
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Claudia Margarita Zuleta responsabiliza al Gobierno Petro por la crisis del FOMAG: patrimonio negativo de $3 - Emisora Atlántico 1070 AM",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxObkhJVHZRWnAwR2RSdUV2QVR4MXNpT25lMnY0c3pQSlVEV09nMS1fMjJkdEI1Y2xWa1gyOUdTSDFjeEpVQjNQN2NuN2pCWG0xUEMxV1RFS3ZubWVzdkx2S3IyNGVwaDFkc29hWVVTSm44cTZtZzZ4RzRwcDliWnBUMXBvUE5oeTA5RGIzdUtTMlpqclNQZjhhZ1FET1",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObkhJVHZRWnAwR2RSdUV2QVR4MXNpT25lMnY0c3pQSlVEV09nMS1fMjJkdEI1Y2xWa1gyOUdTSDFjeEpVQjNQN2NuN2pCWG0xUEMxV1RFS3ZubWVzdkx2S3IyNGVwaDFkc29hWVVTSm44cTZtZzZ4RzRwcDliWnBUMXBvUE5oeTA5RGIzdUtTMlpqclNQZjhhZ1FET1Zya0lRYjFTX2sybFk5QXluR0liajJqeXVwcXBTaTF6ODQzT29JWG85Y3ExUDU5SUdQaFhLdTBtZS04elFpTnRiNThQclU3Q0ZfdWM0RW9ZQUdn0gH2AUFVX3lxTE16cFN5dldydlFHWnNNXzdhVVdNX3JqRGUtWlAxRl9CNWNPanVKZXRXYTllQ21zZ3VlbE5rX2RLQ29SemxaSU9RdGs1djFWdl9ZMm5UVUluanRsSkVCWTlDTWNCWWdJWHoyaW4yWEU4NE1XMW5fdHRaSGs5cWJOS25MZnd6WDBYRldJd3gxbHBiM08xQ0RjU2RJbFFfTVJENlZsSUN0VzdtQUltOVozU2ZGQ2dJOFZNNzFzbEtOZ0pWTWtONDRXYjdyLVJfZGstY1k0cXR1dnlrS1cxTTdfY3dkY3AtMXRHUEZOazRQRV80eVpBYS1FZw?oc=5",
+      "medio": "Emisora Atlántico 1070 AM",
+      "fecha": "2026-11-09T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
     },
     {
       "titulo": "FOMAG: la hora de la eficiencia y la transparencia",
@@ -651,21 +669,21 @@
       "tema": "Fomag"
     },
     {
+      "titulo": "Fomag anuncia acuerdos con centros asistenciales en Antioquia: vuelven servicios de cancerología - Blu Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxONUx0bzRZdTJ0VWZoaFgweGVHNndxNnpieGVmS203SFdWd0MxbjROSVBad0RqWVo2X2ZtWHhhRy1lZE5WaVpDb3lLUmZ0eW1TeFRsYks5TzBBVjJRZUY3RmJTa2ZOWk9nNFRFMEFEMzRHelg5ZjZoM3J5RmpFU1BvTzY5MERMallVLWplMVVLX0FoRjdEOXBrZUZsOH",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONUx0bzRZdTJ0VWZoaFgweGVHNndxNnpieGVmS203SFdWd0MxbjROSVBad0RqWVo2X2ZtWHhhRy1lZE5WaVpDb3lLUmZ0eW1TeFRsYks5TzBBVjJRZUY3RmJTa2ZOWk9nNFRFMEFEMzRHelg5ZjZoM3J5RmpFU1BvTzY5MERMallVLWplMVVLX0FoRjdEOXBrZUZsOHlMQmZMYy1EVlVzSzd1VjIybjh2TndYT3M4eTh2VXJVLU5DLUFwcUVBQzNqREthaUVqLThXTENFbndEUTBCdVF30gHqAUFVX3lxTFB1SUZ3MU96VmN3WFhOYVkxX3VoeDdxNjRpcVNMcEQtMGxScEVFQXItOGlSQ0Z1RGQ2Ynlnd25SbUpIWmExY3I1X2dTRV9BTXFhN1JnamExbS1TMVZsOTJHWGJmdzNFck9kT040Q2dNeUYzUWptVGdTMTFyZVNrNnp4RDR5Rm5acEIzMmxCR2xrSF82ZThCdXFSQmtBNngwSk50V0RQSHEzZ0I5RmVReVpPNjdIcjlleFZRWjdMMUwzNlpoTHRZT2drdUxralU3VktqdGYxTFFmMmhfNTFNMVZBTjBvZzlBYnRxUQ?oc=5",
+      "medio": "Blu Radio",
+      "fecha": "2026-11-08T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
       "titulo": "Primera semana de transición en el Fomag: déficit de $2,7 billones, garantías oficiales y los primeros cambios de IPS para los maestros - IFM Noticias",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSldQRDJOd2EyYXNlUkM1YVFzOU93eW9BclI4enBVREE1NVdqWHJNdHlTYU1vOHl4dmh0OV82Y1FJSmZKcTFFdzFaZHd3YlFKYzZ2NjBsUTk4TnF3Yy1QVjlTQjk4X3J0a1NiTHVfM2haX3dVNDk1UVVKVHZILWxxeDZwVDdCVlBENHMyWDZOb0g5c183XzlRcEhDTV",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSldQRDJOd2EyYXNlUkM1YVFzOU93eW9BclI4enBVREE1NVdqWHJNdHlTYU1vOHl4dmh0OV82Y1FJSmZKcTFFdzFaZHd3YlFKYzZ2NjBsUTk4TnF3Yy1QVjlTQjk4X3J0a1NiTHVfM2haX3dVNDk1UVVKVHZILWxxeDZwVDdCVlBENHMyWDZOb0g5c183XzlRcEhDTVZaVUUxa1FaaTZINEZ3VUZ4MHJPNGhjOGUtQQ?oc=5",
       "medio": "IFM Noticias",
       "fecha": "2026-11-08T08:00:00.000Z",
       "imagen": "",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "Fomag anuncia acuerdos con centros asistenciales en Antioquia: vuelven servicios de cancerología",
-      "resumen": "Luego de que el Ministerio de Educación anunciara el fin del contrato de la Fiduprevisora con el Fomag, la entidad logró llegar a acuerdos con Clínica y hospitales de Antioquia para formalizar contrat ...",
-      "link": "https://www.bluradio.com/regiones/antioquia/fomag-anuncia-acuerdos-con-centros-asistenciales-en-antioquia-vuelven-servicios-de-cancerologia-rg10",
-      "medio": "Blu Radio",
-      "fecha": "2026-11-08T05:54:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.j4EawK7X1AMdHwM_flik0A&pid=News",
       "tema": "Fomag"
     },
     {
@@ -703,24 +721,6 @@
       "fecha": "2026-11-06T08:00:00.000Z",
       "imagen": "",
       "tema": "Fomag"
-    },
-    {
-      "titulo": "FOMAG logra acuerdos para formalizar contratos con prestadores de salud públicos y privados de Antioquia - Telemedellín",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB3WVRoWHA3LUoyXzY3bUtTM1V2dE92SFJxSXdUM2cxd201UWdDVTc3b210bmx5bzl6ODEwNUp1U0hsQ3g3Vk1meGg1TDUtRXdsR09yUzJ2V0pCU3NUcFVONlJxeEZxWWx3alpQMHBXWXRTNFRsOTJB?oc=5\" target=\"_blank\">FOMAG logra acuerdos para f",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3WVRoWHA3LUoyXzY3bUtTM1V2dE92SFJxSXdUM2cxd201UWdDVTc3b210bmx5bzl6ODEwNUp1U0hsQ3g3Vk1meGg1TDUtRXdsR09yUzJ2V0pCU3NUcFVONlJxeEZxWWx3alpQMHBXWXRTNFRsOTJB?oc=5",
-      "medio": "Telemedellín",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "Por deuda de $600.000 millones, Clínica Foscal de Bucaramanga se vería obligada a cerrar - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxONEhVa1p3M1NlNUFoZWhKZjkybzRQQTI5eXZUVEQ2cEFLczQzQ3JWRzN1ZHNCRHVZeFp5UWd6dXR3Vmg0anJPZGc2TEpjdzJPbVlrd29WdHl3c2EzWDVHYkRPSE8xd0dLMFhBdE1OLTZQR2RLV0FXRExlTVJUdGkxZkowSWE3c0xzVGRTaXZieDhZSzIzYWtPVGxwUH",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONEhVa1p3M1NlNUFoZWhKZjkybzRQQTI5eXZUVEQ2cEFLczQzQ3JWRzN1ZHNCRHVZeFp5UWd6dXR3Vmg0anJPZGc2TEpjdzJPbVlrd29WdHl3c2EzWDVHYkRPSE8xd0dLMFhBdE1OLTZQR2RLV0FXRExlTVJUdGkxZkowSWE3c0xzVGRTaXZieDhZSzIzYWtPVGxwUHZXTTFQZGg2dGlWSVNjMFFGNkMzajRsUDd1TzB0TW5vMmFZdzI5bGx5Tk1HXzRfaTNPVl9rMzRSeVpjVnVsVmo1?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag Nueva EPS docentes"
     }
   ]
 }
