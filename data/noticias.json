@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-26T20:47:08.703Z",
+  "actualizado": "2026-11-27T03:25:26.435Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Docentes de Chiapas exigen mejores servicios de Salud, toman Torre Chiapas - Meganoticias.mx",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkVKczE3M0x2YVN1RWVPZTdzZ202YUNsVFRsNTVmbFlLNzBnZ2wycThCRl9fZkloc0kxeDlqN1pFeDNRWE5XeEo1M3VaeEhVLTk0TzI3Y21yMUQ2QTVwLVZkbHNJV013ZjY5X2pneEc4dXBaMlptc05ZdmE0WmFSbjVUS2pFT0dIN3E1UGREZHZvOVM0RWVJTzB5Ql",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkVKczE3M0x2YVN1RWVPZTdzZ202YUNsVFRsNTVmbFlLNzBnZ2wycThCRl9fZkloc0kxeDlqN1pFeDNRWE5XeEo1M3VaeEhVLTk0TzI3Y21yMUQ2QTVwLVZkbHNJV013ZjY5X2pneEc4dXBaMlptc05ZdmE0WmFSbjVUS2pFT0dIN3E1UGREZHZvOVM0RWVJTzB5QlktZGRfNFRBTlhIMHFnUF82MlBBTW5hQWFlbXBYLWo1THFUaGR3ZEpIb0tRNVN4RUE5UQ?oc=5",
+      "medio": "Meganoticias.mx",
+      "fecha": "2026-11-26T21:12:10.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
+    },
     {
       "titulo": "Supersalud fija 34 compromisos al Fomag y Sanidad Militar por fallas en atención",
       "resumen": "El Fomag deberá resolver más de 14.500 medicamentos pendientes, mientras Sanidad Militar tendrá que entregar 1.019 y responder 480 reclamaciones.",
@@ -66,6 +75,15 @@
       "tema": "Fomag"
     },
     {
+      "titulo": "Supersalud fija 34 compromisos al FOMAG y Sanidad Militar por fallas en la atención médica - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRkhiNWtxa2lHUkVpQV9RWGg4WV9QWk1MM0ZEMmhZdUVHTkgzcVFBem9zRUtnNllXcnNXYk5QbVR1aTR2UlpVT2NFM0QzZzBEZTNldHJSN1V0WTlkTXNZaW5RVHNLTUVQaDVEeWdsb2dCX09kYnVtWFByM3ZqRGdXdWwtZTlLVEd6NllaNjlxOGU5VFc0YWJPQWpWOE",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRkhiNWtxa2lHUkVpQV9RWGg4WV9QWk1MM0ZEMmhZdUVHTkgzcVFBem9zRUtnNllXcnNXYk5QbVR1aTR2UlpVT2NFM0QzZzBEZTNldHJSN1V0WTlkTXNZaW5RVHNLTUVQaDVEeWdsb2dCX09kYnVtWFByM3ZqRGdXdWwtZTlLVEd6NllaNjlxOGU5VFc0YWJPQWpWOExRbGRGeVlieFJDSTlGSjZjWWNua0MwTjVDY1pVXzYwREtsUDdXSjjSAdcBQVVfeXFMTmQ2U2o1ekF1LUlLbzFsSWhwYjgyN1FUYlhNU2V6YjJtS1FVMGJhZ2JvdVVKTVNzWnp3eEZ4RC1MblRxWUZCY0h4UGIxZVp6ZGk5UC1raTVydk42MV91NGJHbTVaZ1VOZ21qbGI4YXBRUGs0WUNoOUF2dnctYWRRcjI0bmE5bHFtSnRzakJraXBLRHZ1MmtzSGxqT0VBNUVGZ2c4djZfZXdSbGtfWlRxWGhKX0VnUWRaRDlJYVAtaEtuR2Nfb0hFb1cxbVpsWUZzSEJNaFZOOGs?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-25T20:40:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
       "titulo": "Supersalud detecta fallas en atención del Fomag y Sanidad Militar - El Meridiano",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdE1UdXNMUVNlell3MGRsdjdncmJlRjl5bmt5RWdicFFKajFvVTJfalBUSUpNcUIzdmo1VjQtOGhzUlBIdjVya2NaRU9qMEtxNWU5NU5wLWRNVlAxc3g1cGRfQS1OR3NMb3NLM3VUVkwtQ3FvaXFFY0NXS1pZb3AyZjhrTG9JSk1DZ1ZseUx5czRDbUlUOTE0MUJMcF",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdE1UdXNMUVNlell3MGRsdjdncmJlRjl5bmt5RWdicFFKajFvVTJfalBUSUpNcUIzdmo1VjQtOGhzUlBIdjVya2NaRU9qMEtxNWU5NU5wLWRNVlAxc3g1cGRfQS1OR3NMb3NLM3VUVkwtQ3FvaXFFY0NXS1pZb3AyZjhrTG9JSk1DZ1ZseUx5czRDbUlUOTE0MUJMcFM2LWRoN0RrdXJyNW9wblBT?oc=5",
@@ -126,15 +144,6 @@
       "medio": "El Heraldo",
       "fecha": "2026-11-25T12:46:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.R85rhyewhEzzyUSKn1G3Ow&pid=News",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "Supersalud fija 34 compromisos al FOMAG y Sanidad Militar por fallas en la atención en salud",
-      "resumen": "El FOMAG deberá entregar más de 14.500 medicamentos pendientes, mientras que Sanidad Militar tendrá que resolver 480 reclamaciones y garantizar la entrega ...",
-      "link": "https://www.lafm.com.co/sociedad/supersalud-fomag-sanidad-militar-atencion-pacientes-beneficiarios-418285",
-      "medio": "La FM",
-      "fecha": "2026-11-25T02:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.whY4IXSrDdOq9Rbteok7aQ&pid=News",
       "tema": "Fomag"
     },
     {
@@ -381,22 +390,13 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Alberto Vergara es nuevo presidente de Fiduprevisora; Maybeline Rojas es la vicepresidente del Fomag - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPajZtcEtoYzdaRTdJMnRWQ0tRRGljaEpSeVlYeFhKTTZDT2xxaXpPNGdyZ2VRZGI3dTNjcFpaY2pmdW5NWTNFMENIV3AtX0VMTl9YRXZLOXltZElUTmRkVGppY0NXV1dNX0ZBVG5Wc3kwd0EtNHN2RHI0c0dvM1ZndU9XMnNoaTFYT21HekFNY0tRYnBPT0RveVVlcn",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajZtcEtoYzdaRTdJMnRWQ0tRRGljaEpSeVlYeFhKTTZDT2xxaXpPNGdyZ2VRZGI3dTNjcFpaY2pmdW5NWTNFMENIV3AtX0VMTl9YRXZLOXltZElUTmRkVGppY0NXV1dNX0ZBVG5Wc3kwd0EtNHN2RHI0c0dvM1ZndU9XMnNoaTFYT21HekFNY0tRYnBPT0RveVVlcnV1YUlVeWZzQjJyWjVRM0taSm1oYVRZVWlaY3phUU5vWVhYVHY5dDY0M3NZTUpnYjJEVW_SAeMBQVVfeXFMUEt4cm5hYnlzZU84eHI3WjhnV2xVLXJzV3RCS1gzRS02MzNMY19GYm1HdEt2eHpOUlJILWF4RElubDhZdkloNjBXMU4zd2pEeU5UUXVHU0R0NHduMkxMNlBUSm9XbW5JRGpCSmlLNWxGTHF2eEN4OE5zcHdzQUJsNlJ6SWpCX1FTTXhISnJXcXVYMEh6V1AteDVjYVFZdVBxUHpkVHZRbjJpS0JZekhtenFRRDN1NUszQWFMQ1psdFJ2OTZMSGViT3VwcTYzcVk4dHRxRWNGclZxdWIwVkkwaE9qbFE?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-11-18T12:35:05.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
       "titulo": "¿Quién es Maybeline Rojas, nueva vicepresidenta del Fomag?",
       "resumen": "La médica Maybeline Rojas asumirá la vicepresidencia del Fomag. Tiene más de 20 años de experiencia en el sector salud y fue gerente de Global Health Group.",
       "link": "https://www.kienyke.com/colombia/maybeline-rojas-es-la-nueva-vicepresidenta-del-fomag",
       "medio": "KienyKe",
       "fecha": "2026-11-18T12:31:00.000Z",
       "imagen": "",
-      "tema": "Fomag Nueva EPS docentes"
+      "tema": "Fomag"
     },
     {
       "titulo": "Magisterio del Magdalena participará en paro nacional",
@@ -424,6 +424,15 @@
       "fecha": "2026-11-18T09:15:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.homk_pam6joMoTs23JkLSA&pid=News",
       "tema": "Fomag transición Fiduprevisora"
+    },
+    {
+      "titulo": "Alberto Vergara es nuevo presidente de Fiduprevisora; Maybeline Rojas es la vicepresidente del Fomag - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPajZtcEtoYzdaRTdJMnRWQ0tRRGljaEpSeVlYeFhKTTZDT2xxaXpPNGdyZ2VRZGI3dTNjcFpaY2pmdW5NWTNFMENIV3AtX0VMTl9YRXZLOXltZElUTmRkVGppY0NXV1dNX0ZBVG5Wc3kwd0EtNHN2RHI0c0dvM1ZndU9XMnNoaTFYT21HekFNY0tRYnBPT0RveVVlcn",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajZtcEtoYzdaRTdJMnRWQ0tRRGljaEpSeVlYeFhKTTZDT2xxaXpPNGdyZ2VRZGI3dTNjcFpaY2pmdW5NWTNFMENIV3AtX0VMTl9YRXZLOXltZElUTmRkVGppY0NXV1dNX0ZBVG5Wc3kwd0EtNHN2RHI0c0dvM1ZndU9XMnNoaTFYT21HekFNY0tRYnBPT0RveVVlcnV1YUlVeWZzQjJyWjVRM0taSm1oYVRZVWlaY3phUU5vWVhYVHY5dDY0M3NZTUpnYjJEVW_SAeMBQVVfeXFMUEt4cm5hYnlzZU84eHI3WjhnV2xVLXJzV3RCS1gzRS02MzNMY19GYm1HdEt2eHpOUlJILWF4RElubDhZdkloNjBXMU4zd2pEeU5UUXVHU0R0NHduMkxMNlBUSm9XbW5JRGpCSmlLNWxGTHF2eEN4OE5zcHdzQUJsNlJ6SWpCX1FTTXhISnJXcXVYMEh6V1AteDVjYVFZdVBxUHpkVHZRbjJpS0JZekhtenFRRDN1NUszQWFMQ1psdFJ2OTZMSGViT3VwcTYzcVk4dHRxRWNGclZxdWIwVkkwaE9qbFE?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-18T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
     },
     {
       "titulo": "18 de noviembre 2026 • 10:53 hs",
@@ -669,6 +678,15 @@
       "tema": "Fomag"
     },
     {
+      "titulo": "Supersalud intensifica vigilancia sobre Sanidad Militar y el FOMAG por fallas en la atención médica - La FM",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYj",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT29IUzJuWmoyUnZsWXBORl9aR3NoZ0hXZXh1MGtnMTFpY2ZUSHBqQjJaMl8tQWFFakZsTDA0eU1weWYxbmEtRkc3Tm1BWm9COGgzWVhURVNiZnFpbGFrd2tnVVFHem9rYm00MkRibTkyc191bk1TQ3lPeDQ3ekY1OFNSRVBQWVlVdDJ3Wlo4U1FKMDByRzg3VjJSYjNwaDh40gGgAUFVX3lxTFBZdXpDTkdRLV9hOVVDejVlWTB4eVZEekJ5YTlqRXRHUmVwXzJkUFRzYVN4aWlITTdvVHFrcC1TcVhxNGJKUU9VSUMyYV9hY09ZNzJRTlNFQWV1bmhKNjd5WTI4a2wwekJydmpGMk12QUVKRGxZMXctU1UxWWVpWWlsZTNESm9vLXM5QmMtUXl6b2FCQjgtVFBUMUlDbUVnU3M?oc=5",
+      "medio": "La FM",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
       "titulo": "¿Qué está pasando con la salud de militares y maestros? Supersalud aumenta controles - Caracol Radio",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObm1oNUlNZHpkTi02YXZiclhlTU5GZWtqb0p1T2I1ckxmTjVPUmhYeGhndzFOeWgxUjJCc2Jpa3ZpNnJ5WDI1TmlDY2dxRDdmcHc3NjFIVlpTVHFXRTVld3BBYm1ELUtpY09vanJyMDJ6SEVoOUoteHh1aTd0NFNRelRVVG9PZmVaSFVVLWx5dEpLMXlzVGdVZVRJTE",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObm1oNUlNZHpkTi02YXZiclhlTU5GZWtqb0p1T2I1ckxmTjVPUmhYeGhndzFOeWgxUjJCc2Jpa3ZpNnJ5WDI1TmlDY2dxRDdmcHc3NjFIVlpTVHFXRTVld3BBYm1ELUtpY09vanJyMDJ6SEVoOUoteHh1aTd0NFNRelRVVG9PZmVaSFVVLWx5dEpLMXlzVGdVZVRJTEh4bldSRGozRGhwWDM4Q1d4NWZLM0JUekpsZ19k0gHMAUFVX3lxTE1zMW9Yd3kzVkFONUY2UFVOTW12MHNKTGdzYWxZdDFXbWl6VkxzZUVkcm54QTNNaFBNMWFnOFpBYzE3WGdCRkRLUU1EcEhkU084WXNvaXM3T1VpUTVyamIwcWhNVDZnSGdtR29VWlJzaFVjbDFoNWVnaFVYdmp2dUJSNjNUYnBNWnZVU0RleFotdTVDT0VURFBqTnd1SExLZzJWZmJjYnhtaXVxMTJZdENtWC1SOVFPb3J6M1BpMmVlYU9uMG1NNmJCVmZiSw?oc=5",
@@ -703,24 +721,6 @@
       "fecha": "2026-11-12T08:00:00.000Z",
       "imagen": "",
       "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Supersalud pone bajo la lupa la salud de militares y maestros - Opanoticias",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2FPejJXeUhKYWVpSElGc3RrVTUyXzc5SkRqN0tKbDh1Zm9vc2FzRFVtQTBXNHl2cldCRzhERExrRFh6M2dfNlBCalpZVFY2X0RhTENJOXllV3l1VUJWRnFoMnByMm1yaHo3U3JSVkNHMzdvTkNDZHE2RFRLdVFQZUZUVFJuT0NreHhMcjBKSGhzeUZpdU0w?oc=5\"",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2FPejJXeUhKYWVpSElGc3RrVTUyXzc5SkRqN0tKbDh1Zm9vc2FzRFVtQTBXNHl2cldCRzhERExrRFh6M2dfNlBCalpZVFY2X0RhTENJOXllV3l1VUJWRnFoMnByMm1yaHo3U3JSVkNHMzdvTkNDZHE2RFRLdVFQZUZUVFJuT0NreHhMcjBKSGhzeUZpdU0w?oc=5",
-      "medio": "Opanoticias",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Supersalud intensifica vigilancia a Sanidad Militar y revisa deficiencias en la atención del FOMAG - consultorsalud",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB4SlhlclBYekpoZ2h6cmR1UEZ3RFFpalp3d1NZVnY2YndBZ0NnOHZLejZsY0tmLXhCNzlUQ0drdjZhbUo5bC1CYkt4Rjc4Qk9NYklUQ1A2eE13UmpZdkVUUWxpbHJsT2kzU3NPNE9LRjFiR3hjTWxGVVRMTQ?oc=5\" target=\"_blank\">Supersalud intensific",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4SlhlclBYekpoZ2h6cmR1UEZ3RFFpalp3d1NZVnY2YndBZ0NnOHZLejZsY0tmLXhCNzlUQ0drdjZhbUo5bC1CYkt4Rjc4Qk9NYklUQ1A2eE13UmpZdkVUUWxpbHJsT2kzU3NPNE9LRjFiR3hjTWxGVVRMTQ?oc=5",
-      "medio": "consultorsalud",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fomag"
     }
   ]
 }
