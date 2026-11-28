@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-11-27T21:46:22.808Z",
+  "actualizado": "2026-11-28T03:40:26.882Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Lectura y salud toman fuerza en las aulas; SEP reconoce labor docente",
+      "resumen": "El titular de la SEP, Mario Delgado, reconoció la labor del magisterio y destacó las acciones para fortalecer la lectura, mejorar la salud y el bienestar de estudiantes, así como transformar las escue ...",
+      "link": "https://www.radioformula.com.mx/nacional/lectura-y-salud-toman-fuerza-en-las-aulas-sep-reconoce-labor-docente-20261127-0096.html",
+      "medio": "Radio Fórmula",
+      "fecha": "2026-11-27T18:38:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.xuFgJztUW5TMj7YTSLFQ2Q&pid=News",
+      "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "SEP consolida nueva etapa educativa con lectura, salud y bienestar; reconoce participación del magisterio: Mario Delgado",
+      "resumen": "El secretario de Educación Pública, Mario Delgado Carrillo, reconoció el compromiso, la vocación y el trabajo de maestras, maestros, directivos y supervisores de todo el país, quienes contribuyen ...",
+      "link": "https://www.cronica.com.mx/academia/2026/11/27/sep-consolida-nueva-etapa-educativa-con-lectura-salud-y-bienestar-reconoce-participacion-del-magisterio-mario-delgado/",
+      "medio": "Crónica",
+      "fecha": "2026-11-27T16:00:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.vtt6wR7RELxfsy1jlkRHCQ&pid=News",
+      "tema": "salud del magisterio"
+    },
     {
       "titulo": "Más de 2.500 familias de docentes en Arauca enfrentan otra alerta por la atención en salud",
       "resumen": "La suspensión de servicios especializados del Centro Neurológico Jeyfer Cisneros, anunciada para este 27 de noviembre, vuelve a poner en evidencia los pro ...",
@@ -19,6 +37,24 @@
       "fecha": "2026-11-26T21:12:10.000Z",
       "imagen": "",
       "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Cerca de 100 trabajadores de IPS completarían tres meses sin salario por retrasos en giros del FOMAG - El Frente",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnhENDNvUEszLTBwWmpTVGFHczM4eUFETXgySVZWdU5tOE42eDhaV1ZRWlhRNkNtcXBidXM4YkZmLVZuN3Jmd3hVUkxfQWMzUTdKTkR6R1E4aml3V2wwcDAxaXRyQldlWXduQi1nTWg0bFZJZncxVEc0TEZBZEF6WGRWNS03RjZfRm9kSWZTWEJHSjF1eHBHTXFBVl",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnhENDNvUEszLTBwWmpTVGFHczM4eUFETXgySVZWdU5tOE42eDhaV1ZRWlhRNkNtcXBidXM4YkZmLVZuN3Jmd3hVUkxfQWMzUTdKTkR6R1E4aml3V2wwcDAxaXRyQldlWXduQi1nTWg0bFZJZncxVEc0TEZBZEF6WGRWNS03RjZfRm9kSWZTWEJHSjF1eHBHTXFBVlRLd1ZWUmpnQUVvSzBFWWh5aTVQdXFfOW4xSVhHcE1FNzJUOF9FWkE?oc=5",
+      "medio": "El Frente",
+      "fecha": "2026-11-26T15:28:28.000Z",
+      "imagen": "",
+      "tema": "Fomag"
+    },
+    {
+      "titulo": "Supersalud detecta fallas en FOMAG y Sanidad Militar: estos son los principales compromisos para mejorar la atención - consultorsalud",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9IVlBSOW9IWnlsRmpJYkpsb24xcmNJNUNwQnFlWXlza1VOZmt5OXdwTm9FeTBpN2RhRVM4ZEs2S0FBX3B2aDVienhoemQtYTg0RXp3QUFBYWJUSFg4MWNHMlpaMjg5OUpvU1Jsdm92d2dBZEFsR2FmdQ?oc=5\" target=\"_blank\">Supersalud detecta fallas",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IVlBSOW9IWnlsRmpJYkpsb24xcmNJNUNwQnFlWXlza1VOZmt5OXdwTm9FeTBpN2RhRVM4ZEs2S0FBX3B2aDVienhoemQtYTg0RXp3QUFBYWJUSFg4MWNHMlpaMjg5OUpvU1Jsdm92d2dBZEFsR2FmdQ?oc=5",
+      "medio": "consultorsalud",
+      "fecha": "2026-11-26T14:04:21.000Z",
+      "imagen": "",
+      "tema": "Fomag"
     },
     {
       "titulo": "Supersalud fija 34 compromisos al Fomag y Sanidad Militar por fallas en atención",
@@ -45,24 +81,6 @@
       "medio": "Infobae",
       "fecha": "2026-11-26T08:44:00.000Z",
       "imagen": "",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "Cerca de 100 trabajadores de IPS completarían tres meses sin salario por retrasos en giros del FOMAG",
-      "resumen": "Cerca de 100 trabajadores de QSalud IPS completarían hasta tres meses sin salario por retrasos en los giros del FOMAG.",
-      "link": "https://elfrente.com.co/cerca-de-100-trabajadores-de-ips-completarian-tres-meses-sin-salario-por-retrasos-en-giros-del-fomag/",
-      "medio": "El Frente",
-      "fecha": "2026-11-26T07:28:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.xToglZEYTA5aoaFISveFZg&pid=News",
-      "tema": "Fomag"
-    },
-    {
-      "titulo": "Supersalud detecta fallas en FOMAG y Sanidad Militar: estos son los principales compromisos para mejorar la atención",
-      "resumen": "FOMAG y Sanidad Militar deberán cumplir 34 compromisos para garantizar mejor atención en salud, acceso a medicamentos y resolver reclamos.",
-      "link": "https://consultorsalud.com/supersalud-fallas-fomag-y-sanidad-militar/",
-      "medio": "CONSULTORSALUD",
-      "fecha": "2026-11-26T01:04:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.57jr4_6_NexC1Revtyxmlg&pid=News",
       "tema": "Fomag"
     },
     {
@@ -171,7 +189,7 @@
       "medio": "RED+ Noticias",
       "fecha": "2026-11-24T18:26:24.000Z",
       "imagen": "",
-      "tema": "Fomag"
+      "tema": "Fomag transición Fiduprevisora"
     },
     {
       "titulo": "Bloqueos hoy en Bogotá: protesta de maestros en la calle 72 genera desvíos en rutas del SITP - Minuto60",
@@ -300,15 +318,6 @@
       "tema": "salud del magisterio"
     },
     {
-      "titulo": "Pagos y formalización de contratos: las apuestas del Fomag para estabilizar la red de salud del magisterio en el Atlántico - ELHERALDO.CO",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPN2pRNEpFaXJSX1dBSTJXQzlFdEFsSWdpNUwtNU1BT2ZWT19kYVR1Qnh2SUxKbE9rTVM3Z055ak1tQlN6aE5yVkpISTU2bFpQaXczUXNOaXlZOXBrczdKZjVQNnptdFN4bXlIWkRGQU5EYTRmbVB4TkxfWEI5eVRtd2RWTkNCLXlZSXozUnlIN05nU3RjQldkZktvMl",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPN2pRNEpFaXJSX1dBSTJXQzlFdEFsSWdpNUwtNU1BT2ZWT19kYVR1Qnh2SUxKbE9rTVM3Z055ak1tQlN6aE5yVkpISTU2bFpQaXczUXNOaXlZOXBrczdKZjVQNnptdFN4bXlIWkRGQU5EYTRmbVB4TkxfWEI5eVRtd2RWTkNCLXlZSXozUnlIN05nU3RjQldkZktvMldLb0JaVGEwRTJpUnAwTVpMdFNfaGRMdTFoZWdlbzd0dHdrMkozUm9uVnpNVjFrYkNtXzgySW1BaUk4WGJzZE1MbnpRdXVmVDlzbG9falU5dmZHOG5xZXpTSExQa2hEWEViSl8yQ3ozdGR6Ykk0RDJ3V2c?oc=5",
-      "medio": "ELHERALDO.CO",
-      "fecha": "2026-11-19T21:55:21.000Z",
-      "imagen": "",
-      "tema": "Fomag"
-    },
-    {
       "titulo": "\"FECODE no votó ese cambio\": Ruth Fernández cuestiona el modelo de salud del magisterio - Blu Radio",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTk1MTQ5bjJwWkQzUTkzdzBjMkl4UDZEd2cyamNscmQ2RVlybzZyNmZnU1JfeXZYS0VLdzhrMmoyWnNyUkYwdE9iUVc2R3BrSFFsNlpmT1RfcE0xejlZbUhDc0RzejFnYTFlNnVUOVl5eFFhSUdjMDhmTHNabC1XV3VPTm5iR1FtQzU4Ylg5bHZ0c2xXaUduN254WT",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTk1MTQ5bjJwWkQzUTkzdzBjMkl4UDZEd2cyamNscmQ2RVlybzZyNmZnU1JfeXZYS0VLdzhrMmoyWnNyUkYwdE9iUVc2R3BrSFFsNlpmT1RfcE0xejlZbUhDc0RzejFnYTFlNnVUOVl5eFFhSUdjMDhmTHNabC1XV3VPTm5iR1FtQzU4Ylg5bHZ0c2xXaUduN254WTVkME1tVHp6MGMwZVgzeUVBMjNzT2s0MDNOei1hSGp1edIBygFBVV95cUxQM3N2VVVLTnB3eVBlZDExV2NyeHZLMzkzbGdfYmNrUFJfLVp5ZTR6S1FuWVQ0RjFXRjVIaXc2UmFfSTBvaWNRTGlnZXFNM1dUS2U0YWFkdlp2TFRpWjlZcmZFYklEV1pxRGYzSFZrMmJOVGNGVnhLU1FlcThjWk5Pa1pOUFJzd2w5TE9TdVpsSW9tZ3YzbDhYQ1ZEZzFMTXV5RDlFaUJ2MUFtYThqYWVwUk5EQlpTeVltWmx3clJtVGUtMGUyUzIzVWdn?oc=5",
@@ -334,6 +343,15 @@
       "fecha": "2026-11-19T11:46:13.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.7kEIhRIdTFc5hIAYJNABoA&pid=News",
       "tema": "salud del magisterio"
+    },
+    {
+      "titulo": "Pagos y formalización de contratos: las apuestas del Fomag para estabilizar la red de salud del magisterio en el Atlántico - ELHERALDO.CO",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPN2pRNEpFaXJSX1dBSTJXQzlFdEFsSWdpNUwtNU1BT2ZWT19kYVR1Qnh2SUxKbE9rTVM3Z055ak1tQlN6aE5yVkpISTU2bFpQaXczUXNOaXlZOXBrczdKZjVQNnptdFN4bXlIWkRGQU5EYTRmbVB4TkxfWEI5eVRtd2RWTkNCLXlZSXozUnlIN05nU3RjQldkZktvMl",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPN2pRNEpFaXJSX1dBSTJXQzlFdEFsSWdpNUwtNU1BT2ZWT19kYVR1Qnh2SUxKbE9rTVM3Z055ak1tQlN6aE5yVkpISTU2bFpQaXczUXNOaXlZOXBrczdKZjVQNnptdFN4bXlIWkRGQU5EYTRmbVB4TkxfWEI5eVRtd2RWTkNCLXlZSXozUnlIN05nU3RjQldkZktvMldLb0JaVGEwRTJpUnAwTVpMdFNfaGRMdTFoZWdlbzd0dHdrMkozUm9uVnpNVjFrYkNtXzgySW1BaUk4WGJzZE1MbnpRdXVmVDlzbG9falU5dmZHOG5xZXpTSExQa2hEWEViSl8yQ3ozdGR6Ykk0RDJ3V2c?oc=5",
+      "medio": "ELHERALDO.CO",
+      "fecha": "2026-11-19T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fomag"
     },
     {
       "titulo": "\"FECODE no votó ese cambio\": Rut Fernández cuestiona el modelo de salud del magisterio",
@@ -367,7 +385,7 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXFUajAzMGpFV0N2X2VOSkxlOE5MSkNmNGtUeWFELWZDVXZHcVd2cl95ZzJZNHo3R0ttd21HREhaWlVmUkdUVHc5SFU0MFhoRVozS2VSYy1MQkZBNEpjUExRRWstZG9GZm9OQ3NMeU1wdWtoLWlPME9JQVZjU1lYd1pmejBNNk83STdBcndLNC1WUFE4MFNKbFJxa1",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXFUajAzMGpFV0N2X2VOSkxlOE5MSkNmNGtUeWFELWZDVXZHcVd2cl95ZzJZNHo3R0ttd21HREhaWlVmUkdUVHc5SFU0MFhoRVozS2VSYy1MQkZBNEpjUExRRWstZG9GZm9OQ3NMeU1wdWtoLWlPME9JQVZjU1lYd1pmejBNNk83STdBcndLNC1WUFE4MFNKbFJxa1hXRjRZNFM4OVFlQ0VYaU5ydGg2WHQwVnQ1dk1PUDNSQTZTMGU?oc=5",
       "medio": "LA RAZÓN.CO",
-      "fecha": "2026-11-18T15:47:53.000Z",
+      "fecha": "2026-11-18T15:50:20.000Z",
       "imagen": "",
       "tema": "Fomag"
     },
@@ -597,20 +615,20 @@
       "tema": "Fomag"
     },
     {
+      "titulo": "Magisterio del Tolima advierte crisis en entrega de medicamentos y confirma paro para el 19 de noviembre - Ecos del Combeima",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPWF91bm5zSHR0ZFhNeHJQaGJZcHNGaUl3Tk1mWWt6SzQyTG41dFRBR0ZWUmdHSE1oUUlub1ljZ3E2Zkt1MVZCem9zLW52NWpuTURPMU43ajVwNmd0TVBNd2IySmFuUjZmR1hUM2x1MWZIVHR1WGF5ZlotSFYtR2Q3MFBJdG9UdndELW0ycnFXeGxfelhHUUtJMEE0MV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWF91bm5zSHR0ZFhNeHJQaGJZcHNGaUl3Tk1mWWt6SzQyTG41dFRBR0ZWUmdHSE1oUUlub1ljZ3E2Zkt1MVZCem9zLW52NWpuTURPMU43ajVwNmd0TVBNd2IySmFuUjZmR1hUM2x1MWZIVHR1WGF5ZlotSFYtR2Q3MFBJdG9UdndELW0ycnFXeGxfelhHUUtJMEE0MVF2MXhTbUltZG1oRWtnLVl5cklINjgzOWhjU2VlajVnOWVVQnM4LUFwVWc?oc=5",
+      "medio": "Ecos del Combeima",
+      "fecha": "2026-11-13T08:00:00.000Z",
+      "imagen": "",
+      "tema": "salud del magisterio"
+    },
+    {
       "titulo": "Congreso de Durango busca proteger la salud mental de los maestros con esta llamativa iniciativa - PostaMx",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUTVnY2tNM0k3SzJ6ZjNWQmRGcWt4VHU1RXZBUkNwVXRRaG92RjZqYUpmb1Z4dDhvcFBVYnpsaXVQMWlDRGV1Mk5PUXBjZ2FqRzgwdFVDNXBuU05fMWw0ZWduZmJoRkdfeW16YkFOREQwak5oeHA1X0dKcjJzZWhpeW9lbVdJS1NMeDRMVm1penJtOWxpbGFoazJLeV",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUTVnY2tNM0k3SzJ6ZjNWQmRGcWt4VHU1RXZBUkNwVXRRaG92RjZqYUpmb1Z4dDhvcFBVYnpsaXVQMWlDRGV1Mk5PUXBjZ2FqRzgwdFVDNXBuU05fMWw0ZWduZmJoRkdfeW16YkFOREQwak5oeHA1X0dKcjJzZWhpeW9lbVdJS1NMeDRMVm1penJtOWxpbGFoazJLeVh3cEdBNEtVOEV2ZE96U01HQnZZbHhLVWw0NnZrNWRRUVN6S0ZneWNCMUd4TkVKSnJiTWpaSzBjdG1B0gHbAUFVX3lxTFBKRUFRVUxlVEI2S2N3SWg5UTNlU1RtSkQ3dU9mR0pMMzY3T2pXNU9kazVBQk02TGpPMWhtbXFlV0xqb0ZJaklnSkVxLWVGU1ZDZUhpT01YSFh6Rlc2TmpsX1RTbXZpRVhxTWRlV1hSQ0V6bGtvNVlmZFlrVEZmWmdremhXbC1tWWNwMHFZZ1FaWlpUS3RkZVZGX2NzZE84dW5qTGZvdFNqNzI2RThVNUowd1hvMmZ5ZjBrS2o3NGlhZzZFWjVwSTBYeWRCN3pYRV9NTlVLaUJLQnoxUQ?oc=5",
       "medio": "PostaMx",
       "fecha": "2026-11-13T07:30:00.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Magisterio del Tolima advierte crisis en entrega de medicamentos y confirma paro para el 19 de noviembre",
-      "resumen": "Jessiel Melendro Vega, presidente de SUTET-SIMATOL, informó sobre los compromisos adquiridos en una reunión en Bogotá con representantes del FOMAG, FIDUPREVISORA y otros actores del sistema.",
-      "link": "https://www.ecosdelcombeima.com/index.php/tolima/nota-197797-magisterio-del-tolima-advierte-crisis-en-entrega-de-medicamentos-y-confirma-paro",
-      "medio": "ECOS INTERACTIVA",
-      "fecha": "2026-11-13T00:29:00.000Z",
       "imagen": "",
       "tema": "salud del magisterio"
     },
@@ -687,15 +705,6 @@
       "tema": "Fomag"
     },
     {
-      "titulo": "Fecode advierte sobre continuidad del servicio de salud tras liquidación del fideicomiso del FOMAG - BusinessCol.com",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbU",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3RVcGpHZlpHU3U5YWNFeGptR0FMbGRrc25MemozWjhNUDM2dWlRY1pLUV9MTVVZSktqMFRXa0xDVGJ3RlJIVjBFME0xampwLW1QbjZWWGhndUZiOWZZbnhFTkdSWWdkdXgxTGkzV0VXa2pfS082eERoUkdOd2tsdzFfN0l5dmJKQWx2dFA0N2dHTmV4bGpBVDhPbUc1ckNjTGdPejBHTm8zTk9FcHVYQkdEZnc1b0I3MkZsQnlGOFpHeEF0MUE?oc=5",
-      "medio": "BusinessCol.com",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Fecode Fomag"
-    },
-    {
       "titulo": "¿Qué está pasando con la salud de militares y maestros? Supersalud aumenta controles - Caracol Radio",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObm1oNUlNZHpkTi02YXZiclhlTU5GZWtqb0p1T2I1ckxmTjVPUmhYeGhndzFOeWgxUjJCc2Jpa3ZpNnJ5WDI1TmlDY2dxRDdmcHc3NjFIVlpTVHFXRTVld3BBYm1ELUtpY09vanJyMDJ6SEVoOUoteHh1aTd0NFNRelRVVG9PZmVaSFVVLWx5dEpLMXlzVGdVZVRJTE",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObm1oNUlNZHpkTi02YXZiclhlTU5GZWtqb0p1T2I1ckxmTjVPUmhYeGhndzFOeWgxUjJCc2Jpa3ZpNnJ5WDI1TmlDY2dxRDdmcHc3NjFIVlpTVHFXRTVld3BBYm1ELUtpY09vanJyMDJ6SEVoOUoteHh1aTd0NFNRelRVVG9PZmVaSFVVLWx5dEpLMXlzVGdVZVRJTEh4bldSRGozRGhwWDM4Q1d4NWZLM0JUekpsZ19k0gHMAUFVX3lxTE1zMW9Yd3kzVkFONUY2UFVOTW12MHNKTGdzYWxZdDFXbWl6VkxzZUVkcm54QTNNaFBNMWFnOFpBYzE3WGdCRkRLUU1EcEhkU084WXNvaXM3T1VpUTVyamIwcWhNVDZnSGdtR29VWlJzaFVjbDFoNWVnaFVYdmp2dUJSNjNUYnBNWnZVU0RleFotdTVDT0VURFBqTnd1SExLZzJWZmJjYnhtaXVxMTJZdENtWC1SOVFPb3J6M1BpMmVlYU9uMG1NNmJCVmZiSw?oc=5",
@@ -709,15 +718,6 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObWUtdFZYVy1LSlFhcUEtY0Z2eWJJZFhzNjFjMUhiMEtNQ01oSGQ4SktGZmhYbzh3d3NfWjdJMTdsSFRHQ0czNUMxSTB5R2ZDbF85NkJHZVdTclJfd1lHYXdvaW54a0RPcWF3TV9iZVR5RFh6S2twbTdlMTJsWnFJOWF6TGZCNGZHa3RfbUViUFIzWWRGTkx6SUxjb0",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObWUtdFZYVy1LSlFhcUEtY0Z2eWJJZFhzNjFjMUhiMEtNQ01oSGQ4SktGZmhYbzh3d3NfWjdJMTdsSFRHQ0czNUMxSTB5R2ZDbF85NkJHZVdTclJfd1lHYXdvaW54a0RPcWF3TV9iZVR5RFh6S2twbTdlMTJsWnFJOWF6TGZCNGZHa3RfbUViUFIzWWRGTkx6SUxjb096WmNiYmdNRHdfV3RTeUF3VkZoMU9OOVBsMDI5NVNlQVQ1LUVvNjdhNko0Y2NOQdIB2AFBVV95cUxNWm5wbmdpQmtRQmU3aTgtYklUZVF4VzJPZC1YakVHb1h0QldKU1hYSFZaWmg5WGhGc2tXYzR2dzNVbF9UbTFLSjkzbGRYeGZXWDFXUXZJbDBsOUZPVHFLZDRqYk1EWGN0a3hXWG9hcUtOeE9aUWM0REhVbTJOUzRoZVFwYy1mNzZ6cmdld3p2dzBVcDdHQzRCMDJWTEp1ZGpuRlFwaHRPa0FJNjFsY1c4eHp3LU1sVmlqTWlGVU9sMUpkUlpremQwZGREeGtEcTNFek9tM1VUZHE?oc=5",
       "medio": "Blu Radio",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "imagen": "",
-      "tema": "salud del magisterio"
-    },
-    {
-      "titulo": "Quejas de usuarios llevan a la Supersalud a reforzar controles sobre la salud de militares y docentes - La Patria",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTRfWkdFSzQwQlFYQ19RQmZ3YkRyWjBvSnFLRno4XzNua0ppbGRaY0ZRR3VSby1hRElLWk9nVDdSSnNCa1dJQnpWamtxZG0xSjNsTnlpZ2RQc19XbEl0VWFRSEx0eVk1OWY5ZGlZTldQUzFwVlloUGlIQnZCT2xJY2hYYzhzNkpEcUdRVHlVOWhMZEFWQ3RLVnZZSW",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTRfWkdFSzQwQlFYQ19RQmZ3YkRyWjBvSnFLRno4XzNua0ppbGRaY0ZRR3VSby1hRElLWk9nVDdSSnNCa1dJQnpWamtxZG0xSjNsTnlpZ2RQc19XbEl0VWFRSEx0eVk1OWY5ZGlZTldQUzFwVlloUGlIQnZCT2xJY2hYYzhzNkpEcUdRVHlVOWhMZEFWQ3RLVnZZSW1KdVdqMkhXRHU3UUdXR0l5WU95YUIxaU5xcTFvT0NZ?oc=5",
-      "medio": "La Patria",
       "fecha": "2026-11-12T08:00:00.000Z",
       "imagen": "",
       "tema": "salud del magisterio"
